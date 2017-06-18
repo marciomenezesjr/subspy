@@ -1,0 +1,11 @@
+DRC Net Shorts Error Report
+C:/svn_work/cc13xx/CC13xx_EM_Design/7x7/CC13xxEM-7XD-4251/Cadence/Allegro/CC13xxEM-7XD-4251.brd
+Mon Nov 23 13:58:55 2015
+
+DRC Error Count Summary
+DRC Error Type,DRC Error Count
+Total DRC Errors,0
+
+Detailed DRC Errors
+Constraint Name,DRC Marker Location,Required Value,Actual Value,Constraint Source,Constraint Source Type,Element 1,Element 2
+

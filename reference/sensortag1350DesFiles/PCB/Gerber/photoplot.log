@@ -1,0 +1,703 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : CC1350SensorTag.brd                           )
+(    Software Version : 16.6S019                                      )
+(    Date/Time        : Wed Nov 09 12:53:35 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+================================================================
+     PROCESSING FILM < paste_top >
+     TO FILE < C:/kht/work/CC13xx SensorTag/Manufacture/Cadence/Allegro/art/CC1350STK_paste_top.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     1.27000                                  DARK 
+  RECTANGLE  0.55000     x 0.75000       0.000 NO     DARK 
+  OBLONG     0.60000     x 1.05000      90.000 NO     DARK 
+  PAD SHAPE  SHAPE_320RECT360            0.000 NO     DARK 
+  PAD SHAPE  SHAPE_650RECT2300           0.000 NO     DARK 
+  PAD SHAPE  SHAPE_600RECTX1300          0.000 NO     DARK 
+  PAD SHAPE  SHAPE_800RECT1300           0.000 NO     DARK 
+  PAD SHAPE  SHAPE_1100RECT1800         90.000 NO     DARK 
+  PAD SHAPE  SHAPE_420RECT460           90.000 NO     DARK 
+  PAD SHAPE  SHAPE_700RECT1200          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_320RECT360           90.000 NO     DARK 
+  PAD SHAPE  SHAPE_640RECTX650         180.000 NO     DARK 
+  PAD SHAPE  SHAPE_2400RECT5000        180.000 NO     DARK 
+  PAD SHAPE  SHAPE_800RECT1300         180.000 NO     DARK 
+  PAD SHAPE  SHAPE_T1625CIR325_ETCHA   180.000 NO     DARK 
+  PAD SHAPE  SHAPE_640RECT650          270.000 NO     DARK 
+  PAD SHAPE  SHAPE_5500RECT7750        270.000 NO     DARK 
+  PAD SHAPE  SHAPE_1800RECT1900        270.000 NO     DARK 
+  PAD SHAPE  SHAPE_700RECT1200         270.000 NO     DARK 
+  PAD SHAPE  SHAPE_1100RECT1800        270.000 NO     DARK 
+  PAD SHAPE  SHAPE_400RECT1600         270.000 NO     DARK 
+  PAD SHAPE  SHAPE_320RECT360          270.000 NO     DARK 
+  PAD SHAPE  SHAPE_320RECT360          315.000 NO     DARK 
+
+     CC1350STK_paste_top created.
+
+
+================================================================
+     PROCESSING FILM < paste_bottom >
+     TO FILE < C:/kht/work/CC13xx SensorTag/Manufacture/Cadence/Allegro/art/CC1350STK_paste_bottom.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+  CIRCLE     1.27000                                  DARK 
+  SQUARE     0.40000                     0.000 NO     DARK 
+  SQUARE     5.25000                     0.000 NO     DARK 
+  RECTANGLE  0.30000     x 1.70000       0.000 NO     DARK 
+  RECTANGLE  0.75000     x 1.45000      90.000 NO     DARK 
+  RECTANGLE  1.60000     x 1.75000       0.000 NO     DARK 
+  OBLONG     0.25000     x 0.50000       0.000 NO     DARK 
+  OBLONG     0.30000     x 0.80000       0.000 NO     DARK 
+  OBLONG     0.30000     x 0.80000      90.000 NO     DARK 
+  PAD SHAPE  SHAPE_640RECT650            0.000 YES    DARK 
+  PAD SHAPE  SHAPE_400RECTX500           0.000 YES    DARK 
+  PAD SHAPE  SHAPE_950RECT1350           0.000 YES    DARK 
+  PAD SHAPE  SHAPE_540RECT550            0.000 YES    DARK 
+  PAD SHAPE  SHAPE_600X1700_ETCH         0.000 YES    DARK 
+  PAD SHAPE  SHAPE_1200RECT1400          0.000 YES    DARK 
+  PAD SHAPE  SHAPE_950RECTX1000          0.000 YES    DARK 
+  PAD SHAPE  SHAPE_420RECT460            0.000 YES    DARK 
+  PAD SHAPE  SHAPE_320RECT360            0.000 YES    DARK 
+  PAD SHAPE  SHAPE_640RECTX650           0.000 YES    DARK 
+  PAD SHAPE  SHAPE_500RECTX525          45.000 YES    DARK 
+  PAD SHAPE  SHAPE_420RECT460           90.000 YES    DARK 
+  PAD SHAPE  SHAPE_540RECT550           90.000 YES    DARK 
+  PAD SHAPE  SHAPE_640RECT650           90.000 YES    DARK 
+  PAD SHAPE  SHAPE_320RECT360           90.000 YES    DARK 
+  PAD SHAPE  SHAPE_750RECT900           90.000 YES    DARK 
+  PAD SHAPE  SHAPE_640RECTX650          90.000 YES    DARK 
+  PAD SHAPE  SHAPE_500RECTX525          90.000 YES    DARK 
+  PAD SHAPE  SHAPE_640RECTX650         135.000 YES    DARK 
+  PAD SHAPE  SHAPE_420RECT460          180.000 YES    DARK 
+  PAD SHAPE  SHAPE_540RECT550          180.000 YES    DARK 
+  PAD SHAPE  SHAPE_200RECT650          180.000 YES    DARK 
+  PAD SHAPE  SHAPE_750RECT750          180.000 YES    DARK 
+  PAD SHAPE  SHAPE_600X1700_ETCH       180.000 YES    DARK 
+  PAD SHAPE  SHAPE_640RECT650          180.000 YES    DARK 
+  PAD SHAPE  SHAPE_320RECT360          180.000 YES    DARK 
+  PAD SHAPE  SHAPE_1000RECT1800        180.000 YES    DARK 
+  PAD SHAPE  SHAPE_500RECTX525         225.000 YES    DARK 
+  PAD SHAPE  SHAPE_540RECT550          270.000 YES    DARK 
+  PAD SHAPE  SHAPE_640RECTX650         270.000 YES    DARK 
+  PAD SHAPE  SHAPE_750RECT900          270.000 YES    DARK 
+  PAD SHAPE  SHAPE_640RECT650          270.000 YES    DARK 
+  PAD SHAPE  SHAPE_320RECT360          270.000 YES    DARK 
+  PAD SHAPE  SHAPE_500RECTX525         270.000 YES    DARK 
+  PAD SHAPE  SHAPE_950RECTX1000        270.000 YES    DARK 
+  PAD SHAPE  SHAPE_420RECT460          270.000 YES    DARK 
+  PAD SHAPE  SHAPE_300RECTX500         270.000 YES    DARK 
+  PAD SHAPE  SHAPE_200RECT650          270.000 YES    DARK 
+  PAD SHAPE  SHAPE_540RECT550          315.000 YES    DARK 
+
+     CC1350STK_paste_bottom created.
+
+
+================================================================
+     PROCESSING FILM < soldmask_top >
+     TO FILE < C:/kht/work/CC13xx SensorTag/Manufacture/Cadence/Allegro/art/CC1350STK_soldmask_top.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.65000                                  DARK 
+  CIRCLE     0.70000                                  DARK 
+  CIRCLE     1.10000                                  DARK 
+  CIRCLE     1.42000                                  DARK 
+  RECTANGLE  0.65000     x 0.85000       0.000 NO     DARK 
+  OBLONG     0.75000     x 1.20000      90.000 NO     DARK 
+  OBLONG     2.15000     x 3.75000       0.000 NO     DARK 
+  PAD SHAPE  SHAPE_420RECT460            0.000 NO     DARK 
+  PAD SHAPE  SHAPE_750RECTX1450          0.000 NO     DARK 
+  PAD SHAPE  SHAPE_800RECT2450           0.000 NO     DARK 
+  PAD SHAPE  SHAPE_950RECT1450           0.000 NO     DARK 
+  PAD SHAPE  SHAPE_520RECT560           90.000 NO     DARK 
+  PAD SHAPE  SHAPE_1150RECT1850         90.000 NO     DARK 
+  PAD SHAPE  SHAPE_420RECT460           90.000 NO     DARK 
+  PAD SHAPE  SHAPE_850RECT1350          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_740RECTX750         180.000 NO     DARK 
+  PAD SHAPE  SHAPE_2550RECT5150        180.000 NO     DARK 
+  PAD SHAPE  SHAPE_T1625CIR325_SMA     180.000 NO     DARK 
+  PAD SHAPE  SHAPE_950RECT1450         180.000 NO     DARK 
+  PAD SHAPE  SHAPE_1950RECT2050        270.000 NO     DARK 
+  PAD SHAPE  SHAPE_420RECT460          270.000 NO     DARK 
+  PAD SHAPE  SHAPE_740RECT750          270.000 NO     DARK 
+  PAD SHAPE  SHAPE_5650RECT7900        270.000 NO     DARK 
+  PAD SHAPE  SHAPE_850RECT1350         270.000 NO     DARK 
+  PAD SHAPE  SHAPE_1150RECT1850        270.000 NO     DARK 
+  PAD SHAPE  SHAPE_500RECT1700         270.000 NO     DARK 
+  PAD SHAPE  SHAPE_420RECT460          315.000 NO     DARK 
+
+     CC1350STK_soldmask_top created.
+
+
+================================================================
+     PROCESSING FILM < soldmask_bottom >
+     TO FILE < C:/kht/work/CC13xx SensorTag/Manufacture/Cadence/Allegro/art/CC1350STK_soldmask_bottom.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.55000                                  DARK 
+  CIRCLE     0.70000                                  DARK 
+  CIRCLE     1.10000                                  DARK 
+  CIRCLE     1.42000                                  DARK 
+  SQUARE     0.50000                     0.000 NO     DARK 
+  SQUARE     1.15000                     0.000 NO     DARK 
+  SQUARE     5.40000                     0.000 NO     DARK 
+  RECTANGLE  0.45000     x 1.85000       0.000 NO     DARK 
+  RECTANGLE  0.90000     x 1.60000      90.000 NO     DARK 
+  RECTANGLE  1.75000     x 1.90000       0.000 NO     DARK 
+  OBLONG     0.40000     x 0.65000       0.000 NO     DARK 
+  OBLONG     0.40000     x 0.90000       0.000 NO     DARK 
+  OBLONG     0.40000     x 0.90000      90.000 NO     DARK 
+  OBLONG     2.15000     x 3.75000       0.000 NO     DARK 
+  PAD SHAPE  SHAPE_640RECT650            0.000 YES    DARK 
+  PAD SHAPE  SHAPE_420RECT460            0.000 YES    DARK 
+  PAD SHAPE  SHAPE_740RECT750            0.000 YES    DARK 
+  PAD SHAPE  SHAPE_1350RECT1550          0.000 YES    DARK 
+  PAD SHAPE  SHAPE_740RECTX750           0.000 YES    DARK 
+  PAD SHAPE  SHAPE_520RECT560            0.000 YES    DARK 
+  PAD SHAPE  SHAPE_550RECTX650           0.000 YES    DARK 
+  PAD SHAPE  SHAPE_1100RECT1500          0.000 YES    DARK 
+  PAD SHAPE  SHAPE_600X1700_SM           0.000 YES    DARK 
+  PAD SHAPE  SHAPE_1100RECTX1150         0.000 YES    DARK 
+  PAD SHAPE  SHAPE_650RECTX675          45.000 YES    DARK 
+  PAD SHAPE  SHAPE_740RECT750           90.000 YES    DARK 
+  PAD SHAPE  SHAPE_420RECT460           90.000 YES    DARK 
+  PAD SHAPE  SHAPE_650RECTX675          90.000 YES    DARK 
+  PAD SHAPE  SHAPE_900RECT1050          90.000 YES    DARK 
+  PAD SHAPE  SHAPE_640RECT650           90.000 YES    DARK 
+  PAD SHAPE  SHAPE_520RECT560           90.000 YES    DARK 
+  PAD SHAPE  SHAPE_740RECTX750          90.000 YES    DARK 
+  PAD SHAPE  SHAPE_740RECTX750         135.000 YES    DARK 
+  PAD SHAPE  SHAPE_420RECT460          180.000 YES    DARK 
+  PAD SHAPE  SHAPE_900RECT900          180.000 YES    DARK 
+  PAD SHAPE  SHAPE_300RECT750          180.000 YES    DARK 
+  PAD SHAPE  SHAPE_520RECT560          180.000 YES    DARK 
+  PAD SHAPE  SHAPE_1150RECT1950        180.000 YES    DARK 
+  PAD SHAPE  SHAPE_600X1700_SM         180.000 YES    DARK 
+  PAD SHAPE  SHAPE_640RECT650          180.000 YES    DARK 
+  PAD SHAPE  SHAPE_CIR475_OFFSET650X   180.000 NO     DARK 
+  PAD SHAPE  SHAPE_740RECT750          180.000 YES    DARK 
+  PAD SHAPE  SHAPE_650RECTX675         225.000 YES    DARK 
+  PAD SHAPE  SHAPE_420RECT460          270.000 YES    DARK 
+  PAD SHAPE  SHAPE_520RECT560          270.000 YES    DARK 
+  PAD SHAPE  SHAPE_740RECT750          270.000 YES    DARK 
+  PAD SHAPE  SHAPE_650RECTX675         270.000 YES    DARK 
+  PAD SHAPE  SHAPE_300RECT750          270.000 YES    DARK 
+  PAD SHAPE  SHAPE_900RECT1050         270.000 YES    DARK 
+  PAD SHAPE  SHAPE_640RECT650          270.000 YES    DARK 
+  PAD SHAPE  SHAPE_740RECTX750         270.000 YES    DARK 
+  PAD SHAPE  SHAPE_400RECTX600         270.000 YES    DARK 
+  PAD SHAPE  SHAPE_1100RECTX1150       270.000 YES    DARK 
+  PAD SHAPE  SHAPE_640RECT650          315.000 YES    DARK 
+
+     CC1350STK_soldmask_bottom created.
+
+
+================================================================
+     PROCESSING FILM < silk_top >
+     TO FILE < C:/kht/work/CC13xx SensorTag/Manufacture/Cadence/Allegro/art/CC1350STK_silk_top.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.02500                                  DARK 
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.10010                                  DARK 
+  CIRCLE     0.12500                                  DARK 
+  CIRCLE     0.14000                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+
+     CC1350STK_silk_top created.
+
+
+================================================================
+     PROCESSING FILM < silk_bottom >
+     TO FILE < C:/kht/work/CC13xx SensorTag/Manufacture/Cadence/Allegro/art/CC1350STK_silk_bottom.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.10010                                  DARK 
+
+     CC1350STK_silk_bottom created.
+
+
+================================================================
+     PROCESSING FILM < assembly_bottom >
+     TO FILE < C:/kht/work/CC13xx SensorTag/Manufacture/Cadence/Allegro/art/CC1350STK_assembly_bottom.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (2.1630 23.2480)
+           ... using undefined line width of 0.1000
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.1000
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.10000                                  DARK 
+
+     CC1350STK_assembly_bottom created with warnings
+
+
+================================================================
+     PROCESSING FILM < Layer1 >
+     TO FILE < C:/kht/work/CC13xx SensorTag/Manufacture/Cadence/Allegro/art/CC1350STK_Layer1.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.80000                                  DARK 
+  CIRCLE     1.27000                                  DARK 
+  RECTANGLE  0.55000     x 0.75000       0.000 NO     DARK 
+  OBLONG     0.02540     x 0.05080       0.000 NO     DARK 
+  OBLONG     0.60000     x 1.05000      90.000 NO     DARK 
+  OBLONG     2.00000     x 3.60000       0.000 NO     DARK 
+  PAD SHAPE  SHAPE_600RECTX1300          0.000 NO     DARK 
+  PAD SHAPE  SHAPE_800RECT1300           0.000 NO     DARK 
+  PAD SHAPE  SHAPE_320RECT360            0.000 NO     DARK 
+  PAD SHAPE  SHAPE_650RECT2300           0.000 NO     DARK 
+  PAD SHAPE  SHAPE_420RECT460           90.000 NO     DARK 
+  PAD SHAPE  SHAPE_700RECT1200          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_320RECT360           90.000 NO     DARK 
+  PAD SHAPE  SHAPE_1100RECT1800         90.000 NO     DARK 
+  PAD SHAPE  SHAPE_640RECTX650         180.000 NO     DARK 
+  PAD SHAPE  SHAPE_2400RECT5000        180.000 NO     DARK 
+  PAD SHAPE  SHAPE_800RECT1300         180.000 NO     DARK 
+  PAD SHAPE  SHAPE_T1625CIR325_ETCHA   180.000 NO     DARK 
+  PAD SHAPE  SHAPE_1100RECT1800        270.000 NO     DARK 
+  PAD SHAPE  SHAPE_320RECT360          270.000 NO     DARK 
+  PAD SHAPE  SHAPE_5500RECT7750        270.000 NO     DARK 
+  PAD SHAPE  SHAPE_640RECT650          270.000 NO     DARK 
+  PAD SHAPE  SHAPE_700RECT1200         270.000 NO     DARK 
+  PAD SHAPE  SHAPE_400RECT1600         270.000 NO     DARK 
+  PAD SHAPE  SHAPE_1800RECT1900        270.000 NO     DARK 
+  PAD SHAPE  SHAPE_320RECT360          315.000 NO     DARK 
+
+     CC1350STK_Layer1 created.
+
+
+================================================================
+     PROCESSING FILM < Layer4 >
+     TO FILE < C:/kht/work/CC13xx SensorTag/Manufacture/Cadence/Allegro/art/CC1350STK_Layer4.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.15300                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.80000                                  DARK 
+  CIRCLE     1.27000                                  DARK 
+  SQUARE     0.40000                     0.000 NO     DARK 
+  SQUARE     0.50000                     0.000 NO     DARK 
+  SQUARE     1.00000                     0.000 NO     DARK 
+  SQUARE     5.25000                     0.000 NO     DARK 
+  RECTANGLE  0.30000     x 1.70000       0.000 NO     DARK 
+  RECTANGLE  0.50000     x 0.90000      90.000 NO     DARK 
+  RECTANGLE  0.75000     x 1.45000      90.000 NO     DARK 
+  RECTANGLE  1.60000     x 1.75000       0.000 NO     DARK 
+  OBLONG     0.25000     x 0.50000       0.000 NO     DARK 
+  OBLONG     0.30000     x 0.80000       0.000 NO     DARK 
+  OBLONG     0.30000     x 0.80000      90.000 NO     DARK 
+  OBLONG     2.00000     x 3.60000       0.000 NO     DARK 
+  PAD SHAPE  SHAPE_640RECT650            0.000 YES    DARK 
+  PAD SHAPE  SHAPE_600X1700_ETCH         0.000 YES    DARK 
+  PAD SHAPE  SHAPE_1200RECT1400          0.000 YES    DARK 
+  PAD SHAPE  SHAPE_540RECT550            0.000 YES    DARK 
+  PAD SHAPE  SHAPE_950RECTX1000          0.000 YES    DARK 
+  PAD SHAPE  SHAPE_400RECTX500           0.000 YES    DARK 
+  PAD SHAPE  SHAPE_420RECT460            0.000 YES    DARK 
+  PAD SHAPE  SHAPE_950RECT1350           0.000 YES    DARK 
+  PAD SHAPE  SHAPE_640RECTX650           0.000 YES    DARK 
+  PAD SHAPE  SHAPE_320RECT360            0.000 YES    DARK 
+  PAD SHAPE  SHAPE_500RECTX525          45.000 YES    DARK 
+  PAD SHAPE  SHAPE_640RECT650           90.000 YES    DARK 
+  PAD SHAPE  SHAPE_10CIR10_OFFSET50X40  90.000 NO     DARK 
+  PAD SHAPE  SHAPE_420RECT460           90.000 YES    DARK 
+  PAD SHAPE  SHAPE_540RECT550           90.000 YES    DARK 
+  PAD SHAPE  SHAPE_320RECT360           90.000 YES    DARK 
+  PAD SHAPE  SHAPE_750RECT900           90.000 YES    DARK 
+  PAD SHAPE  SHAPE_640RECTX650          90.000 YES    DARK 
+  PAD SHAPE  SHAPE_500RECTX525          90.000 YES    DARK 
+  PAD SHAPE  SHAPE_10CIR10_OFFSET50X40  90.000 NO     DARK 
+  PAD SHAPE  SHAPE_640RECTX650         135.000 YES    DARK 
+  PAD SHAPE  SHAPE_540RECT550          180.000 YES    DARK 
+  PAD SHAPE  SHAPE_420RECT460          180.000 YES    DARK 
+  PAD SHAPE  SHAPE_1000RECT1800        180.000 YES    DARK 
+  PAD SHAPE  SHAPE_600X1700_ETCH       180.000 YES    DARK 
+  PAD SHAPE  SHAPE_640RECT650          180.000 YES    DARK 
+  PAD SHAPE  SHAPE_320RECT360          180.000 YES    DARK 
+  PAD SHAPE  SHAPE_10CIR10_OFFSET650X  180.000 NO     DARK 
+  PAD SHAPE  SHAPE_750RECT750          180.000 YES    DARK 
+  PAD SHAPE  SHAPE_200RECT650          180.000 YES    DARK 
+  PAD SHAPE  SHAPE_500RECTX525         225.000 YES    DARK 
+  PAD SHAPE  SHAPE_200RECT650          270.000 YES    DARK 
+  PAD SHAPE  SHAPE_540RECT550          270.000 YES    DARK 
+  PAD SHAPE  SHAPE_320RECT360          270.000 YES    DARK 
+  PAD SHAPE  SHAPE_640RECT650          270.000 YES    DARK 
+  PAD SHAPE  SHAPE_500RECTX525         270.000 YES    DARK 
+  PAD SHAPE  SHAPE_420RECT460          270.000 YES    DARK 
+  PAD SHAPE  SHAPE_750RECT900          270.000 YES    DARK 
+  PAD SHAPE  SHAPE_950RECTX1000        270.000 YES    DARK 
+  PAD SHAPE  SHAPE_300RECTX500         270.000 YES    DARK 
+  PAD SHAPE  SHAPE_640RECTX650         270.000 YES    DARK 
+  PAD SHAPE  SHAPE_10CIR10_OFFSET50X40 270.000 NO     DARK 
+  PAD SHAPE  SHAPE_10CIR10_OFFSET50X40 270.000 NO     DARK 
+  PAD SHAPE  SHAPE_540RECT550          315.000 YES    DARK 
+
+     CC1350STK_Layer4 created.
+
+
+================================================================
+     PROCESSING FILM < assembly_top >
+     TO FILE < C:/kht/work/CC13xx SensorTag/Manufacture/Cadence/Allegro/art/CC1350STK_assembly_top.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.02500                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.13000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+
+     CC1350STK_assembly_top created.
+
+
+================================================================
+     PROCESSING FILM < mech_drawing >
+     TO FILE < C:/kht/work/CC13xx SensorTag/Manufacture/Cadence/Allegro/art/CC1350STK_mech_drawing.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (38.6364 81.9023)
+           ... using undefined line width of 0.1000
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.1000
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.10010                                  DARK 
+
+     CC1350STK_mech_drawing created with warnings
+
+
+================================================================
+     PROCESSING FILM < Layer2 >
+     TO FILE < C:/kht/work/CC13xx SensorTag/Manufacture/Cadence/Allegro/art/CC1350STK_Layer2.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: rectangle or unfilled shape composed 0 width line found at (0.0000 0.0000)
+           ... ignored.
+
+    WARNING: rectangle or unfilled shape having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.15300                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.80000                                  DARK 
+  OBLONG     2.00000     x 3.60000       0.000 NO     DARK 
+  PAD SHAPE  SHAPE_10CIR10_OFFSET50X40  90.000 NO     DARK 
+  PAD SHAPE  SHAPE_10CIR10_OFFSET50X40  90.000 NO     DARK 
+  PAD SHAPE  SHAPE_10CIR10_OFFSET50X40 270.000 NO     DARK 
+  PAD SHAPE  SHAPE_10CIR10_OFFSET50X40 270.000 NO     DARK 
+
+     CC1350STK_Layer2 created with warnings
+
+
+================================================================
+     PROCESSING FILM < Layer3 >
+     TO FILE < C:/kht/work/CC13xx SensorTag/Manufacture/Cadence/Allegro/art/CC1350STK_Layer3.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.80000                                  DARK 
+  OBLONG     2.00000     x 3.60000       0.000 NO     DARK 
+  PAD SHAPE  SHAPE_10CIR10_OFFSET50X40  90.000 NO     DARK 
+  PAD SHAPE  SHAPE_10CIR10_OFFSET50X40  90.000 NO     DARK 
+  PAD SHAPE  SHAPE_10CIR10_OFFSET50X40 270.000 NO     DARK 
+  PAD SHAPE  SHAPE_10CIR10_OFFSET50X40 270.000 NO     DARK 
+
+     CC1350STK_Layer3 created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        CC1350STK_paste_top created.
+        CC1350STK_paste_bottom created.
+        CC1350STK_soldmask_top created.
+        CC1350STK_soldmask_bottom created.
+        CC1350STK_silk_top created.
+        CC1350STK_silk_bottom created.
+        CC1350STK_assembly_bottom created with warnings
+        CC1350STK_Layer1 created.
+        CC1350STK_Layer4 created.
+        CC1350STK_assembly_top created.
+        CC1350STK_mech_drawing created with warnings
+        CC1350STK_Layer2 created with warnings
+        CC1350STK_Layer3 created.
+
+ ARTWORK had warnings

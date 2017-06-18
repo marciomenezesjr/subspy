@@ -1,0 +1,17 @@
+Waived DRC Error Report
+C:/svn_work/cc13xx/CC13xx_EM_Design/7x7/CC13xxEM-7XD-4251/Cadence/Allegro/CC13xxEM-7XD-4251.brd
+Mon Nov 23 13:58:56 2015
+
+DRC Error Count Summary
+DRC Error Type,DRC Error Count
+Package to Package,1
+Etch to Pad,1
+Etch to Etch,1
+Total DRC Errors,3
+
+Detailed DRC Errors
+Constraint Name,DRC Marker Location,Required Value,Actual Value,Constraint Source,Constraint Source Type,Element 1,Element 2,Comment
+Package to Package Spacing,(131.323 120.950),0 MM,0.6 MM,NONE,DESIGN,"Shape "C16, Package Geometry/Place_Bound_Top"","Shape "C15, Package Geometry/Place_Bound_Top"",SMA-Antenna selctor capacitor
+Shape to SMD Pin Spacing,(104.680 128.195),0.15 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,"Shape "Dummy Net, Etch/Top"",Pin "A1.1 (N485535)",PCB antenna
+Line to Shape Spacing,(105.180 127.695),0.15 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,"Shape "Dummy Net, Etch/Top"","Vertical Line Segment "N485535, Etch/Top"",PCB antenna
+

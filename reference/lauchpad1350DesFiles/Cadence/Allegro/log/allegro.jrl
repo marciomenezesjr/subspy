@@ -1,0 +1,23 @@
+\t (00:00:00) allegro 16.6 S019 (v16-6-112BG) Windows 32
+\t (00:00:00)     Journal start - Fri Mar 11 09:33:04 2016
+\t (00:00:00)         Host=LTA0190588A User=a0190588 Pid=6692 CPUs=4
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Database opened: C:/kht/work/CC1350_launchpad/LAUNCHXL-CC1350_1_0_0/LAUNCHXL-CC1350_1_0_0_Cadence/Allegro/LAUNCHXL-CC1350.brd
+\i (00:00:06) trapsize 2477
+\i (00:00:06) trapsize 2369
+\i (00:00:06) trapsize 2495
+\i (00:00:06) trapsize 2542
+\i (00:00:06) trapsize 2840
+\i (00:00:07) generaledit 
+\i (00:00:09) trapsize 1868
+\i (00:00:33) setwindow form.vf_vis
+\i (00:00:33) FORM vf_vis colorview_list Film: Top 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) open 
+\i (00:01:05) fillin "C:\kht\work\Solar\Manufacture\Cadence\Allegro\DevPack_Solar.brd"
+\i (00:01:05) cd "C:\kht\work\Solar\Manufacture\Cadence\Allegro"
+\t (00:01:05) Opening existing design...
+\i (00:01:05) trapsize 64433
+\t (00:01:05)     Journal end - Fri Mar 11 09:34:10 2016

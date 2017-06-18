@@ -1,0 +1,422 @@
+\t (00:01:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:01:00)     Journal start - Sun May 14 21:57:30 2017
+\t (00:01:00)         Host=F90 User=marcio Pid=12904 CPUs=8
+\t (00:01:00) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:01:00) 
+\d (00:01:00) Design opened: C:/Users/marcio/Desktop/phoenix/Projects/SubSpy/reference/lauchpad1350_433MHz_DesFiles/Cadence/LAUNCHXL-CC1350-433.brd
+\i (00:01:01) generaledit 
+\i (00:01:02) zoom in 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom in 8014.5 10938.4
+\t (00:01:02) Grids are drawn 32.0, 32.0 apart for enhanced viewability.
+\i (00:01:02) trapsize 314
+\i (00:01:02) zoom in 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom in 8165.4 11240.2
+\t (00:01:02) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:01:02) trapsize 157
+\i (00:01:02) zoom in 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom in 8168.5 11246.5
+\t (00:01:02) Grids are drawn 8.0, 8.0 apart for enhanced viewability.
+\i (00:01:02) trapsize 79
+\i (00:01:03) zoom in 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom in 8160.7 11339.3
+\t (00:01:03) Grids are drawn 4.0, 4.0 apart for enhanced viewability.
+\i (00:01:03) trapsize 39
+\i (00:01:03) zoom out 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom out 8167.8 11342.5
+\t (00:01:03) Grids are drawn 8.0, 8.0 apart for enhanced viewability.
+\i (00:01:03) trapsize 79
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out 8167.8 11342.4
+\t (00:01:04) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:01:04) trapsize 157
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out 8167.7 11342.4
+\t (00:01:04) Grids are drawn 32.0, 32.0 apart for enhanced viewability.
+\i (00:01:04) trapsize 314
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out 8475.9 12040.5
+\t (00:01:04) Grids are drawn 64.0, 64.0 apart for enhanced viewability.
+\i (00:01:04) trapsize 629
+\i (00:01:04) zoom in 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom in 8626.9 11474.6
+\t (00:01:04) Grids are drawn 32.0, 32.0 apart for enhanced viewability.
+\i (00:01:04) trapsize 314
+\i (00:01:05) zoom in 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom in 8608.0 11537.5
+\t (00:01:05) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:01:05) trapsize 157
+\i (00:01:05) zoom in 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom in 8586.0 11565.8
+\t (00:01:05) Grids are drawn 8.0, 8.0 apart for enhanced viewability.
+\i (00:01:05) trapsize 79
+\i (00:01:05) zoom in 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom in 8487.0 11570.6
+\t (00:01:05) Grids are drawn 4.0, 4.0 apart for enhanced viewability.
+\i (00:01:05) trapsize 39
+\i (00:01:07) zoom out 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom out 8420.2 11488.1
+\t (00:01:07) Grids are drawn 8.0, 8.0 apart for enhanced viewability.
+\i (00:01:07) trapsize 79
+\i (00:01:08) zoom in 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom in 8090.1 11466.1
+\t (00:01:08) Grids are drawn 4.0, 4.0 apart for enhanced viewability.
+\i (00:01:08) trapsize 39
+\i (00:01:09) zoom in 1 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) zoom in 8135.0 11451.1
+\t (00:01:09) Grids are drawn 2.0, 2.0 apart for enhanced viewability.
+\i (00:01:09) trapsize 20
+\i (00:01:11) zoom out 1 
+\i (00:01:11) setwindow pcb
+\i (00:01:11) zoom out 8147.2 11457.8
+\t (00:01:11) Grids are drawn 4.0, 4.0 apart for enhanced viewability.
+\i (00:01:11) trapsize 39
+\i (00:01:12) zoom in 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom in 8175.3 11610.3
+\t (00:01:12) Grids are drawn 2.0, 2.0 apart for enhanced viewability.
+\i (00:01:12) trapsize 20
+\i (00:01:16) prepopup 8213.8 11444.1
+\i (00:01:17) pick grid 8224.0 11455.9
+\t (00:01:17) last pick:  8224.0 11456.0
+\i (00:01:17) pick grid 8224.0 11456.3
+\t (00:01:17) last pick:  8224.0 11456.0
+\i (00:01:20) shape select 
+\i (00:01:21) pick grid 8176.5 11513.3
+\t (00:01:21) last pick:  8177.0 11513.0
+\t (00:01:21) Cannot edit Shape "Package Geometry/Assembly_Top". Symbol "J6" has the FIXED property.
+\t (00:01:21) Cannot edit Filled Rectangle "J6, Package Geometry/Dfa_Bound_Top". Symbol "J6" has the FIXED property.
+\t (00:01:21) Cannot edit Shape "J6, Package Geometry/Place_Bound_Top". Symbol "J6" has the FIXED property.
+\t (00:01:21) Cannot edit Shape "J6, Package Geometry/Place_Bound_Top". Symbol "J6" has the FIXED property.
+\i (00:01:24) pick grid 8286.1 11534.5
+\t (00:01:24) last pick:  8286.0 11535.0
+\t (00:01:24) Cannot edit Filled Rectangle "J6, Package Geometry/Dfa_Bound_Top". Symbol "J6" has the FIXED property.
+\w (00:01:24) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:01:25) pick grid 8274.3 11423.3
+\t (00:01:25) last pick:  8274.0 11423.0
+\t (00:01:25) Cannot edit Filled Rectangle "J6, Package Geometry/Dfa_Bound_Top". Symbol "J6" has the FIXED property.
+\w (00:01:25) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:01:26) pick grid 8271.6 11407.1
+\t (00:01:26) last pick:  8272.0 11407.0
+\t (00:01:26) Cannot edit Arc Segment "Package Geometry/Place_Top". Symbol "J6" has the FIXED property.
+\t (00:01:26) Cannot edit Shape "Package Geometry/Assembly_Top". Symbol "J6" has the FIXED property.
+\t (00:01:26) Cannot edit Shape "Package Geometry/Assembly_Top". Symbol "J6" has the FIXED property.
+\t (00:01:26) Cannot edit Filled Rectangle "J6, Package Geometry/Dfa_Bound_Top". Symbol "J6" has the FIXED property.
+\t (00:01:26) Cannot edit Shape "J6, Package Geometry/Place_Bound_Top". Symbol "J6" has the FIXED property.
+\t (00:01:26) Cannot edit Shape "J6, Package Geometry/Place_Bound_Top". Symbol "J6" has the FIXED property.
+\t (00:01:26) Cannot edit Shape "J6, Package Geometry/Place_Bound_Top". Symbol "J6" has the FIXED property.
+\t (00:01:26) Cannot edit Line "Package Geometry/Assembly_Top". Symbol "J6" has the FIXED property.
+\w (00:01:26) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:01:27) pick grid 8270.0 11372.6
+\t (00:01:27) last pick:  8270.0 11373.0
+\w (00:01:27) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:01:28) pick grid 8300.3 11410.3
+\t (00:01:28) last pick:  8300.0 11410.0
+\t (00:01:28) Cannot edit Shape "Package Geometry/Assembly_Top". Symbol "J6" has the FIXED property.
+\t (00:01:28) Cannot edit Filled Rectangle "J6, Package Geometry/Dfa_Bound_Top". Symbol "J6" has the FIXED property.
+\t (00:01:28) Cannot edit Shape "J6, Package Geometry/Place_Bound_Top". Symbol "J6" has the FIXED property.
+\t (00:01:28) Cannot edit Shape "J6, Package Geometry/Place_Bound_Top". Symbol "J6" has the FIXED property.
+\t (00:01:28) Cannot edit Shape "J6, Package Geometry/Place_Bound_Top". Symbol "J6" has the FIXED property.
+\t (00:01:28) Cannot edit Line "Package Geometry/Assembly_Top". Symbol "J6" has the FIXED property.
+\w (00:01:28) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:01:28) zoom in 1 
+\i (00:01:28) setwindow pcb
+\i (00:01:28) zoom in 8291.6 11433.9
+\i (00:01:28) trapsize 10
+\i (00:01:29) zoom in 1 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) zoom in 8291.6 11433.9
+\i (00:01:29) trapsize 5
+\i (00:01:29) zoom in 1 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) zoom in 8291.5 11433.8
+\i (00:01:29) trapsize 2
+\i (00:01:29) zoom out 1 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom out 8294.2 11434.2
+\i (00:01:30) trapsize 5
+\i (00:01:30) zoom out 1 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom out 8294.1 11434.1
+\i (00:01:30) trapsize 10
+\i (00:01:32) pick grid 8245.2 11449.5
+\t (00:01:32) last pick:  8245.0 11450.0
+\t (00:01:32) Cannot edit Filled Rectangle "J6, Package Geometry/Dfa_Bound_Top". Symbol "J6" has the FIXED property.
+\t (00:01:32) Cannot edit Line "Package Geometry/Assembly_Top". Symbol "J6" has the FIXED property.
+\w (00:01:32) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:01:42) QtSignal CVPLayerGrid CVPBoxAllL2 clicked false
+\i (00:01:42) QtSignal CVPLayerGrid CVPBoxAllL3 clicked false
+\i (00:01:44) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (00:01:50) pick grid 8290.1 11496.5
+\t (00:01:50) last pick:  8290.0 11497.0
+\t (00:01:50) Cannot edit Filled Rectangle "J6, Package Geometry/Dfa_Bound_Top". Symbol "J6" has the FIXED property.
+\w (00:01:50) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:01:50) pick grid 8233.4 11454.6
+\t (00:01:50) last pick:  8233.0 11455.0
+\t (00:01:50) Cannot edit Filled Rectangle "J6, Package Geometry/Dfa_Bound_Top". Symbol "J6" has the FIXED property.
+\w (00:01:50) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:01:52) shape select 
+\i (00:01:53) pick grid 8230.3 11460.3
+\t (00:01:53) last pick:  8230.0 11460.0
+\t (00:01:53) Cannot edit Filled Rectangle "J6, Package Geometry/Dfa_Bound_Top". Symbol "J6" has the FIXED property.
+\t (00:01:53) Cannot edit Shape "J6, Package Geometry/Place_Bound_Top". Symbol "J6" has the FIXED property.
+\i (00:01:55) pick grid 8231.1 11457.6
+\t (00:01:55) last pick:  8231.0 11458.0
+\t (00:01:55) Cannot edit Filled Rectangle "J6, Package Geometry/Dfa_Bound_Top". Symbol "J6" has the FIXED property.
+\w (00:01:55) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:01:56) pick grid 8239.5 11434.2
+\t (00:01:56) last pick:  8240.0 11434.0
+\t (00:01:56) Cannot edit Filled Rectangle "J6, Package Geometry/Dfa_Bound_Top". Symbol "J6" has the FIXED property.
+\w (00:01:56) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:01:59) shape select 
+\i (00:02:04) fix 
+\t (00:02:04) Adjust find filter then select an element or group of elements.
+\i (00:02:05) pick grid 8234.4 11459.4
+\t (00:02:05) last pick:  8234.0 11459.0
+\i (00:02:07) undo 
+\i (00:02:07) trapsize 10
+\i (00:02:07) generaledit 
+\i (00:02:13) zoom out 1 
+\i (00:02:13) setwindow pcb
+\i (00:02:13) zoom out 8280.6 11524.8
+\i (00:02:13) trapsize 20
+\i (00:02:13) zoom out 1 
+\i (00:02:13) setwindow pcb
+\i (00:02:13) zoom out 8283.0 11520.1
+\t (00:02:13) Grids are drawn 4.0, 4.0 apart for enhanced viewability.
+\i (00:02:13) trapsize 39
+\i (00:02:13) zoom out 1 
+\i (00:02:13) setwindow pcb
+\i (00:02:13) zoom out 8291.7 11491.1
+\t (00:02:13) Grids are drawn 8.0, 8.0 apart for enhanced viewability.
+\i (00:02:13) trapsize 79
+\i (00:02:13) zoom out 1 
+\i (00:02:13) setwindow pcb
+\i (00:02:13) zoom out 8312.2 11426.7
+\t (00:02:13) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:02:13) trapsize 157
+\i (00:02:13) zoom out 1 
+\i (00:02:13) setwindow pcb
+\i (00:02:13) zoom out 8312.2 11426.7
+\t (00:02:13) Grids are drawn 32.0, 32.0 apart for enhanced viewability.
+\i (00:02:13) trapsize 315
+\i (00:02:14) zoom in 1 
+\i (00:02:14) setwindow pcb
+\i (00:02:14) zoom in 8318.5 11716.1
+\t (00:02:14) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:02:14) trapsize 157
+\i (00:02:14) zoom in 1 
+\i (00:02:15) setwindow pcb
+\i (00:02:15) zoom in 8321.7 11716.1
+\t (00:02:15) Grids are drawn 8.0, 8.0 apart for enhanced viewability.
+\i (00:02:15) trapsize 79
+\i (00:02:15) zoom in 1 
+\i (00:02:15) setwindow pcb
+\i (00:02:15) zoom in 8321.7 11716.1
+\t (00:02:15) Grids are drawn 4.0, 4.0 apart for enhanced viewability.
+\i (00:02:15) trapsize 39
+\i (00:02:15) zoom in 1 
+\i (00:02:15) setwindow pcb
+\i (00:02:15) zoom in 8324.1 11723.2
+\t (00:02:15) Grids are drawn 2.0, 2.0 apart for enhanced viewability.
+\i (00:02:15) trapsize 20
+\i (00:02:15) zoom in 1 
+\i (00:02:15) setwindow pcb
+\i (00:02:15) zoom in 8328.8 11701.2
+\i (00:02:15) trapsize 10
+\i (00:02:15) zoom out 1 
+\i (00:02:15) setwindow pcb
+\i (00:02:15) zoom out 8334.4 11687.7
+\i (00:02:15) trapsize 20
+\i (00:02:16) zoom out 1 
+\i (00:02:16) setwindow pcb
+\i (00:02:16) zoom out 8334.4 11687.6
+\t (00:02:16) Grids are drawn 4.0, 4.0 apart for enhanced viewability.
+\i (00:02:16) trapsize 39
+\i (00:02:18) zoom in 1 
+\i (00:02:18) setwindow pcb
+\i (00:02:18) zoom in 8124.4 11464.4
+\t (00:02:18) Grids are drawn 2.0, 2.0 apart for enhanced viewability.
+\i (00:02:18) trapsize 20
+\i (00:02:25) zoom out 1 
+\i (00:02:25) setwindow pcb
+\i (00:02:25) zoom out 8202.2 11417.6
+\t (00:02:25) Grids are drawn 4.0, 4.0 apart for enhanced viewability.
+\i (00:02:25) trapsize 39
+\i (00:02:26) zoom in 1 
+\i (00:02:26) setwindow pcb
+\i (00:02:26) zoom in 8323.4 11356.2
+\t (00:02:26) Grids are drawn 2.0, 2.0 apart for enhanced viewability.
+\i (00:02:26) trapsize 20
+\i (00:02:31) prepopup 8293.5 11529.6
+\i (00:02:35) Esc 
+\i (00:04:11) setwindow form.find
+\i (00:04:11) FORM find nets YES 
+\i (00:04:32) setwindow pcb
+\i (00:04:32) zoom out 1 
+\i (00:04:32) setwindow pcb
+\i (00:04:32) zoom out 8369.8 11427.8
+\t (00:04:32) Grids are drawn 4.0, 4.0 apart for enhanced viewability.
+\i (00:04:32) trapsize 39
+\i (00:04:33) zoom out 1 
+\i (00:04:33) setwindow pcb
+\i (00:04:33) zoom out 8369.8 11427.8
+\t (00:04:33) Grids are drawn 8.0, 8.0 apart for enhanced viewability.
+\i (00:04:33) trapsize 79
+\i (00:04:33) zoom out 1 
+\i (00:04:33) setwindow pcb
+\i (00:04:33) zoom out 8369.9 11427.7
+\t (00:04:33) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:04:33) trapsize 157
+\i (00:04:33) zoom out 1 
+\i (00:04:33) setwindow pcb
+\i (00:04:33) zoom out 8369.8 11427.8
+\t (00:04:33) Grids are drawn 32.0, 32.0 apart for enhanced viewability.
+\i (00:04:33) trapsize 315
+\i (00:04:33) zoom out 1 
+\i (00:04:33) setwindow pcb
+\i (00:04:33) zoom out 8369.7 11427.7
+\t (00:04:33) Grids are drawn 64.0, 64.0 apart for enhanced viewability.
+\i (00:04:33) trapsize 629
+\i (00:04:34) zoom in 1 
+\i (00:04:34) setwindow pcb
+\i (00:04:34) zoom in 8269.1 9942.7
+\t (00:04:34) Grids are drawn 32.0, 32.0 apart for enhanced viewability.
+\i (00:04:34) trapsize 315
+\i (00:04:34) zoom in 1 
+\i (00:04:34) setwindow pcb
+\i (00:04:34) zoom in 8420.1 10307.7
+\t (00:04:34) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:04:34) trapsize 157
+\i (00:04:34) zoom in 1 
+\i (00:04:34) setwindow pcb
+\i (00:04:34) zoom in 8520.8 10546.8
+\t (00:04:34) Grids are drawn 8.0, 8.0 apart for enhanced viewability.
+\i (00:04:34) trapsize 79
+\i (00:04:34) zoom in 1 
+\i (00:04:34) setwindow pcb
+\i (00:04:34) zoom in 8523.9 10553.1
+\t (00:04:34) Grids are drawn 4.0, 4.0 apart for enhanced viewability.
+\i (00:04:34) trapsize 39
+\i (00:04:34) zoom in 1 
+\i (00:04:34) setwindow pcb
+\i (00:04:34) zoom in 8519.2 10557.8
+\t (00:04:34) Grids are drawn 2.0, 2.0 apart for enhanced viewability.
+\i (00:04:34) trapsize 20
+\i (00:04:35) zoom in 1 
+\i (00:04:35) setwindow pcb
+\i (00:04:35) zoom in 8477.5 10585.3
+\i (00:04:35) trapsize 10
+\i (00:04:35) zoom out 1 
+\i (00:04:35) setwindow pcb
+\i (00:04:35) zoom out 8478.9 10595.0
+\i (00:04:35) trapsize 20
+\i (00:04:35) zoom out 1 
+\i (00:04:35) setwindow pcb
+\i (00:04:35) zoom out 8478.9 10595.0
+\t (00:04:35) Grids are drawn 4.0, 4.0 apart for enhanced viewability.
+\i (00:04:35) trapsize 39
+\i (00:04:35) zoom out 1 
+\i (00:04:35) setwindow pcb
+\i (00:04:35) zoom out 8478.9 10595.0
+\t (00:04:35) Grids are drawn 8.0, 8.0 apart for enhanced viewability.
+\i (00:04:35) trapsize 79
+\i (00:04:36) zoom out 1 
+\i (00:04:36) setwindow pcb
+\i (00:04:36) zoom out 8480.4 10595.0
+\t (00:04:36) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:04:36) trapsize 157
+\i (00:04:36) zoom out 1 
+\i (00:04:36) setwindow pcb
+\i (00:04:36) zoom out 8480.4 10595.0
+\t (00:04:36) Grids are drawn 32.0, 32.0 apart for enhanced viewability.
+\i (00:04:36) trapsize 315
+\i (00:04:37) zoom in 1 
+\i (00:04:37) setwindow pcb
+\i (00:04:37) zoom in 8719.4 11085.9
+\t (00:04:37) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:04:37) trapsize 157
+\i (00:04:37) zoom in 1 
+\i (00:04:37) setwindow pcb
+\i (00:04:37) zoom in 8719.4 11085.9
+\t (00:04:37) Grids are drawn 8.0, 8.0 apart for enhanced viewability.
+\i (00:04:37) trapsize 79
+\i (00:04:37) zoom in 1 
+\i (00:04:37) setwindow pcb
+\i (00:04:37) zoom in 8719.4 11085.9
+\t (00:04:37) Grids are drawn 4.0, 4.0 apart for enhanced viewability.
+\i (00:04:37) trapsize 39
+\i (00:04:39) zoom out 1 
+\i (00:04:39) setwindow pcb
+\i (00:04:39) zoom out 8330.1 11130.8
+\t (00:04:39) Grids are drawn 8.0, 8.0 apart for enhanced viewability.
+\i (00:04:39) trapsize 79
+\i (00:04:51) zoom out 1 
+\i (00:04:51) setwindow pcb
+\i (00:04:51) zoom out 8396.2 11226.7
+\t (00:04:51) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:04:51) trapsize 157
+\i (00:04:52) zoom out 1 
+\i (00:04:52) setwindow pcb
+\i (00:04:52) zoom out 8396.1 11214.2
+\t (00:04:52) Grids are drawn 32.0, 32.0 apart for enhanced viewability.
+\i (00:04:52) trapsize 315
+\i (00:04:52) zoom in 1 
+\i (00:04:52) setwindow pcb
+\i (00:04:52) zoom in 8289.2 11516.2
+\t (00:04:52) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:04:52) trapsize 157
+\i (00:04:53) zoom in 1 
+\i (00:04:53) setwindow pcb
+\i (00:04:53) zoom in 8295.5 11503.6
+\t (00:04:53) Grids are drawn 8.0, 8.0 apart for enhanced viewability.
+\i (00:04:53) trapsize 79
+\i (00:04:53) zoom in 1 
+\i (00:04:53) setwindow pcb
+\i (00:04:53) zoom in 8278.2 11555.6
+\t (00:04:53) Grids are drawn 4.0, 4.0 apart for enhanced viewability.
+\i (00:04:53) trapsize 39
+\i (00:04:53) zoom in 1 
+\i (00:04:53) setwindow pcb
+\i (00:04:53) zoom in 8278.2 11556.4
+\t (00:04:53) Grids are drawn 2.0, 2.0 apart for enhanced viewability.
+\i (00:04:53) trapsize 20
+\i (00:04:53) zoom in 1 
+\i (00:04:53) setwindow pcb
+\i (00:04:53) zoom in 8277.1 11556.4
+\i (00:04:53) trapsize 10
+\i (00:04:53) zoom in 1 
+\i (00:04:53) setwindow pcb
+\i (00:04:53) zoom in 8277.1 11556.4
+\i (00:04:53) trapsize 5
+\i (00:04:54) zoom out 1 
+\i (00:04:54) setwindow pcb
+\i (00:04:54) zoom out 8277.6 11555.4
+\i (00:04:54) trapsize 10
+\i (00:04:54) zoom out 1 
+\i (00:04:54) setwindow pcb
+\i (00:04:54) zoom out 8277.7 11555.3
+\i (00:04:54) trapsize 20
+\i (00:04:54) zoom out 1 
+\i (00:04:54) setwindow pcb
+\i (00:04:54) zoom out 8277.6 11555.3
+\t (00:04:54) Grids are drawn 4.0, 4.0 apart for enhanced viewability.
+\i (00:04:54) trapsize 39
+\i (00:05:21) exit 
+\e (00:05:21) Do you want to save the changes you made to LAUNCHXL-CC1350-433.brd?
+\i (00:05:25) fillin no 
+\t (00:05:25)     Journal end - Sun May 14 22:01:55 2017

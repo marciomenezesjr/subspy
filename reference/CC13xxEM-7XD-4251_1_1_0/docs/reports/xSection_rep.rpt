@@ -1,0 +1,17 @@
+Cross Section Report
+C:/svn_work/cc13xx/CC13xx_EM_Design/7x7/CC13xxEM-7XD-4251/Cadence/Allegro/CC13xxEM-7XD-4251.brd
+Mon Nov 23 13:58:55 2015
+
+Design Cross Section
+Subclass Name,Type,Material,Thickness (MM),Conductivity (mho/cm),Dielectric Constant,Loss Tangent,Negative Artwork,Shield,Width (MM),Unused Pin Pad Suppression,Unused Via Pad Suppression
+,SURFACE,AIR,,0,1,0,,,,,
+TOP,CONDUCTOR,COPPER,0.035,595900,1,0,,,0.127,,
+,DIELECTRIC,FR-4,0.175,0,4.4,0.016,,,,,
+L2,CONDUCTOR,COPPER,0.0175,595900,1,0,,,1.92164e-293,,
+,DIELECTRIC,FR-4,1.140000,0,4.4,0.016,,,,,
+L3,CONDUCTOR,COPPER,0.0175,595900,1,0,,,1.92164e-293,,
+,DIELECTRIC,FR-4,0.175,0,4.4,0.016,,,,,
+BOTTOM,CONDUCTOR,COPPER,0.035,595900,1,0,,,0.127,,
+,SURFACE,AIR,,0,1,0,,,,,
+
+Total Thickness: 1.595 MM

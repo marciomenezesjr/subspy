@@ -1,0 +1,26 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    IPC-D-356                                                        )
+(                                                                     )
+(    Software Version : 16.6S019                                      )
+(    Date/Time        : Wed Nov 09 13:00:26 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Warning: String S2000OBL3600_1000M3000 exceeds record length on line 87 at column 0
+Warning: String 1100RECT1800_CIR900MIRA exceeds record length on line 98 at column 0
+Warning: String 1100RECT1800_CIR900MIR exceeds record length on line 190 at column 0
+Warning: String SHAPE_460X500_WOSMPA-1 exceeds record length on line 335 at column 0
+Warning: String SHAPE_500X1000_WOSMPA-1-2 exceeds record length on line 336 at column 0
+Warning: String SHAPE_500X1000_WOSMPA-1-1 exceeds record length on line 339 at column 0
+Warning: String SHAPE_500X1000_WOSMPA-1 exceeds record length on line 340 at column 0
+Warning: String SHAPE_500X1000_WOSMPA exceeds record length on line 355 at column 0
+Warning: Found a mechanical pin at location (38.4173 26.5084) with no drill - skipping.
+Warning: Found a mechanical pin at location (3.5673 26.5084) with no drill - skipping.
+
+
+------------------------------------------
+SUMMARY:
+  Errors:       0
+  Warnings:    10

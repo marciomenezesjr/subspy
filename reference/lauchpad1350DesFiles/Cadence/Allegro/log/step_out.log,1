@@ -1,0 +1,30 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    STEP Export                                                      )
+(                                                                     )
+(    Software Version : 16.6S019                                      )
+(    Date/Time        : Wed Mar 09 16:40:42 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+WARNING:  Both top and bottom outlines defined for ANTENNA868_915MHZ_A2N.
+  An overall bounding box has been exported.
+
+
+STEP file: C:/kht/work/CC1350_launchpad/LAUNCHXL-CC1350_1_0_0/LAUNCHXL-CC1350_1_0_0_Cadence/Allegro/LAUNCHXL-CC1350-STEP.stp
+Design file: C:/kht/work/CC1350_launchpad/LAUNCHXL-CC1350_1_0_0/LAUNCHXL-CC1350_1_0_0_Cadence/Allegro/LAUNCHXL-CC1350.brd
+Export units: Millimeter
+STEP protocol: AP-214
+Source identification: allegro_16.6S019
+Export selected and highlighted parts?: NO
+Export secondary parts?: NO
+Export parts with mapped STEP Models?: NO
+Export parts without mapped STEP Models?: YES
+Export assemblies and enclosures parts?: NO
+Export mechanical drills?: YES
+Export electrical through pin drills?: YES
+Export electrical through via drills?: YES
+Export bare board only?: NO
+Export external copper?: YES
+step_out complete.

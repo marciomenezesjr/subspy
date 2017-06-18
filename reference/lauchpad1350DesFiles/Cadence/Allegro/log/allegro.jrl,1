@@ -1,0 +1,157 @@
+\t (00:00:31) allegro 16.6 S019 (v16-6-112BG) Windows 32
+\t (00:00:31)     Journal start - Wed Mar 09 16:40:01 2016
+\t (00:00:31)         Host=LTA0190588A User=a0190588 Pid=9828 CPUs=4
+\t (00:00:31) 
+\d (00:00:31) Database opened: C:/kht/work/CC1350_launchpad/LAUNCHXL-CC1350_1_0_0/LAUNCHXL-CC1350_1_0_0_Cadence/Allegro/LAUNCHXL-CC1350.brd
+\i (00:00:31) generaledit 
+\i (00:00:35) setwindow form.vf_vis
+\i (00:00:35) FORM vf_vis colorview_list Film: Top 
+\i (00:00:37) FORM vf_vis colorview_list Film: silk_top 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom fit 
+\i (00:00:39) trapsize 654
+\i (00:00:45) step out 
+\i (00:00:57) setwindow form.step_out
+\i (00:00:57) FORM step_out elec_drill YES 
+\i (00:00:58) FORM step_out external_copper YES 
+\i (00:01:02) FORM step_out zip_file YES 
+\i (00:01:12) FORM step_out filename LAUNCHXL-CC1350-STEP 
+\i (00:01:12) FORM step_out done  
+\t (00:01:12) Starting Exporting STEP File...
+\t (00:01:15) STEP output completed.
+\i (00:01:18) setwindow text
+\i (00:01:18) close 
+\i (00:01:25) setwindow form.step_out
+\i (00:01:25) FORM step_out filename LAUNCHXL-CC1350_PCB-STEP 
+\i (00:01:25) FORM step_out unmapped_pkg NO 
+\i (00:01:26) FORM step_out bare_board NO 
+\i (00:01:27) FORM step_out bare_board YES 
+\i (00:01:31) FORM step_out done  
+\t (00:01:31) Starting Exporting STEP File...
+\t (00:01:34) STEP output completed.
+\i (00:01:36) FORM step_out cancel  
+\i (00:01:36) setwindow pcb
+\i (00:01:36) generaledit 
+\i (01:03:51) xhilite 
+\i (01:03:51) xname_flush 
+\i (01:03:51) done 
+\i (01:03:51) generaledit 
+\i (01:12:22) xhilite 
+\i (01:12:25) xname_flush 
+\i (01:12:25) done 
+\i (01:12:25) xdehilite 
+\i (01:12:25) xname_flush 
+\i (01:12:25) done 
+\i (01:12:26) xhilite 
+\i (01:12:26) xname_flush 
+\i (01:12:26) done 
+\i (01:12:26) xdehilite 
+\i (01:12:26) xname_flush 
+\i (01:12:26) done 
+\i (01:12:26) generaledit 
+\i (01:13:32) xhilite 
+\i (01:13:33) xname_flush 
+\i (01:13:33) done 
+\i (01:13:33) generaledit 
+\i (01:13:34) xdehilite 
+\i (01:13:34) xname_flush 
+\i (01:13:34) done 
+\i (01:13:34) generaledit 
+\i (01:13:35) xhilite 
+\i (01:13:35) xname_flush 
+\i (01:13:35) done 
+\i (01:13:36) generaledit 
+\i (07:32:40) trapsize 602
+\i (07:32:41) trapsize 654
+\i (07:32:44) trapsize 602
+\i (18:00:44) xdehilite 
+\i (18:00:44) xname_flush 
+\i (18:00:44) done 
+\i (18:00:44) generaledit 
+\i (18:00:46) xhilite 
+\i (18:00:46) xname_flush 
+\i (18:00:46) done 
+\i (18:00:46) generaledit 
+\i (18:00:51) xdehilite 
+\i (18:00:51) xname_flush 
+\i (18:00:51) done 
+\i (18:00:51) generaledit 
+\i (18:00:54) xhilite 
+\i (18:00:54) xname_flush 
+\i (18:00:54) done 
+\i (18:00:54) generaledit 
+\i (18:04:26) xhilite 
+\i (18:04:26) xname_flush 
+\i (18:04:26) done 
+\i (18:04:26) generaledit 
+\i (18:22:33) xdehilite 
+\i (18:22:40) xname_flush 
+\i (18:22:40) done 
+\i (18:22:40) xhilite 
+\i (18:22:40) xname_flush 
+\i (18:22:40) done 
+\i (18:22:40) xdehilite 
+\i (18:22:40) xname_flush 
+\i (18:22:40) done 
+\i (18:22:40) generaledit 
+\i (18:22:43) xhilite 
+\i (18:22:44) xname_flush 
+\i (18:22:44) done 
+\i (18:22:44) generaledit 
+\i (18:29:45) xdehilite 
+\i (18:29:45) xname_flush 
+\i (18:29:45) done 
+\i (18:29:45) generaledit 
+\i (18:29:51) xhilite 
+\i (18:29:51) xname_flush 
+\i (18:29:51) done 
+\i (18:29:51) generaledit 
+\i (18:29:58) xdehilite 
+\i (18:29:58) xname_flush 
+\i (18:29:58) done 
+\i (18:29:58) xhilite 
+\i (18:29:58) xname_flush 
+\i (18:29:58) done 
+\i (18:29:58) generaledit 
+\i (18:29:59) xdehilite 
+\i (18:29:59) xname_flush 
+\i (18:29:59) done 
+\i (18:29:59) generaledit 
+\i (20:23:15) xhilite 
+\i (20:23:15) xname_flush 
+\i (20:23:15) done 
+\i (20:23:16) generaledit 
+\i (21:25:40) xhilite 
+\i (21:25:46) xname_flush 
+\i (21:25:46) done 
+\i (21:25:46) generaledit 
+\i (22:40:45) xdehilite 
+\i (22:40:45) xname_flush 
+\i (22:40:45) done 
+\i (22:40:45) generaledit 
+\i (22:40:49) xhilite 
+\i (22:40:50) xname_flush 
+\i (22:40:50) done 
+\i (22:40:50) generaledit 
+\i (22:41:22) xdehilite 
+\i (22:41:22) xname_flush 
+\i (22:41:22) done 
+\i (22:41:22) xhilite 
+\i (22:41:22) xname_flush 
+\i (22:41:22) done 
+\i (22:41:22) generaledit 
+\i (22:41:50) xhilite 
+\i (22:41:51) xname_flush 
+\i (22:41:51) done 
+\i (22:41:51) generaledit 
+\i (26:35:51) xhilite 
+\i (26:35:57) xname_flush 
+\i (26:35:57) done 
+\i (26:35:57) generaledit 
+\i (40:08:50) trapsize 654
+\i (40:08:51) trapsize 665
+\i (40:48:47) trapsize 995
+\i (40:48:49) exit 
+\e (40:48:49) Do you want to save the changes you made to LAUNCHXL-CC1350.brd?
+\i (40:48:50) fillin no 
+\t (40:48:51)     Journal end - Fri Mar 11 09:28:20 2016

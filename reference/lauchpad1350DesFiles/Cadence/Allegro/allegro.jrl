@@ -1,0 +1,23 @@
+\t (00:00:03) allegro 17.2 S002 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Sun Apr 23 18:27:11 2017
+\t (00:00:03)         Host=F90 User=marcio Pid=1940 CPUs=8
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:05) fillin yes 
+\d (00:00:07) Design opened: C:/Users/marcio/Desktop/phoenix/Projects/SubSpy/reference/lauchpad1350DesFiles/Cadence/Allegro/LAUNCHXL-CC1350.brd
+\i (00:00:07) trapsize 1046
+\i (00:00:07) trapsize 1070
+\i (00:00:07) trapsize 1741
+\e (00:00:07) ERROR(SPMHDB-210): OrCAD PCB Designer Lite is limited to 50 components.
+\e (00:00:07) To save this design ERROR(SPMHDB-210): OrCAD PCB Designer Lite is limited to 50 components. Save design disabled.
+\i (00:00:11) fillin confirm
+\i (00:00:11) generaledit 
+\i (00:00:12) open 
+\i (00:00:16) fillin "C:\Users\marcio\Downloads\swrc309\Cadence\CC13xxEM-7XD-7793.brd"
+\i (00:00:16) cd "C:\Users\marcio\Downloads\swrc309\Cadence"
+\t (00:00:16) Opening existing design...
+\i (00:00:18) fillin yes 
+\i (00:00:18) trapsize 321
+\t (00:00:18)     Journal end - Sun Apr 23 18:27:26 2017

@@ -1,0 +1,21 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : LAUNCHXL-CC1350.brd                           )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Wed Sep 02 10:44:12 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 4
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: (210.527 232.390)  Net: GND
+	Point on shape: (253.477 258.198)  Net: GND
+	Point on shape: (234.421 225.834)  Net: GND
+	Point on shape: (234.421 225.834)  Net: GND

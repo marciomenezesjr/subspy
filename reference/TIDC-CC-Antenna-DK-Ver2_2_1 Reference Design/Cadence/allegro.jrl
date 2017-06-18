@@ -1,0 +1,3442 @@
+\t (00:00:13) allegro 17.2 S002 Windows SPB 64-bit Edition
+\t (00:00:13)     Journal start - Mon Apr 17 19:55:50 2017
+\t (00:00:13)         Host=F90 User=marcio Pid=11456 CPUs=8
+\t (00:00:13) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:13) 
+\d (00:00:13) Design opened: C:/Users/marcio/Desktop/phoenix/Projects/SubSpy/reference/TIDC-CC-Antenna-DK-Ver2_2_1 Reference Design/Cadence/TIDC-CC-Antenna-DK-Ver2_2.brd
+\i (00:00:13) generaledit 
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 252.347 263.311
+\t (00:00:13) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:00:13) trapsize 178
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 252.347 263.311
+\t (00:00:13) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:00:13) trapsize 357
+\i (00:00:13) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 252.347 263.312
+\t (00:00:14) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:00:14) trapsize 713
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 252.488 263.169
+\t (00:00:14) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:00:14) trapsize 1426
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 252.489 263.169
+\t (00:00:14) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (00:00:14) trapsize 2852
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 446.060 273.797
+\i (00:00:14) trapsize 2852
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 446.060 273.797
+\i (00:00:14) trapsize 2852
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 187.094 248.699
+\t (00:00:17) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:00:17) trapsize 1426
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 187.379 248.699
+\t (00:00:17) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:00:17) trapsize 713
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 200.927 245.848
+\t (00:00:18) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:00:18) trapsize 1426
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in 210.908 224.457
+\t (00:00:19) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:00:19) trapsize 713
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 209.910 236.579
+\t (00:00:21) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:00:21) trapsize 1426
+\i (00:00:22) zoom in 1 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom in 189.661 284.208
+\t (00:00:22) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:00:22) trapsize 713
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in 191.801 288.486
+\t (00:00:23) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:00:23) trapsize 357
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in 197.862 287.488
+\t (00:00:24) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:00:24) trapsize 178
+\i (00:00:25) zoom out 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom out 197.862 287.488
+\t (00:00:25) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:00:25) trapsize 357
+\i (00:03:35) zoom out 1 
+\i (00:03:35) setwindow pcb
+\i (00:03:35) zoom out 197.220 276.365
+\t (00:03:35) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:03:35) trapsize 713
+\i (00:03:36) zoom out 1 
+\i (00:03:36) setwindow pcb
+\i (00:03:36) zoom out 197.219 276.365
+\t (00:03:36) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:03:36) trapsize 1426
+\i (00:03:38) zoom in 1 
+\i (00:03:38) setwindow pcb
+\i (00:03:38) zoom in 191.800 237.863
+\t (00:03:38) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:03:38) trapsize 713
+\i (00:03:38) zoom in 1 
+\i (00:03:38) setwindow pcb
+\i (00:03:38) zoom in 191.800 237.863
+\t (00:03:38) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:03:38) trapsize 357
+\i (00:03:39) zoom out 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom out 197.575 239.503
+\t (00:03:39) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:03:39) trapsize 713
+\i (00:03:40) zoom out 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom out 197.860 240.502
+\t (00:03:40) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:03:40) trapsize 1426
+\i (00:03:41) zoom in 1 
+\i (00:03:41) setwindow pcb
+\i (00:03:41) zoom in 188.449 288.131
+\t (00:03:41) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:03:41) trapsize 713
+\i (00:03:41) zoom in 1 
+\i (00:03:41) setwindow pcb
+\i (00:03:41) zoom in 188.449 288.132
+\t (00:03:41) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:03:41) trapsize 357
+\i (00:03:42) zoom in 1 
+\i (00:03:42) setwindow pcb
+\i (00:03:42) zoom in 190.731 288.203
+\t (00:03:42) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:03:42) trapsize 178
+\i (00:03:42) zoom in 1 
+\i (00:03:42) setwindow pcb
+\i (00:03:42) zoom in 190.802 288.203
+\t (00:03:42) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:03:42) trapsize 89
+\i (00:03:51) pick grid 197.361 284.906
+\t (00:03:51) last pick:  197.360 284.905
+\i (00:03:51) zoom out 1 
+\i (00:03:51) setwindow pcb
+\i (00:03:51) zoom out 197.985 285.405
+\t (00:03:51) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:03:51) trapsize 178
+\i (00:03:51) zoom out 1 
+\i (00:03:51) setwindow pcb
+\i (00:03:51) zoom out 197.985 285.405
+\t (00:03:51) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:03:51) trapsize 357
+\i (00:03:51) zoom out 1 
+\i (00:03:51) setwindow pcb
+\i (00:03:51) zoom out 197.985 285.406
+\t (00:03:51) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:03:51) trapsize 713
+\i (00:03:52) zoom out 1 
+\i (00:03:52) setwindow pcb
+\i (00:03:52) zoom out 197.985 285.406
+\t (00:03:52) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:03:52) trapsize 1426
+\i (00:03:52) zoom out 1 
+\i (00:03:52) setwindow pcb
+\i (00:03:52) zoom out 268.090 285.406
+\t (00:03:52) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (00:03:52) trapsize 2852
+\i (00:03:54) zoom in 1 
+\i (00:03:54) setwindow pcb
+\i (00:03:54) zoom in 271.515 291.479
+\t (00:03:54) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:03:54) trapsize 1426
+\i (00:03:54) zoom in 1 
+\i (00:03:54) setwindow pcb
+\i (00:03:54) zoom in 231.654 291.480
+\t (00:03:54) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:03:54) trapsize 713
+\i (00:03:56) zoom out 1 
+\i (00:03:56) setwindow pcb
+\i (00:03:56) zoom out 216.253 283.922
+\t (00:03:56) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:03:56) trapsize 1426
+\i (00:03:57) zoom out 1 
+\i (00:03:57) setwindow pcb
+\i (00:03:57) zoom out 200.851 283.922
+\t (00:03:57) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (00:03:57) trapsize 2852
+\i (00:03:57) zoom in 1 
+\i (00:03:57) setwindow pcb
+\i (00:03:57) zoom in 196.221 253.262
+\t (00:03:57) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:03:57) trapsize 1426
+\i (00:03:58) zoom in 1 
+\i (00:03:58) setwindow pcb
+\i (00:03:58) zoom in 180.887 241.283
+\t (00:03:58) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:03:58) trapsize 713
+\i (00:03:59) zoom out 1 
+\i (00:03:59) setwindow pcb
+\i (00:03:59) zoom out 192.010 265.098
+\t (00:03:59) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:03:59) trapsize 1426
+\i (00:03:59) zoom in 1 
+\i (00:03:59) setwindow pcb
+\i (00:03:59) zoom in 203.704 291.337
+\t (00:03:59) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:04:00) trapsize 713
+\i (00:04:00) zoom in 1 
+\i (00:04:00) setwindow pcb
+\i (00:04:00) zoom in 203.704 291.337
+\t (00:04:00) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:04:00) trapsize 357
+\i (00:04:00) zoom in 1 
+\i (00:04:00) setwindow pcb
+\i (00:04:00) zoom in 203.704 291.337
+\t (00:04:00) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:04:00) trapsize 178
+\i (00:04:00) zoom in 1 
+\i (00:04:00) setwindow pcb
+\i (00:04:00) zoom in 203.704 291.337
+\t (00:04:00) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:04:00) trapsize 89
+\i (00:04:00) zoom out 1 
+\i (00:04:00) setwindow pcb
+\i (00:04:00) zoom out 208.819 291.070
+\t (00:04:00) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:04:00) trapsize 178
+\i (00:04:02) zoom in 1 
+\i (00:04:02) setwindow pcb
+\i (00:04:02) zoom in 235.878 288.432
+\t (00:04:02) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:04:02) trapsize 89
+\i (00:04:02) zoom in 1 
+\i (00:04:02) setwindow pcb
+\i (00:04:02) zoom in 235.877 288.432
+\t (00:04:02) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:04:02) trapsize 45
+\i (00:04:46) zoom out 1 
+\i (00:04:46) setwindow pcb
+\i (00:04:46) zoom out 233.961 287.959
+\t (00:04:46) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:04:46) trapsize 89
+\i (00:04:46) zoom out 1 
+\i (00:04:46) setwindow pcb
+\i (00:04:46) zoom out 233.961 287.960
+\t (00:04:46) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:04:46) trapsize 178
+\i (00:04:46) zoom out 1 
+\i (00:04:46) setwindow pcb
+\i (00:04:46) zoom out 233.962 287.960
+\t (00:04:46) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:04:46) trapsize 356
+\i (00:04:46) zoom out 1 
+\i (00:04:46) setwindow pcb
+\i (00:04:46) zoom out 233.963 287.960
+\t (00:04:46) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:04:46) trapsize 713
+\i (00:04:46) zoom out 1 
+\i (00:04:46) setwindow pcb
+\i (00:04:46) zoom out 233.963 287.959
+\t (00:04:46) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:04:46) trapsize 1426
+\i (00:04:46) zoom out 1 
+\i (00:04:46) setwindow pcb
+\i (00:04:46) zoom out 356.205 287.960
+\t (00:04:46) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (00:04:46) trapsize 2852
+\i (00:04:48) zoom in 1 
+\i (00:04:48) setwindow pcb
+\i (00:04:48) zoom in 182.531 276.649
+\t (00:04:48) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:04:48) trapsize 1426
+\i (00:04:55) zoom out 1 
+\i (00:04:55) setwindow pcb
+\i (00:04:55) zoom out 200.499 278.360
+\t (00:04:55) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (00:04:55) trapsize 2852
+\i (00:04:56) zoom in 1 
+\i (00:04:56) setwindow pcb
+\i (00:04:56) zoom in 178.538 168.271
+\t (00:04:56) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:04:56) trapsize 1426
+\i (00:04:56) zoom in 1 
+\i (00:04:56) setwindow pcb
+\i (00:04:56) zoom in 178.538 168.271
+\t (00:04:56) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:04:56) trapsize 713
+\i (00:04:56) zoom in 1 
+\i (00:04:56) setwindow pcb
+\i (00:04:56) zoom in 183.815 168.842
+\t (00:04:56) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:04:56) trapsize 357
+\i (00:04:59) zoom out 1 
+\i (00:04:59) setwindow pcb
+\i (00:04:59) zoom out 189.092 172.764
+\t (00:04:59) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:04:59) trapsize 713
+\i (00:05:00) zoom out 1 
+\i (00:05:00) setwindow pcb
+\i (00:05:00) zoom out 189.092 172.763
+\t (00:05:00) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:05:00) trapsize 1426
+\i (00:05:01) zoom out 1 
+\i (00:05:01) setwindow pcb
+\i (00:05:01) zoom out 189.091 172.764
+\t (00:05:01) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (00:05:01) trapsize 2852
+\i (00:05:03) zoom in 1 
+\i (00:05:03) setwindow pcb
+\i (00:05:03) zoom in 102.103 172.834
+\t (00:05:03) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:05:03) trapsize 1426
+\i (00:05:04) zoom in 1 
+\i (00:05:04) setwindow pcb
+\i (00:05:04) zoom in 98.966 181.675
+\t (00:05:04) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:05:04) trapsize 713
+\i (00:05:08) zoom out 1 
+\i (00:05:08) setwindow pcb
+\i (00:05:08) zoom out 130.624 195.365
+\t (00:05:08) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:05:08) trapsize 1426
+\i (00:05:10) zoom in 1 
+\i (00:05:10) setwindow pcb
+\i (00:05:10) zoom in 112.086 191.372
+\t (00:05:10) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:05:10) trapsize 713
+\i (00:05:12) zoom out 1 
+\i (00:05:12) setwindow pcb
+\i (00:05:12) zoom out 122.353 194.795
+\t (00:05:12) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:05:12) trapsize 1426
+\i (00:05:13) zoom in 1 
+\i (00:05:13) setwindow pcb
+\i (00:05:13) zoom in 143.744 167.701
+\t (00:05:13) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:05:13) trapsize 713
+\i (00:05:15) zoom out 1 
+\i (00:05:15) setwindow pcb
+\i (00:05:15) zoom out 143.887 167.558
+\t (00:05:15) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:05:15) trapsize 1426
+\i (00:05:16) zoom in 1 
+\i (00:05:16) setwindow pcb
+\i (00:05:16) zoom in 143.887 167.559
+\t (00:05:16) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:05:16) trapsize 713
+\i (00:12:43) zoom out 1 
+\i (00:12:43) setwindow pcb
+\i (00:12:43) zoom out 191.659 168.985
+\t (00:12:43) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:12:43) trapsize 1426
+\i (00:12:43) zoom in 1 
+\i (00:12:43) setwindow pcb
+\i (00:12:43) zoom in 207.915 176.116
+\t (00:12:43) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:12:43) trapsize 713
+\i (00:12:43) zoom in 1 
+\i (00:12:44) setwindow pcb
+\i (00:12:44) zoom in 207.915 176.116
+\t (00:12:44) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:12:44) trapsize 357
+\i (00:12:44) zoom in 1 
+\i (00:12:44) setwindow pcb
+\i (00:12:44) zoom in 207.773 176.401
+\t (00:12:44) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:12:44) trapsize 178
+\i (00:12:44) zoom in 1 
+\i (00:12:44) setwindow pcb
+\i (00:12:44) zoom in 207.737 176.722
+\t (00:12:44) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:12:44) trapsize 89
+\i (00:12:45) zoom out 1 
+\i (00:12:45) setwindow pcb
+\i (00:12:45) zoom out 207.737 176.722
+\t (00:12:45) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:12:45) trapsize 178
+\i (00:12:45) zoom out 1 
+\i (00:12:45) setwindow pcb
+\i (00:12:45) zoom out 207.736 176.723
+\t (00:12:45) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:12:45) trapsize 357
+\i (00:12:45) zoom out 1 
+\i (00:12:45) setwindow pcb
+\i (00:12:45) zoom out 207.736 176.723
+\t (00:12:45) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:12:45) trapsize 713
+\i (00:12:45) zoom out 1 
+\i (00:12:45) setwindow pcb
+\i (00:12:45) zoom out 207.736 176.723
+\t (00:12:45) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:12:45) trapsize 1426
+\i (00:12:45) zoom out 1 
+\i (00:12:45) setwindow pcb
+\i (00:12:45) zoom out 207.735 176.722
+\t (00:12:45) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (00:12:45) trapsize 2852
+\i (00:12:48) zoom in 1 
+\i (00:12:48) setwindow pcb
+\i (00:12:48) zoom in 172.834 178.538
+\t (00:12:48) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:12:48) trapsize 1426
+\i (00:12:48) zoom in 1 
+\i (00:12:48) setwindow pcb
+\i (00:12:48) zoom in 172.834 178.538
+\t (00:12:48) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:12:48) trapsize 713
+\i (00:12:48) zoom in 1 
+\i (00:12:48) setwindow pcb
+\i (00:12:48) zoom in 172.835 178.539
+\t (00:12:48) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:12:48) trapsize 357
+\i (00:12:48) zoom in 1 
+\i (00:12:48) setwindow pcb
+\i (00:12:48) zoom in 172.835 178.539
+\t (00:12:48) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:12:48) trapsize 178
+\i (00:12:48) zoom in 1 
+\i (00:12:48) setwindow pcb
+\i (00:12:48) zoom in 172.978 178.611
+\t (00:12:48) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:12:48) trapsize 89
+\i (00:12:49) zoom out 1 
+\i (00:12:49) setwindow pcb
+\i (00:12:49) zoom out 180.946 179.876
+\t (00:12:49) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:12:49) trapsize 178
+\i (00:12:49) zoom out 1 
+\i (00:12:49) setwindow pcb
+\i (00:12:49) zoom out 180.945 179.877
+\t (00:12:49) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:12:49) trapsize 357
+\i (00:12:49) zoom out 1 
+\i (00:12:49) setwindow pcb
+\i (00:12:49) zoom out 180.945 179.877
+\t (00:12:49) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:12:49) trapsize 713
+\i (00:12:49) zoom out 1 
+\i (00:12:49) setwindow pcb
+\i (00:12:49) zoom out 180.945 179.877
+\t (00:12:49) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:12:49) trapsize 1426
+\i (00:12:50) zoom in 1 
+\i (00:12:50) setwindow pcb
+\i (00:12:50) zoom in 207.913 185.011
+\t (00:12:50) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:12:50) trapsize 713
+\i (00:12:50) zoom in 1 
+\i (00:12:50) setwindow pcb
+\i (00:12:50) zoom in 219.892 183.870
+\t (00:12:50) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:12:50) trapsize 357
+\i (00:12:58) zoom in 1 
+\i (00:12:58) setwindow pcb
+\i (00:12:58) zoom in 192.513 181.660
+\t (00:12:58) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:12:58) trapsize 178
+\i (00:12:58) zoom in 1 
+\i (00:12:58) setwindow pcb
+\i (00:12:58) zoom in 192.513 181.660
+\t (00:12:58) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:12:58) trapsize 89
+\i (00:12:58) zoom in 1 
+\i (00:12:58) setwindow pcb
+\i (00:12:58) zoom in 192.513 181.660
+\t (00:12:58) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:12:58) trapsize 45
+\i (00:12:58) zoom in 1 
+\i (00:12:58) setwindow pcb
+\i (00:12:58) zoom in 192.513 181.660
+\t (00:12:58) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (00:12:58) trapsize 22
+\i (00:13:12) pick grid 192.638 181.108
+\t (00:13:12) last pick:  192.640 181.110
+\i (00:13:12) zoom out 1 
+\i (00:13:12) setwindow pcb
+\i (00:13:12) zoom out 192.634 181.108
+\t (00:13:12) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:13:12) trapsize 45
+\i (00:13:12) zoom out 1 
+\i (00:13:12) setwindow pcb
+\i (00:13:12) zoom out 192.634 181.108
+\t (00:13:12) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:13:12) trapsize 89
+\i (00:13:12) zoom out 1 
+\i (00:13:12) setwindow pcb
+\i (00:13:12) zoom out 192.634 181.108
+\t (00:13:12) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:13:12) trapsize 178
+\i (00:13:12) zoom out 1 
+\i (00:13:12) setwindow pcb
+\i (00:13:12) zoom out 192.634 181.107
+\t (00:13:12) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:13:12) trapsize 356
+\i (00:13:12) zoom out 1 
+\i (00:13:12) setwindow pcb
+\i (00:13:12) zoom out 192.634 181.108
+\t (00:13:12) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:13:12) trapsize 713
+\i (00:13:12) zoom out 1 
+\i (00:13:12) setwindow pcb
+\i (00:13:12) zoom out 192.633 181.108
+\t (00:13:12) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:13:12) trapsize 1426
+\i (00:13:12) zoom out 1 
+\i (00:13:12) setwindow pcb
+\i (00:13:12) zoom out 192.633 181.107
+\t (00:13:12) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (00:13:12) trapsize 2852
+\i (00:13:13) zoom in 1 
+\i (00:13:13) setwindow pcb
+\i (00:13:13) zoom in 208.770 187.665
+\t (00:13:13) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:13:13) trapsize 1426
+\i (00:13:13) zoom in 1 
+\i (00:13:13) setwindow pcb
+\i (00:13:13) zoom in 199.996 187.665
+\t (00:13:13) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:13:13) trapsize 713
+\i (00:13:14) zoom in 1 
+\i (00:13:14) setwindow pcb
+\i (00:13:14) zoom in 207.982 185.098
+\t (00:13:14) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:13:14) trapsize 357
+\i (00:13:14) zoom in 1 
+\i (00:13:14) setwindow pcb
+\i (00:13:14) zoom in 213.971 184.243
+\t (00:13:14) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:13:14) trapsize 178
+\i (00:13:14) zoom in 1 
+\i (00:13:14) setwindow pcb
+\i (00:13:14) zoom in 215.575 184.136
+\t (00:13:14) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:13:14) trapsize 89
+\i (00:13:14) zoom out 1 
+\i (00:13:14) setwindow pcb
+\i (00:13:14) zoom out 223.222 183.423
+\t (00:13:14) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:13:14) trapsize 178
+\i (00:13:15) zoom out 1 
+\i (00:13:15) setwindow pcb
+\i (00:13:15) zoom out 223.222 183.423
+\t (00:13:15) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:13:15) trapsize 357
+\i (00:13:15) zoom in 1 
+\i (00:13:15) setwindow pcb
+\i (00:13:15) zoom in 236.342 182.497
+\t (00:13:15) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:13:15) trapsize 178
+\i (00:13:15) zoom in 1 
+\i (00:13:15) setwindow pcb
+\i (00:13:15) zoom in 236.413 182.497
+\t (00:13:15) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:13:15) trapsize 89
+\i (00:13:15) zoom in 1 
+\i (00:13:15) setwindow pcb
+\i (00:13:15) zoom in 236.413 182.497
+\t (00:13:15) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:13:15) trapsize 45
+\i (00:13:16) zoom in 1 
+\i (00:13:16) setwindow pcb
+\i (00:13:16) zoom in 236.430 182.489
+\t (00:13:16) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (00:13:16) trapsize 22
+\i (00:13:16) zoom in 1 
+\i (00:13:16) setwindow pcb
+\i (00:13:16) zoom in 236.431 182.489
+\t (00:13:16) Grids are drawn 0.010, 0.010 apart for enhanced viewability.
+\i (00:13:16) trapsize 11
+\i (00:13:36) zoom out 1 
+\i (00:13:36) setwindow pcb
+\i (00:13:36) zoom out 235.644 183.075
+\t (00:13:36) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (00:13:36) trapsize 22
+\i (00:13:36) zoom out 1 
+\i (00:13:36) setwindow pcb
+\i (00:13:36) zoom out 235.640 183.076
+\t (00:13:36) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:13:36) trapsize 45
+\i (00:13:36) zoom out 1 
+\i (00:13:36) setwindow pcb
+\i (00:13:36) zoom out 235.641 183.076
+\t (00:13:36) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:13:36) trapsize 89
+\i (00:13:37) zoom out 1 
+\i (00:13:37) setwindow pcb
+\i (00:13:37) zoom out 235.640 183.076
+\t (00:13:37) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:13:37) trapsize 178
+\i (00:13:37) zoom out 1 
+\i (00:13:37) setwindow pcb
+\i (00:13:37) zoom out 235.641 183.076
+\t (00:13:37) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:13:37) trapsize 357
+\i (00:13:37) zoom out 1 
+\i (00:13:37) setwindow pcb
+\i (00:13:37) zoom out 235.640 183.076
+\t (00:13:37) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:13:37) trapsize 713
+\i (00:13:38) zoom out 1 
+\i (00:13:38) setwindow pcb
+\i (00:13:38) zoom out 235.641 183.076
+\t (00:13:38) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:13:38) trapsize 1426
+\i (00:13:38) zoom out 1 
+\i (00:13:38) setwindow pcb
+\i (00:13:38) zoom out 235.640 183.076
+\t (00:13:38) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (00:13:38) trapsize 2852
+\i (00:13:42) zoom in 1 
+\i (00:13:42) setwindow pcb
+\i (00:13:42) zoom in 213.904 180.820
+\t (00:13:42) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:13:42) trapsize 1426
+\i (00:13:42) zoom in 1 
+\i (00:13:42) setwindow pcb
+\i (00:13:42) zoom in 193.721 181.675
+\t (00:13:42) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:13:42) trapsize 713
+\i (00:13:43) zoom in 1 
+\i (00:13:43) setwindow pcb
+\i (00:13:43) zoom in 193.008 181.533
+\t (00:13:43) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:13:43) trapsize 357
+\i (00:13:43) zoom in 1 
+\i (00:13:43) setwindow pcb
+\i (00:13:43) zoom in 193.008 181.533
+\t (00:13:43) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:13:43) trapsize 178
+\i (00:13:43) zoom in 1 
+\i (00:13:43) setwindow pcb
+\i (00:13:43) zoom in 193.008 181.533
+\t (00:13:43) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:13:43) trapsize 89
+\i (00:13:53) zoom out 1 
+\i (00:13:53) setwindow pcb
+\i (00:13:53) zoom out 202.563 182.585
+\t (00:13:53) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:13:53) trapsize 178
+\i (00:13:53) zoom out 1 
+\i (00:13:53) setwindow pcb
+\i (00:13:53) zoom out 202.526 182.585
+\t (00:13:53) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:13:53) trapsize 357
+\i (00:13:53) zoom out 1 
+\i (00:13:53) setwindow pcb
+\i (00:13:53) zoom out 202.526 182.585
+\t (00:13:53) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:13:53) trapsize 713
+\i (00:13:53) zoom out 1 
+\i (00:13:53) setwindow pcb
+\i (00:13:53) zoom out 202.527 182.584
+\t (00:13:53) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:13:53) trapsize 1426
+\i (00:13:54) zoom in 1 
+\i (00:13:54) setwindow pcb
+\i (00:13:54) zoom in 236.718 182.299
+\t (00:13:54) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:13:54) trapsize 713
+\i (00:13:54) zoom in 1 
+\i (00:13:54) setwindow pcb
+\i (00:13:54) zoom in 236.718 182.300
+\t (00:13:54) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:13:54) trapsize 357
+\i (00:13:54) zoom in 1 
+\i (00:13:54) setwindow pcb
+\i (00:13:54) zoom in 236.718 182.300
+\t (00:13:54) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:13:54) trapsize 178
+\i (00:13:54) zoom in 1 
+\i (00:13:54) setwindow pcb
+\i (00:13:54) zoom in 236.719 182.300
+\t (00:13:54) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:13:54) trapsize 89
+\i (00:13:54) zoom in 1 
+\i (00:13:54) setwindow pcb
+\i (00:13:54) zoom in 236.719 182.300
+\t (00:13:54) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:13:54) trapsize 45
+\i (00:13:54) zoom in 1 
+\i (00:13:54) setwindow pcb
+\i (00:13:54) zoom in 236.719 182.300
+\t (00:13:54) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (00:13:54) trapsize 22
+\i (00:13:54) zoom in 1 
+\i (00:13:54) setwindow pcb
+\i (00:13:54) zoom in 236.702 182.300
+\t (00:13:54) Grids are drawn 0.010, 0.010 apart for enhanced viewability.
+\i (00:13:54) trapsize 11
+\i (00:14:14) zoom out 1 
+\i (00:14:14) setwindow pcb
+\i (00:14:14) zoom out 235.746 182.721
+\t (00:14:14) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (00:14:14) trapsize 22
+\i (00:14:14) zoom out 1 
+\i (00:14:14) setwindow pcb
+\i (00:14:14) zoom out 235.746 182.722
+\t (00:14:14) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:14:14) trapsize 45
+\i (00:14:14) zoom out 1 
+\i (00:14:14) setwindow pcb
+\i (00:14:14) zoom out 235.790 182.695
+\t (00:14:14) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:14:14) trapsize 89
+\i (00:14:14) zoom out 1 
+\i (00:14:14) setwindow pcb
+\i (00:14:14) zoom out 235.789 182.677
+\t (00:14:14) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:14:14) trapsize 178
+\i (00:14:14) zoom out 1 
+\i (00:14:14) setwindow pcb
+\i (00:14:14) zoom out 235.790 182.678
+\t (00:14:14) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:14:14) trapsize 357
+\i (00:14:14) zoom out 1 
+\i (00:14:14) setwindow pcb
+\i (00:14:14) zoom out 235.790 182.677
+\t (00:14:14) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:14:14) trapsize 713
+\i (00:14:15) zoom in 1 
+\i (00:14:15) setwindow pcb
+\i (00:14:15) zoom in 192.714 187.955
+\t (00:14:15) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:14:15) trapsize 357
+\i (00:15:05) zoom in 1 
+\i (00:15:05) setwindow pcb
+\i (00:15:05) zoom in 219.244 171.052
+\t (00:15:05) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:15:05) trapsize 178
+\i (00:15:05) zoom in 1 
+\i (00:15:05) setwindow pcb
+\i (00:15:05) zoom in 219.244 171.017
+\t (00:15:05) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:15:05) trapsize 89
+\i (00:15:05) zoom in 1 
+\i (00:15:06) setwindow pcb
+\i (00:15:06) zoom in 219.244 171.017
+\t (00:15:06) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:15:06) trapsize 45
+\i (00:15:06) zoom in 1 
+\i (00:15:06) setwindow pcb
+\i (00:15:06) zoom in 219.245 171.017
+\t (00:15:06) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (00:15:06) trapsize 22
+\i (00:15:06) zoom in 1 
+\i (00:15:06) setwindow pcb
+\i (00:15:06) zoom in 219.245 171.017
+\t (00:15:06) Grids are drawn 0.010, 0.010 apart for enhanced viewability.
+\i (00:15:06) trapsize 11
+\i (00:15:06) zoom in 1 
+\i (00:15:06) setwindow pcb
+\i (00:15:06) zoom in 219.245 171.018
+\i (00:15:06) trapsize 6
+\i (00:15:06) zoom in 1 
+\i (00:15:06) setwindow pcb
+\i (00:15:06) zoom in 219.245 171.018
+\i (00:15:06) trapsize 3
+\i (00:15:06) zoom in 1 
+\i (00:15:06) setwindow pcb
+\i (00:15:06) zoom in 219.245 171.019
+\i (00:15:06) trapsize 1
+\i (00:15:06) zoom out 1 
+\i (00:15:07) setwindow pcb
+\i (00:15:07) zoom out 219.252 171.067
+\i (00:15:07) trapsize 3
+\i (00:15:07) zoom out 1 
+\i (00:15:07) setwindow pcb
+\i (00:15:07) zoom out 219.252 171.067
+\i (00:15:07) trapsize 6
+\i (00:15:07) zoom in 1 
+\i (00:15:07) setwindow pcb
+\i (00:15:07) zoom in 219.225 171.209
+\i (00:15:07) trapsize 3
+\i (00:15:07) zoom in 1 
+\i (00:15:07) setwindow pcb
+\i (00:15:07) zoom in 219.225 171.209
+\i (00:15:07) trapsize 1
+\i (00:15:07) zoom in 1 
+\i (00:15:07) setwindow pcb
+\i (00:15:07) zoom in 219.225 171.210
+\i (00:15:07) trapsize 1
+\i (00:15:09) zoom in 1 
+\i (00:15:09) setwindow pcb
+\i (00:15:09) zoom in 219.218 171.153
+\i (00:15:09) trapsize 1
+\i (00:15:43) pick grid 219.254 171.169
+\t (00:15:43) last pick:  219.255 171.170
+\i (00:15:43) zoom out 1 
+\i (00:15:43) setwindow pcb
+\i (00:15:43) zoom out 219.254 171.169
+\i (00:15:43) trapsize 1
+\i (00:15:43) zoom out 1 
+\i (00:15:43) setwindow pcb
+\i (00:15:43) zoom out 219.255 171.169
+\i (00:15:43) trapsize 1
+\i (00:15:43) zoom out 1 
+\i (00:15:43) setwindow pcb
+\i (00:15:43) zoom out 219.255 171.168
+\i (00:15:43) trapsize 3
+\i (00:15:43) zoom out 1 
+\i (00:15:43) setwindow pcb
+\i (00:15:43) zoom out 219.256 171.168
+\i (00:15:43) trapsize 6
+\i (00:15:43) zoom out 1 
+\i (00:15:43) setwindow pcb
+\i (00:15:43) zoom out 219.256 171.168
+\i (00:15:43) trapsize 11
+\i (00:15:43) zoom out 1 
+\i (00:15:43) setwindow pcb
+\i (00:15:43) zoom out 219.255 171.169
+\t (00:15:43) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (00:15:43) trapsize 22
+\i (00:15:43) zoom out 1 
+\i (00:15:44) setwindow pcb
+\i (00:15:44) zoom out 219.255 171.169
+\t (00:15:44) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:15:44) trapsize 45
+\i (00:15:44) zoom out 1 
+\i (00:15:44) setwindow pcb
+\i (00:15:44) zoom out 219.256 171.168
+\t (00:15:44) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:15:44) trapsize 90
+\i (00:15:44) zoom out 1 
+\i (00:15:44) setwindow pcb
+\i (00:15:44) zoom out 219.256 171.169
+\t (00:15:44) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:15:44) trapsize 179
+\i (00:15:44) zoom out 1 
+\i (00:15:44) setwindow pcb
+\i (00:15:44) zoom out 219.257 171.169
+\t (00:15:44) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:15:44) trapsize 359
+\i (00:15:44) zoom out 1 
+\i (00:15:44) setwindow pcb
+\i (00:15:44) zoom out 219.257 171.168
+\t (00:15:44) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:15:44) trapsize 717
+\i (00:15:44) zoom out 1 
+\i (00:15:44) setwindow pcb
+\i (00:15:44) zoom out 219.257 171.168
+\t (00:15:44) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:15:44) trapsize 1434
+\i (00:15:44) zoom out 1 
+\i (00:15:44) setwindow pcb
+\i (00:15:44) zoom out 272.808 171.168
+\t (00:15:44) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (00:15:44) trapsize 2852
+\i (00:15:45) zoom in 1 
+\i (00:15:45) setwindow pcb
+\i (00:15:45) zoom in 208.200 197.932
+\t (00:15:45) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:15:45) trapsize 1426
+\i (00:15:45) zoom in 1 
+\i (00:15:45) setwindow pcb
+\i (00:15:45) zoom in 202.278 192.798
+\t (00:15:45) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:15:45) trapsize 713
+\i (00:15:45) zoom in 1 
+\i (00:15:45) setwindow pcb
+\i (00:15:45) zoom in 201.280 192.513
+\t (00:15:45) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:15:45) trapsize 357
+\i (00:15:45) zoom in 1 
+\i (00:15:45) setwindow pcb
+\i (00:15:45) zoom in 198.928 186.809
+\t (00:15:45) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:15:45) trapsize 178
+\i (00:15:45) zoom in 1 
+\i (00:15:45) setwindow pcb
+\i (00:15:45) zoom in 199.071 186.382
+\t (00:15:45) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:15:45) trapsize 89
+\i (00:15:45) zoom in 1 
+\i (00:15:45) setwindow pcb
+\i (00:15:45) zoom in 199.837 186.186
+\t (00:15:45) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:15:46) trapsize 45
+\i (00:15:46) zoom in 1 
+\i (00:15:46) setwindow pcb
+\i (00:15:46) zoom in 200.542 185.767
+\t (00:15:46) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (00:15:46) trapsize 22
+\i (00:15:46) zoom in 1 
+\i (00:15:46) setwindow pcb
+\i (00:15:46) zoom in 200.618 185.621
+\t (00:15:46) Grids are drawn 0.010, 0.010 apart for enhanced viewability.
+\i (00:15:46) trapsize 11
+\i (00:15:46) zoom out 1 
+\i (00:15:46) setwindow pcb
+\i (00:15:46) zoom out 200.608 186.229
+\t (00:15:46) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (00:15:46) trapsize 22
+\i (00:15:46) zoom out 1 
+\i (00:15:46) setwindow pcb
+\i (00:15:46) zoom out 200.608 186.230
+\t (00:15:46) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:15:46) trapsize 45
+\i (00:15:46) zoom out 1 
+\i (00:15:46) setwindow pcb
+\i (00:15:46) zoom out 200.609 186.229
+\t (00:15:46) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:15:46) trapsize 89
+\i (00:15:46) zoom out 1 
+\i (00:15:46) setwindow pcb
+\i (00:15:46) zoom out 200.608 186.230
+\t (00:15:46) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:15:46) trapsize 178
+\i (00:15:47) zoom in 1 
+\i (00:15:47) setwindow pcb
+\i (00:15:47) zoom in 204.745 176.138
+\t (00:15:47) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:15:47) trapsize 89
+\i (00:15:47) zoom in 1 
+\i (00:15:47) setwindow pcb
+\i (00:15:47) zoom in 206.029 175.853
+\t (00:15:47) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:15:47) trapsize 45
+\i (00:15:47) zoom in 1 
+\i (00:15:47) setwindow pcb
+\i (00:15:47) zoom in 207.037 177.217
+\t (00:15:47) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (00:15:47) trapsize 22
+\i (00:15:47) zoom in 1 
+\i (00:15:47) setwindow pcb
+\i (00:15:47) zoom in 207.041 177.239
+\t (00:15:47) Grids are drawn 0.010, 0.010 apart for enhanced viewability.
+\i (00:15:47) trapsize 11
+\i (00:15:48) zoom out 1 
+\i (00:15:48) setwindow pcb
+\i (00:15:48) zoom out 207.108 177.422
+\t (00:15:48) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (00:15:48) trapsize 22
+\i (00:15:48) zoom out 1 
+\i (00:15:48) setwindow pcb
+\i (00:15:48) zoom out 207.108 177.422
+\t (00:15:48) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:15:48) trapsize 45
+\i (00:16:13) zoom out 1 
+\i (00:16:13) setwindow pcb
+\i (00:16:13) zoom out 204.166 176.771
+\t (00:16:13) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:16:13) trapsize 89
+\i (00:16:13) zoom out 1 
+\i (00:16:13) setwindow pcb
+\i (00:16:13) zoom out 204.167 176.770
+\t (00:16:13) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:16:13) trapsize 178
+\i (00:16:13) zoom out 1 
+\i (00:16:13) setwindow pcb
+\i (00:16:13) zoom out 204.167 176.771
+\t (00:16:13) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:16:13) trapsize 357
+\i (00:16:13) zoom out 1 
+\i (00:16:13) setwindow pcb
+\i (00:16:13) zoom out 204.167 176.771
+\t (00:16:13) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:16:13) trapsize 713
+\i (00:16:13) zoom out 1 
+\i (00:16:13) setwindow pcb
+\i (00:16:13) zoom out 204.168 176.771
+\t (00:16:13) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:16:13) trapsize 1426
+\i (00:16:13) zoom out 1 
+\i (00:16:13) setwindow pcb
+\i (00:16:13) zoom out 204.167 176.770
+\t (00:16:13) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (00:16:13) trapsize 2852
+\i (00:17:04) xhilite 
+\i (00:17:04) xname_flush 
+\i (00:17:04) done 
+\i (00:17:04) generaledit 
+\i (00:19:00) zoom in 1 
+\i (00:19:00) setwindow pcb
+\i (00:19:00) zoom in 163.708 182.531
+\t (00:19:00) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:19:00) trapsize 1426
+\i (00:19:00) zoom in 1 
+\i (00:19:00) setwindow pcb
+\i (00:19:00) zoom in 163.708 182.531
+\t (00:19:00) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:19:00) trapsize 713
+\i (00:19:01) zoom in 1 
+\i (00:19:01) setwindow pcb
+\i (00:19:01) zoom in 170.553 182.674
+\t (00:19:01) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:19:01) trapsize 357
+\i (00:19:01) zoom in 1 
+\i (00:19:01) setwindow pcb
+\i (00:19:01) zoom in 170.838 182.675
+\t (00:19:01) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:19:01) trapsize 178
+\i (00:19:01) zoom in 1 
+\i (00:19:01) setwindow pcb
+\i (00:19:01) zoom in 170.838 182.675
+\t (00:19:01) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:19:01) trapsize 89
+\i (00:19:01) zoom out 1 
+\i (00:19:01) setwindow pcb
+\i (00:19:01) zoom out 178.628 182.675
+\t (00:19:01) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:19:01) trapsize 178
+\i (00:19:01) zoom out 1 
+\i (00:19:02) setwindow pcb
+\i (00:19:02) zoom out 178.628 182.675
+\t (00:19:02) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:19:02) trapsize 357
+\i (00:19:02) zoom out 1 
+\i (00:19:02) setwindow pcb
+\i (00:19:02) zoom out 178.627 182.674
+\t (00:19:02) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:19:02) trapsize 713
+\i (00:19:04) zoom out 1 
+\i (00:19:04) setwindow pcb
+\i (00:19:04) zoom out 217.842 200.358
+\t (00:19:04) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:19:04) trapsize 1426
+\i (00:19:04) zoom out 1 
+\i (00:19:04) setwindow pcb
+\i (00:19:04) zoom out 299.748 200.357
+\t (00:19:04) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (00:19:04) trapsize 2852
+\i (00:19:05) zoom in 1 
+\i (00:19:05) setwindow pcb
+\i (00:19:05) zoom in 208.770 293.761
+\t (00:19:05) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:19:05) trapsize 1426
+\i (00:19:05) zoom in 1 
+\i (00:19:05) setwindow pcb
+\i (00:19:05) zoom in 199.996 293.761
+\t (00:19:05) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:19:05) trapsize 713
+\i (00:19:06) zoom in 1 
+\i (00:19:06) setwindow pcb
+\i (00:19:06) zoom in 199.569 293.761
+\t (00:19:06) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:19:06) trapsize 357
+\i (00:19:06) zoom in 1 
+\i (00:19:06) setwindow pcb
+\i (00:19:06) zoom in 199.569 293.476
+\t (00:19:06) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:19:06) trapsize 178
+\i (00:19:32) zoom in 1 
+\i (00:19:33) setwindow pcb
+\i (00:19:33) zoom in 210.514 288.271
+\t (00:19:33) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:19:33) trapsize 89
+\i (00:19:33) zoom in 1 
+\i (00:19:33) setwindow pcb
+\i (00:19:33) zoom in 210.514 288.271
+\t (00:19:33) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:19:33) trapsize 45
+\i (00:20:35) zoom out 1 
+\i (00:20:35) setwindow pcb
+\i (00:20:35) zoom out 210.576 288.850
+\t (00:20:35) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:20:35) trapsize 89
+\i (00:20:35) zoom out 1 
+\i (00:20:35) setwindow pcb
+\i (00:20:35) zoom out 210.577 288.850
+\t (00:20:35) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:20:35) trapsize 178
+\i (00:20:35) zoom out 1 
+\i (00:20:36) setwindow pcb
+\i (00:20:36) zoom out 210.577 288.851
+\t (00:20:36) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:20:36) trapsize 356
+\i (00:20:36) zoom out 1 
+\i (00:20:36) setwindow pcb
+\i (00:20:36) zoom out 210.578 288.851
+\t (00:20:36) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:20:36) trapsize 713
+\i (00:20:36) zoom out 1 
+\i (00:20:36) setwindow pcb
+\i (00:20:36) zoom out 210.577 288.851
+\t (00:20:36) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:20:36) trapsize 1426
+\i (00:20:36) zoom out 1 
+\i (00:20:36) setwindow pcb
+\i (00:20:36) zoom out 210.576 288.852
+\t (00:20:36) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (00:20:36) trapsize 2852
+\i (00:20:38) zoom in 1 
+\i (00:20:38) setwindow pcb
+\i (00:20:38) zoom in 177.968 290.339
+\t (00:20:38) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:20:38) trapsize 1426
+\i (00:20:39) zoom in 1 
+\i (00:20:39) setwindow pcb
+\i (00:20:39) zoom in 177.968 290.339
+\t (00:20:39) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:20:39) trapsize 713
+\i (00:20:39) zoom in 1 
+\i (00:20:39) setwindow pcb
+\i (00:20:39) zoom in 183.387 289.056
+\t (00:20:39) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:20:39) trapsize 357
+\i (00:20:40) zoom in 1 
+\i (00:20:40) setwindow pcb
+\i (00:20:40) zoom in 193.227 288.130
+\t (00:20:40) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:20:40) trapsize 178
+\i (00:20:40) zoom in 1 
+\i (00:20:40) setwindow pcb
+\i (00:20:40) zoom in 193.227 288.130
+\t (00:20:40) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:20:40) trapsize 89
+\i (00:20:40) zoom in 1 
+\i (00:20:40) setwindow pcb
+\i (00:20:40) zoom in 194.564 288.076
+\t (00:20:40) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:20:40) trapsize 45
+\i (00:20:54) zoom out 1 
+\i (00:20:54) setwindow pcb
+\i (00:20:54) zoom out 195.634 288.094
+\t (00:20:54) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:20:54) trapsize 89
+\i (00:20:54) zoom out 1 
+\i (00:20:54) setwindow pcb
+\i (00:20:54) zoom out 195.634 288.095
+\t (00:20:54) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:20:54) trapsize 178
+\i (00:20:54) zoom out 1 
+\i (00:20:54) setwindow pcb
+\i (00:20:54) zoom out 195.634 288.094
+\t (00:20:54) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:20:54) trapsize 356
+\i (00:20:54) zoom out 1 
+\i (00:20:54) setwindow pcb
+\i (00:20:54) zoom out 195.634 288.095
+\t (00:20:54) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:20:54) trapsize 713
+\i (00:20:55) zoom out 1 
+\i (00:20:55) setwindow pcb
+\i (00:20:55) zoom out 195.634 288.095
+\t (00:20:55) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:20:55) trapsize 1426
+\i (00:20:56) zoom out 1 
+\i (00:20:56) setwindow pcb
+\i (00:20:56) zoom out 195.634 288.094
+\t (00:20:56) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (00:20:56) trapsize 2852
+\i (00:20:57) zoom in 1 
+\i (00:20:57) setwindow pcb
+\i (00:20:57) zoom in 188.235 203.636
+\t (00:20:57) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:20:57) trapsize 1426
+\i (00:20:57) zoom in 1 
+\i (00:20:57) setwindow pcb
+\i (00:20:57) zoom in 187.665 203.636
+\t (00:20:57) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:20:57) trapsize 713
+\i (00:20:57) zoom in 1 
+\i (00:20:57) setwindow pcb
+\i (00:20:57) zoom in 189.092 202.923
+\t (00:20:57) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:20:57) trapsize 357
+\i (00:20:57) zoom in 1 
+\i (00:20:57) setwindow pcb
+\i (00:20:57) zoom in 189.876 202.709
+\t (00:20:57) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:20:57) trapsize 178
+\i (00:20:57) zoom in 1 
+\i (00:20:57) setwindow pcb
+\i (00:20:57) zoom in 189.947 202.673
+\t (00:20:57) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:20:57) trapsize 89
+\i (00:20:58) zoom in 1 
+\i (00:20:58) setwindow pcb
+\i (00:20:58) zoom in 190.001 202.673
+\t (00:20:58) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:20:58) trapsize 45
+\i (00:21:03) zoom out 1 
+\i (00:21:03) setwindow pcb
+\i (00:21:03) zoom out 192.915 201.907
+\t (00:21:03) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:21:03) trapsize 89
+\i (00:21:03) zoom out 1 
+\i (00:21:03) setwindow pcb
+\i (00:21:03) zoom out 192.915 201.907
+\t (00:21:03) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:21:03) trapsize 178
+\i (00:21:03) zoom out 1 
+\i (00:21:03) setwindow pcb
+\i (00:21:03) zoom out 192.916 201.907
+\t (00:21:03) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:21:03) trapsize 356
+\i (00:21:03) zoom out 1 
+\i (00:21:03) setwindow pcb
+\i (00:21:03) zoom out 192.916 201.907
+\t (00:21:03) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:21:03) trapsize 713
+\i (00:21:03) zoom out 1 
+\i (00:21:03) setwindow pcb
+\i (00:21:03) zoom out 192.915 201.907
+\t (00:21:03) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:21:03) trapsize 1426
+\i (00:21:04) zoom in 1 
+\i (00:21:04) setwindow pcb
+\i (00:21:04) zoom in 238.421 205.900
+\t (00:21:04) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:21:04) trapsize 713
+\i (00:21:04) zoom in 1 
+\i (00:21:04) setwindow pcb
+\i (00:21:04) zoom in 238.421 205.901
+\t (00:21:04) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:21:04) trapsize 356
+\i (00:21:04) zoom in 1 
+\i (00:21:04) setwindow pcb
+\i (00:21:04) zoom in 237.708 206.115
+\t (00:21:04) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:21:04) trapsize 178
+\i (00:21:04) zoom in 1 
+\i (00:21:04) setwindow pcb
+\i (00:21:04) zoom in 237.209 206.293
+\t (00:21:04) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:21:04) trapsize 89
+\i (00:21:04) zoom in 1 
+\i (00:21:04) setwindow pcb
+\i (00:21:04) zoom in 237.209 206.293
+\t (00:21:04) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:21:04) trapsize 45
+\i (00:21:11) zoom out 1 
+\i (00:21:11) setwindow pcb
+\i (00:21:11) zoom out 235.730 206.204
+\t (00:21:11) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:21:11) trapsize 89
+\i (00:21:11) zoom out 1 
+\i (00:21:11) setwindow pcb
+\i (00:21:11) zoom out 235.730 206.204
+\t (00:21:11) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:21:11) trapsize 178
+\i (00:21:11) zoom out 1 
+\i (00:21:11) setwindow pcb
+\i (00:21:11) zoom out 235.731 206.204
+\t (00:21:11) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:21:11) trapsize 356
+\i (00:21:12) zoom out 1 
+\i (00:21:12) setwindow pcb
+\i (00:21:12) zoom out 235.731 206.204
+\t (00:21:12) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:21:12) trapsize 713
+\i (00:21:12) zoom out 1 
+\i (00:21:12) setwindow pcb
+\i (00:21:12) zoom out 235.731 206.203
+\t (00:21:12) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:21:12) trapsize 1426
+\i (00:21:27) zoom in 1 
+\i (00:21:27) setwindow pcb
+\i (00:21:27) zoom in 193.808 293.187
+\t (00:21:27) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:21:27) trapsize 713
+\i (00:21:27) zoom in 1 
+\i (00:21:27) setwindow pcb
+\i (00:21:27) zoom in 196.090 292.046
+\t (00:21:27) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:21:27) trapsize 356
+\i (00:21:27) zoom in 1 
+\i (00:21:27) setwindow pcb
+\i (00:21:27) zoom in 196.090 292.046
+\t (00:21:27) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:21:27) trapsize 178
+\i (00:21:27) zoom in 1 
+\i (00:21:27) setwindow pcb
+\i (00:21:27) zoom in 196.518 291.619
+\t (00:21:27) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:21:27) trapsize 89
+\i (00:21:27) zoom in 1 
+\i (00:21:27) setwindow pcb
+\i (00:21:27) zoom in 196.679 291.458
+\t (00:21:27) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:21:27) trapsize 45
+\i (00:21:27) zoom in 1 
+\i (00:21:27) setwindow pcb
+\i (00:21:27) zoom in 196.688 291.459
+\t (00:21:27) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (00:21:27) trapsize 22
+\i (00:21:28) zoom out 1 
+\i (00:21:28) setwindow pcb
+\i (00:21:28) zoom out 196.951 291.325
+\t (00:21:28) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:21:28) trapsize 45
+\i (00:21:28) zoom out 1 
+\i (00:21:28) setwindow pcb
+\i (00:21:28) zoom out 196.951 291.325
+\t (00:21:28) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:21:28) trapsize 89
+\i (00:21:28) zoom in 1 
+\i (00:21:28) setwindow pcb
+\i (00:21:28) zoom in 196.398 285.925
+\t (00:21:28) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:21:28) trapsize 45
+\i (00:21:28) zoom in 1 
+\i (00:21:28) setwindow pcb
+\i (00:21:28) zoom in 196.514 285.836
+\t (00:21:28) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (00:21:28) trapsize 22
+\i (00:21:29) zoom in 1 
+\i (00:21:29) setwindow pcb
+\i (00:21:29) zoom in 196.942 285.342
+\t (00:21:29) Grids are drawn 0.010, 0.010 apart for enhanced viewability.
+\i (00:21:29) trapsize 11
+\i (00:21:29) zoom in 1 
+\i (00:21:29) setwindow pcb
+\i (00:21:29) zoom in 197.007 285.311
+\i (00:21:29) trapsize 6
+\i (00:21:29) zoom out 1 
+\i (00:21:29) setwindow pcb
+\i (00:21:29) zoom out 197.045 285.369
+\i (00:21:29) trapsize 11
+\i (00:21:42) pick grid 197.374 286.248
+\t (00:21:42) last pick:  197.375 286.250
+\i (00:21:42) zoom out 1 
+\i (00:21:42) setwindow pcb
+\i (00:21:42) zoom out 197.372 286.248
+\t (00:21:42) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (00:21:42) trapsize 22
+\i (00:21:42) zoom out 1 
+\i (00:21:42) setwindow pcb
+\i (00:21:42) zoom out 197.372 286.247
+\t (00:21:42) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:21:42) trapsize 45
+\i (00:21:42) zoom out 1 
+\i (00:21:42) setwindow pcb
+\i (00:21:42) zoom out 197.373 286.248
+\t (00:21:42) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:21:42) trapsize 89
+\i (00:21:42) zoom out 1 
+\i (00:21:42) setwindow pcb
+\i (00:21:42) zoom out 197.372 286.248
+\t (00:21:42) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:21:42) trapsize 178
+\i (00:21:43) zoom out 1 
+\i (00:21:43) setwindow pcb
+\i (00:21:43) zoom out 197.373 286.248
+\t (00:21:43) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:21:43) trapsize 357
+\i (00:21:43) zoom out 1 
+\i (00:21:43) setwindow pcb
+\i (00:21:43) zoom out 197.373 286.248
+\t (00:21:43) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:21:43) trapsize 713
+\i (00:21:43) zoom in 1 
+\i (00:21:43) setwindow pcb
+\i (00:21:43) zoom in 197.372 287.675
+\t (00:21:43) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:21:43) trapsize 357
+\i (00:21:43) zoom in 1 
+\i (00:21:43) setwindow pcb
+\i (00:21:43) zoom in 197.373 288.175
+\t (00:21:43) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:21:43) trapsize 178
+\i (00:21:44) zoom in 1 
+\i (00:21:44) setwindow pcb
+\i (00:21:44) zoom in 196.909 290.885
+\t (00:21:44) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:21:44) trapsize 89
+\i (00:21:44) zoom in 1 
+\i (00:21:44) setwindow pcb
+\i (00:21:44) zoom in 196.838 291.010
+\t (00:21:44) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:21:44) trapsize 45
+\i (00:21:44) zoom in 1 
+\i (00:21:44) setwindow pcb
+\i (00:21:44) zoom in 196.838 291.019
+\t (00:21:44) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (00:21:44) trapsize 22
+\i (00:21:44) zoom in 1 
+\i (00:21:44) setwindow pcb
+\i (00:21:44) zoom in 196.839 291.020
+\t (00:21:44) Grids are drawn 0.010, 0.010 apart for enhanced viewability.
+\i (00:21:44) trapsize 11
+\i (00:21:44) zoom in 1 
+\i (00:21:44) setwindow pcb
+\i (00:21:44) zoom in 196.846 291.040
+\i (00:21:44) trapsize 6
+\i (00:21:45) zoom out 1 
+\i (00:21:45) setwindow pcb
+\i (00:21:45) zoom out 196.907 291.074
+\i (00:21:45) trapsize 11
+\i (00:21:45) zoom out 1 
+\i (00:21:45) setwindow pcb
+\i (00:21:45) zoom out 196.908 291.075
+\t (00:21:45) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (00:21:45) trapsize 22
+\i (00:21:46) zoom in 1 
+\i (00:21:46) setwindow pcb
+\i (00:21:46) zoom in 197.183 291.289
+\t (00:21:46) Grids are drawn 0.010, 0.010 apart for enhanced viewability.
+\i (00:21:46) trapsize 11
+\i (00:21:46) zoom in 1 
+\i (00:21:46) setwindow pcb
+\i (00:21:46) zoom in 197.184 291.289
+\i (00:21:46) trapsize 6
+\i (00:21:49) zoom in 1 
+\i (00:21:49) setwindow pcb
+\i (00:21:49) zoom in 197.138 291.185
+\i (00:21:49) trapsize 3
+\i (00:21:49) zoom in 1 
+\i (00:21:49) setwindow pcb
+\i (00:21:49) zoom in 197.138 291.186
+\i (00:21:49) trapsize 1
+\i (00:22:15) zoom out 1 
+\i (00:22:15) setwindow pcb
+\i (00:22:15) zoom out 197.171 291.155
+\i (00:22:15) trapsize 3
+\i (00:22:15) zoom out 1 
+\i (00:22:15) setwindow pcb
+\i (00:22:15) zoom out 197.170 291.155
+\i (00:22:15) trapsize 6
+\i (00:22:15) zoom out 1 
+\i (00:22:15) setwindow pcb
+\i (00:22:15) zoom out 197.171 291.155
+\i (00:22:15) trapsize 11
+\i (00:22:15) zoom out 1 
+\i (00:22:15) setwindow pcb
+\i (00:22:15) zoom out 197.170 291.156
+\t (00:22:15) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (00:22:15) trapsize 22
+\i (00:22:15) zoom out 1 
+\i (00:22:15) setwindow pcb
+\i (00:22:15) zoom out 197.170 291.155
+\t (00:22:15) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:22:15) trapsize 45
+\i (00:22:15) zoom out 1 
+\i (00:22:15) setwindow pcb
+\i (00:22:15) zoom out 197.170 291.156
+\t (00:22:15) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:22:15) trapsize 89
+\i (00:22:15) zoom out 1 
+\i (00:22:15) setwindow pcb
+\i (00:22:15) zoom out 197.170 291.155
+\t (00:22:15) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:22:15) trapsize 179
+\i (00:22:15) zoom out 1 
+\i (00:22:15) setwindow pcb
+\i (00:22:15) zoom out 197.171 291.156
+\t (00:22:15) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:22:15) trapsize 357
+\i (00:22:16) zoom out 1 
+\i (00:22:16) setwindow pcb
+\i (00:22:16) zoom out 197.170 291.156
+\t (00:22:16) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:22:16) trapsize 714
+\i (00:22:16) zoom out 1 
+\i (00:22:16) setwindow pcb
+\i (00:22:16) zoom out 197.170 291.156
+\t (00:22:16) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:22:16) trapsize 1428
+\i (00:22:16) zoom out 1 
+\i (00:22:16) setwindow pcb
+\i (00:22:16) zoom out 303.894 291.156
+\t (00:22:16) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (00:22:16) trapsize 2852
+\i (00:22:16) zoom out 1 
+\i (00:22:16) setwindow pcb
+\i (00:22:16) zoom out 606.916 292.620
+\i (00:22:16) trapsize 2852
+\i (00:22:16) zoom out 1 
+\i (00:22:16) setwindow pcb
+\i (00:22:16) zoom out 622.887 275.508
+\i (00:22:16) trapsize 2852
+\i (00:22:17) zoom in 1 
+\i (00:22:17) setwindow pcb
+\i (00:22:17) zoom in 195.651 181.390
+\t (00:22:17) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:22:17) trapsize 1426
+\i (00:22:17) zoom in 1 
+\i (00:22:17) setwindow pcb
+\i (00:22:17) zoom in 176.609 170.837
+\t (00:22:17) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:22:17) trapsize 713
+\i (00:22:17) zoom in 1 
+\i (00:22:17) setwindow pcb
+\i (00:22:17) zoom in 183.739 172.263
+\t (00:22:17) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:22:17) trapsize 357
+\i (00:22:17) zoom in 1 
+\i (00:22:17) setwindow pcb
+\i (00:22:17) zoom in 184.310 172.264
+\t (00:22:17) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:22:17) trapsize 178
+\i (00:22:17) zoom in 1 
+\i (00:22:17) setwindow pcb
+\i (00:22:17) zoom in 185.772 172.407
+\t (00:22:17) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:22:17) trapsize 89
+\i (00:22:18) zoom out 1 
+\i (00:22:18) setwindow pcb
+\i (00:22:18) zoom out 190.852 174.778
+\t (00:22:18) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:22:18) trapsize 178
+\i (00:22:18) zoom out 1 
+\i (00:22:18) setwindow pcb
+\i (00:22:18) zoom out 190.851 174.778
+\t (00:22:18) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:22:18) trapsize 357
+\i (00:25:06) zoom out 1 
+\i (00:25:06) setwindow pcb
+\i (00:25:06) zoom out 202.331 167.078
+\t (00:25:06) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:25:06) trapsize 713
+\i (00:25:06) zoom out 1 
+\i (00:25:06) setwindow pcb
+\i (00:25:06) zoom out 202.330 167.078
+\t (00:25:06) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:25:06) trapsize 1426
+\i (00:25:06) zoom out 1 
+\i (00:25:06) setwindow pcb
+\i (00:25:06) zoom out 236.148 167.079
+\t (00:25:06) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (00:25:06) trapsize 2852
+\i (00:27:01) zoom in 1 
+\i (00:27:01) setwindow pcb
+\i (00:27:01) zoom in 188.806 156.292
+\t (00:27:01) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:27:01) trapsize 1426
+\i (00:27:02) zoom in 1 
+\i (00:27:02) setwindow pcb
+\i (00:27:02) zoom in 253.262 156.577
+\t (00:27:02) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:27:02) trapsize 713
+\i (00:27:02) zoom out 1 
+\i (00:27:02) setwindow pcb
+\i (00:27:02) zoom out 252.550 156.720
+\t (00:27:02) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:27:02) trapsize 1426
+\i (00:27:03) zoom in 1 
+\i (00:27:03) setwindow pcb
+\i (00:27:03) zoom in 249.697 111.373
+\t (00:27:03) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:27:03) trapsize 713
+\i (00:27:03) zoom in 1 
+\i (00:27:03) setwindow pcb
+\i (00:27:03) zoom in 249.840 111.374
+\t (00:27:03) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:27:03) trapsize 357
+\i (00:27:03) zoom in 1 
+\i (00:27:03) setwindow pcb
+\i (00:27:03) zoom in 249.840 111.374
+\t (00:27:03) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:27:03) trapsize 178
+\i (00:27:04) zoom out 1 
+\i (00:27:04) setwindow pcb
+\i (00:27:04) zoom out 251.801 113.691
+\t (00:27:04) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:27:04) trapsize 357
+\i (00:27:04) zoom out 1 
+\i (00:27:04) setwindow pcb
+\i (00:27:04) zoom out 251.801 113.692
+\t (00:27:04) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:27:04) trapsize 713
+\i (00:27:06) zoom in 1 
+\i (00:27:06) setwindow pcb
+\i (00:27:06) zoom in 246.666 182.568
+\t (00:27:06) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:27:06) trapsize 357
+\i (00:27:06) zoom in 1 
+\i (00:27:06) setwindow pcb
+\i (00:27:06) zoom in 246.666 182.568
+\t (00:27:06) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:27:06) trapsize 178
+\i (00:27:09) zoom out 1 
+\i (00:27:09) setwindow pcb
+\i (00:27:09) zoom out 249.554 179.253
+\t (00:27:09) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:27:09) trapsize 357
+\i (00:27:09) zoom out 1 
+\i (00:27:10) setwindow pcb
+\i (00:27:10) zoom out 249.554 179.253
+\t (00:27:10) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:27:10) trapsize 713
+\i (00:27:10) zoom out 1 
+\i (00:27:10) setwindow pcb
+\i (00:27:10) zoom out 257.682 177.114
+\t (00:27:10) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:27:10) trapsize 1426
+\i (00:27:11) zoom out 1 
+\i (00:27:11) setwindow pcb
+\i (00:27:11) zoom out 257.397 176.829
+\t (00:27:11) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (00:27:11) trapsize 2852
+\i (00:27:11) zoom out 1 
+\i (00:27:11) setwindow pcb
+\i (00:27:11) zoom out 398.716 317.148
+\i (00:27:11) trapsize 2852
+\i (00:27:12) zoom in 1 
+\i (00:27:12) setwindow pcb
+\i (00:27:12) zoom in 130.624 273.797
+\t (00:27:12) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:27:12) trapsize 1426
+\i (00:27:12) zoom in 1 
+\i (00:27:12) setwindow pcb
+\i (00:27:12) zoom in 130.624 273.797
+\t (00:27:12) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:27:12) trapsize 713
+\i (00:27:13) zoom out 1 
+\i (00:27:13) setwindow pcb
+\i (00:27:13) zoom out 149.875 271.801
+\t (00:27:13) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:27:13) trapsize 1426
+\i (00:27:15) zoom in 1 
+\i (00:27:15) setwindow pcb
+\i (00:27:15) zoom in 159.573 207.344
+\t (00:27:15) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:27:15) trapsize 713
+\i (00:27:18) zoom out 1 
+\i (00:27:18) setwindow pcb
+\i (00:27:18) zoom out 129.484 230.018
+\t (00:27:18) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:27:18) trapsize 1426
+\i (00:27:19) zoom out 1 
+\i (00:27:19) setwindow pcb
+\i (00:27:19) zoom out 129.483 230.019
+\t (00:27:19) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (00:27:19) trapsize 2852
+\i (00:27:20) zoom in 1 
+\i (00:27:21) setwindow pcb
+\i (00:27:21) zoom in 123.209 236.720
+\t (00:27:21) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:27:21) trapsize 1426
+\i (00:27:21) zoom in 1 
+\i (00:27:21) setwindow pcb
+\i (00:27:21) zoom in 123.209 236.720
+\t (00:27:21) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:27:21) trapsize 713
+\i (00:27:22) zoom out 1 
+\i (00:27:22) setwindow pcb
+\i (00:27:22) zoom out 159.715 237.005
+\t (00:27:22) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:27:22) trapsize 1426
+\i (00:27:24) zoom in 1 
+\i (00:27:24) setwindow pcb
+\i (00:27:24) zoom in 253.834 146.025
+\t (00:27:24) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:27:24) trapsize 713
+\i (00:27:24) zoom in 1 
+\i (00:27:24) setwindow pcb
+\i (00:27:24) zoom in 253.834 146.025
+\t (00:27:24) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:27:24) trapsize 357
+\i (00:27:31) zoom out 1 
+\i (00:27:31) setwindow pcb
+\i (00:27:31) zoom out 218.826 182.745
+\t (00:27:31) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:27:31) trapsize 713
+\i (00:27:31) zoom out 1 
+\i (00:27:31) setwindow pcb
+\i (00:27:31) zoom out 218.825 182.746
+\t (00:27:31) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:27:31) trapsize 1426
+\i (00:27:31) zoom out 1 
+\i (00:27:31) setwindow pcb
+\i (00:27:31) zoom out 184.309 182.747
+\t (00:27:31) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (00:27:31) trapsize 2852
+\i (00:27:32) zoom out 1 
+\i (00:27:32) setwindow pcb
+\i (00:27:32) zoom out 177.397 350.232
+\i (00:27:32) trapsize 2852
+\i (00:27:32) zoom in 1 
+\i (00:27:32) setwindow pcb
+\i (00:27:32) zoom in 112.371 235.579
+\t (00:27:32) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:27:32) trapsize 1426
+\i (00:27:32) zoom in 1 
+\i (00:27:32) setwindow pcb
+\i (00:27:32) zoom in 112.942 229.305
+\t (00:27:32) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:27:32) trapsize 713
+\i (00:27:33) zoom in 1 
+\i (00:27:33) setwindow pcb
+\i (00:27:33) zoom in 119.787 234.154
+\t (00:27:33) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:27:33) trapsize 357
+\i (00:27:33) zoom in 1 
+\i (00:27:33) setwindow pcb
+\i (00:27:33) zoom in 119.859 234.154
+\t (00:27:33) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:27:33) trapsize 178
+\i (00:27:33) zoom in 1 
+\i (00:27:33) setwindow pcb
+\i (00:27:33) zoom in 119.966 234.404
+\t (00:27:33) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:27:33) trapsize 89
+\i (00:27:34) zoom out 1 
+\i (00:27:34) setwindow pcb
+\i (00:27:34) zoom out 125.777 237.114
+\t (00:27:34) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:27:34) trapsize 178
+\i (00:27:37) zoom out 1 
+\i (00:27:37) setwindow pcb
+\i (00:27:37) zoom out 128.450 239.930
+\t (00:27:37) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:27:37) trapsize 357
+\i (00:27:37) zoom out 1 
+\i (00:27:37) setwindow pcb
+\i (00:27:37) zoom out 128.450 239.930
+\t (00:27:37) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:27:37) trapsize 713
+\i (00:27:37) zoom out 1 
+\i (00:27:38) setwindow pcb
+\i (00:27:38) zoom out 128.449 239.931
+\t (00:27:38) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:27:38) trapsize 1426
+\i (00:27:38) zoom out 1 
+\i (00:27:38) setwindow pcb
+\i (00:27:38) zoom out 185.952 239.930
+\t (00:27:38) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (00:27:38) trapsize 2852
+\i (00:27:39) zoom in 1 
+\i (00:27:39) setwindow pcb
+\i (00:27:39) zoom in 254.973 164.278
+\t (00:27:39) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:27:39) trapsize 1426
+\i (00:27:39) zoom in 1 
+\i (00:27:39) setwindow pcb
+\i (00:27:39) zoom in 223.097 164.278
+\t (00:27:39) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:27:39) trapsize 713
+\i (00:27:40) zoom out 1 
+\i (00:27:40) setwindow pcb
+\i (00:27:40) zoom out 223.097 164.421
+\t (00:27:40) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:27:40) trapsize 1426
+\i (00:27:45) zoom in 1 
+\i (00:27:45) setwindow pcb
+\i (00:27:45) zoom in 236.501 177.256
+\t (00:27:45) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:27:45) trapsize 713
+\i (00:27:45) zoom in 1 
+\i (00:27:45) setwindow pcb
+\i (00:27:45) zoom in 236.502 177.256
+\t (00:27:45) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:27:45) trapsize 357
+\i (00:27:45) zoom in 1 
+\i (00:27:45) setwindow pcb
+\i (00:27:45) zoom in 236.787 177.257
+\t (00:27:45) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:27:45) trapsize 178
+\i (00:27:47) zoom out 1 
+\i (00:27:47) setwindow pcb
+\i (00:27:47) zoom out 247.731 175.689
+\t (00:27:47) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:27:47) trapsize 357
+\i (00:27:48) zoom in 1 
+\i (00:27:48) setwindow pcb
+\i (00:27:48) zoom in 240.103 175.831
+\t (00:27:48) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:27:48) trapsize 178
+\i (00:27:48) zoom in 1 
+\i (00:27:48) setwindow pcb
+\i (00:27:48) zoom in 240.103 175.831
+\t (00:27:48) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:27:48) trapsize 89
+\i (00:27:48) zoom in 1 
+\i (00:27:48) setwindow pcb
+\i (00:27:48) zoom in 240.103 175.831
+\t (00:27:48) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:27:48) trapsize 45
+\i (00:27:49) zoom out 1 
+\i (00:27:49) setwindow pcb
+\i (00:27:49) zoom out 240.174 176.259
+\t (00:27:49) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:27:49) trapsize 89
+\i (00:27:49) zoom out 1 
+\i (00:27:49) setwindow pcb
+\i (00:27:49) zoom out 240.174 176.259
+\t (00:27:49) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:27:49) trapsize 178
+\i (00:27:50) zoom in 1 
+\i (00:27:50) setwindow pcb
+\i (00:27:50) zoom in 239.675 177.650
+\t (00:27:50) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:27:50) trapsize 89
+\i (00:27:50) zoom in 1 
+\i (00:27:50) setwindow pcb
+\i (00:27:50) zoom in 239.675 177.650
+\t (00:27:50) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:27:50) trapsize 45
+\i (00:27:50) zoom in 1 
+\i (00:27:50) setwindow pcb
+\i (00:27:50) zoom in 239.675 177.651
+\t (00:27:50) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (00:27:50) trapsize 22
+\i (00:28:03) zoom out 1 
+\i (00:28:03) setwindow pcb
+\i (00:28:03) zoom out 239.760 177.642
+\t (00:28:03) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:28:03) trapsize 45
+\i (00:28:03) zoom out 1 
+\i (00:28:03) setwindow pcb
+\i (00:28:03) zoom out 239.760 177.642
+\t (00:28:03) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:28:03) trapsize 89
+\i (00:28:04) zoom out 1 
+\i (00:28:04) setwindow pcb
+\i (00:28:04) zoom out 239.761 177.642
+\t (00:28:04) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:28:04) trapsize 178
+\i (00:28:04) zoom out 1 
+\i (00:28:04) setwindow pcb
+\i (00:28:04) zoom out 239.761 177.642
+\t (00:28:04) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:28:04) trapsize 356
+\i (00:28:04) zoom out 1 
+\i (00:28:04) setwindow pcb
+\i (00:28:04) zoom out 239.762 177.641
+\t (00:28:04) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:28:04) trapsize 713
+\i (00:28:04) zoom in 1 
+\i (00:28:04) setwindow pcb
+\i (00:28:04) zoom in 257.585 177.642
+\t (00:28:04) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:28:04) trapsize 356
+\i (00:28:04) zoom in 1 
+\i (00:28:04) setwindow pcb
+\i (00:28:04) zoom in 257.585 177.714
+\t (00:28:04) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:28:04) trapsize 178
+\i (00:28:04) zoom in 1 
+\i (00:28:04) setwindow pcb
+\i (00:28:04) zoom in 257.764 177.714
+\t (00:28:04) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:28:04) trapsize 89
+\i (00:28:05) zoom in 1 
+\i (00:28:05) setwindow pcb
+\i (00:28:05) zoom in 258.317 177.679
+\t (00:28:05) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:28:05) trapsize 45
+\i (00:28:05) zoom out 1 
+\i (00:28:05) setwindow pcb
+\i (00:28:05) zoom out 260.269 177.608
+\t (00:28:05) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:28:05) trapsize 89
+\i (00:28:05) zoom out 1 
+\i (00:28:05) setwindow pcb
+\i (00:28:05) zoom out 260.269 177.607
+\t (00:28:05) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:28:05) trapsize 178
+\i (00:28:05) zoom out 1 
+\i (00:28:05) setwindow pcb
+\i (00:28:05) zoom out 260.270 177.608
+\t (00:28:05) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:28:05) trapsize 356
+\i (00:28:06) zoom in 1 
+\i (00:28:06) setwindow pcb
+\i (00:28:06) zoom in 266.401 177.394
+\t (00:28:06) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:28:06) trapsize 178
+\i (00:28:06) zoom in 1 
+\i (00:28:06) setwindow pcb
+\i (00:28:06) zoom in 266.437 177.394
+\t (00:28:06) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:28:06) trapsize 89
+\i (00:28:06) zoom in 1 
+\i (00:28:06) setwindow pcb
+\i (00:28:06) zoom in 266.437 177.394
+\t (00:28:06) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:28:06) trapsize 45
+\i (00:28:06) zoom in 1 
+\i (00:28:06) setwindow pcb
+\i (00:28:06) zoom in 266.001 177.438
+\t (00:28:06) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (00:28:06) trapsize 22
+\i (00:29:06) zoom out 1 
+\i (00:29:06) setwindow pcb
+\i (00:29:06) zoom out 265.618 177.648
+\t (00:29:06) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:29:06) trapsize 45
+\i (00:29:06) zoom out 1 
+\i (00:29:06) setwindow pcb
+\i (00:29:06) zoom out 265.359 177.666
+\t (00:29:06) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:29:06) trapsize 89
+\i (00:29:06) zoom out 1 
+\i (00:29:06) setwindow pcb
+\i (00:29:06) zoom out 265.359 177.666
+\t (00:29:06) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:29:06) trapsize 178
+\i (00:29:06) zoom out 1 
+\i (00:29:06) setwindow pcb
+\i (00:29:06) zoom out 265.359 177.667
+\t (00:29:06) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:29:06) trapsize 356
+\i (00:29:07) zoom in 1 
+\i (00:29:07) setwindow pcb
+\i (00:29:07) zoom in 255.377 172.106
+\t (00:29:07) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:29:07) trapsize 178
+\i (00:29:07) zoom in 1 
+\i (00:29:07) setwindow pcb
+\i (00:29:07) zoom in 254.165 171.643
+\t (00:29:07) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:29:07) trapsize 89
+\i (00:29:07) zoom in 1 
+\i (00:29:07) setwindow pcb
+\i (00:29:07) zoom in 253.916 171.233
+\t (00:29:07) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:29:07) trapsize 45
+\i (00:29:07) zoom in 1 
+\i (00:29:07) setwindow pcb
+\i (00:29:07) zoom in 253.907 171.198
+\t (00:29:07) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (00:29:07) trapsize 22
+\i (00:29:07) zoom in 1 
+\i (00:29:07) setwindow pcb
+\i (00:29:07) zoom in 253.863 171.167
+\t (00:29:07) Grids are drawn 0.010, 0.010 apart for enhanced viewability.
+\i (00:29:07) trapsize 11
+\i (00:29:43) zoom out 1 
+\i (00:29:43) setwindow pcb
+\i (00:29:43) zoom out 253.833 171.952
+\t (00:29:43) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (00:29:43) trapsize 22
+\i (00:29:43) zoom out 1 
+\i (00:29:43) setwindow pcb
+\i (00:29:43) zoom out 253.843 171.911
+\t (00:29:43) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:29:43) trapsize 45
+\i (00:29:43) zoom out 1 
+\i (00:29:43) setwindow pcb
+\i (00:29:43) zoom out 253.851 171.912
+\t (00:29:43) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:29:43) trapsize 89
+\i (00:29:43) zoom out 1 
+\i (00:29:43) setwindow pcb
+\i (00:29:43) zoom out 253.852 171.893
+\t (00:29:43) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:29:43) trapsize 178
+\i (00:29:45) zoom out 1 
+\i (00:29:45) setwindow pcb
+\i (00:29:45) zoom out 253.852 171.324
+\t (00:29:45) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:29:45) trapsize 357
+\i (00:29:48) zoom out 1 
+\i (00:29:48) setwindow pcb
+\i (00:29:48) zoom out 253.851 171.324
+\t (00:29:48) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:29:48) trapsize 713
+\i (00:29:48) zoom out 1 
+\i (00:29:48) setwindow pcb
+\i (00:29:48) zoom out 253.852 171.323
+\t (00:29:48) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:29:48) trapsize 1426
+\i (00:29:49) zoom out 1 
+\i (00:29:49) setwindow pcb
+\i (00:29:49) zoom out 253.851 176.870
+\t (00:29:49) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (00:29:49) trapsize 2852
+\i (00:42:22) zoom in 1 
+\i (00:42:23) setwindow pcb
+\i (00:42:23) zoom in 189.946 286.916
+\t (00:42:23) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:42:23) trapsize 1426
+\i (00:42:23) zoom in 1 
+\i (00:42:23) setwindow pcb
+\i (00:42:23) zoom in 189.946 283.779
+\t (00:42:23) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:42:23) trapsize 713
+\i (00:42:23) zoom in 1 
+\i (00:42:24) setwindow pcb
+\i (00:42:24) zoom in 192.514 279.359
+\t (00:42:24) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:42:24) trapsize 357
+\i (00:42:24) zoom in 1 
+\i (00:42:24) setwindow pcb
+\i (00:42:24) zoom in 194.154 277.576
+\t (00:42:24) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:42:24) trapsize 178
+\i (00:42:25) zoom out 1 
+\i (00:42:25) setwindow pcb
+\i (00:42:25) zoom out 194.475 277.113
+\t (00:42:25) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:42:25) trapsize 357
+\i (00:42:27) zoom in 1 
+\i (00:42:27) setwindow pcb
+\i (00:42:27) zoom in 192.693 279.252
+\t (00:42:27) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:42:27) trapsize 178
+\i (00:42:27) zoom in 1 
+\i (00:42:27) setwindow pcb
+\i (00:42:27) zoom in 192.693 279.253
+\t (00:42:27) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:42:27) trapsize 89
+\i (00:42:27) zoom in 1 
+\i (00:42:27) setwindow pcb
+\i (00:42:27) zoom in 192.693 279.253
+\t (00:42:27) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:42:27) trapsize 45
+\i (00:42:29) zoom out 1 
+\i (00:42:29) setwindow pcb
+\i (00:42:29) zoom out 193.095 279.164
+\t (00:42:29) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:42:29) trapsize 89
+\i (00:42:29) zoom out 1 
+\i (00:42:29) setwindow pcb
+\i (00:42:29) zoom out 193.094 279.164
+\t (00:42:29) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:42:29) trapsize 178
+\i (00:42:29) zoom out 1 
+\i (00:42:29) setwindow pcb
+\i (00:42:29) zoom out 193.094 279.164
+\t (00:42:29) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:42:29) trapsize 356
+\i (00:42:29) zoom out 1 
+\i (00:42:29) setwindow pcb
+\i (00:42:29) zoom out 193.095 279.165
+\t (00:42:29) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:42:29) trapsize 713
+\i (00:42:30) zoom out 1 
+\i (00:42:30) setwindow pcb
+\i (00:42:30) zoom out 193.094 279.165
+\t (00:42:30) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:42:30) trapsize 1426
+\i (00:42:35) zoom in 1 
+\i (00:42:35) setwindow pcb
+\i (00:42:35) zoom in 241.577 288.006
+\t (00:42:35) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:42:35) trapsize 713
+\i (00:42:35) zoom in 1 
+\i (00:42:35) setwindow pcb
+\i (00:42:35) zoom in 241.578 288.007
+\t (00:42:35) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:42:35) trapsize 356
+\i (00:42:35) zoom in 1 
+\i (00:42:35) setwindow pcb
+\i (00:42:35) zoom in 241.578 288.007
+\t (00:42:35) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:42:35) trapsize 178
+\i (00:42:35) zoom in 1 
+\i (00:42:35) setwindow pcb
+\i (00:42:35) zoom in 241.578 288.008
+\t (00:42:35) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:42:35) trapsize 89
+\i (00:42:35) zoom in 1 
+\i (00:42:35) setwindow pcb
+\i (00:42:35) zoom in 241.578 288.008
+\t (00:42:35) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:42:35) trapsize 45
+\i (00:42:36) zoom out 1 
+\i (00:42:36) setwindow pcb
+\i (00:42:36) zoom out 241.579 288.008
+\t (00:42:36) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:42:36) trapsize 89
+\i (00:42:36) zoom out 1 
+\i (00:42:36) setwindow pcb
+\i (00:42:36) zoom out 241.578 288.009
+\t (00:42:36) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:42:36) trapsize 178
+\i (00:42:37) zoom out 1 
+\i (00:42:37) setwindow pcb
+\i (00:42:37) zoom out 249.243 285.656
+\t (00:42:37) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:42:37) trapsize 356
+\i (00:42:37) zoom out 1 
+\i (00:42:37) setwindow pcb
+\i (00:42:37) zoom out 249.244 285.655
+\t (00:42:37) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:42:38) trapsize 713
+\i (00:42:40) zoom in 1 
+\i (00:42:40) setwindow pcb
+\i (00:42:40) zoom in 193.060 281.806
+\t (00:42:40) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:42:40) trapsize 356
+\i (00:42:40) zoom in 1 
+\i (00:42:40) setwindow pcb
+\i (00:42:40) zoom in 193.060 281.806
+\t (00:42:40) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:42:40) trapsize 178
+\i (00:42:46) zoom out 1 
+\i (00:42:46) setwindow pcb
+\i (00:42:46) zoom out 190.850 284.765
+\t (00:42:46) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:42:46) trapsize 356
+\i (00:42:46) zoom out 1 
+\i (00:42:46) setwindow pcb
+\i (00:42:46) zoom out 190.851 284.765
+\t (00:42:46) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:42:46) trapsize 713
+\i (00:42:46) zoom out 1 
+\i (00:42:46) setwindow pcb
+\i (00:42:46) zoom out 190.850 284.766
+\t (00:42:46) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:42:46) trapsize 1426
+\i (00:42:47) zoom in 1 
+\i (00:42:47) setwindow pcb
+\i (00:42:47) zoom in 192.881 275.924
+\t (00:42:47) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:42:47) trapsize 713
+\i (00:42:47) zoom in 1 
+\i (00:42:47) setwindow pcb
+\i (00:42:47) zoom in 192.881 275.924
+\t (00:42:47) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:42:47) trapsize 356
+\i (00:42:52) zoom out 1 
+\i (00:42:52) setwindow pcb
+\i (00:42:52) zoom out 201.509 275.425
+\t (00:42:52) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:42:52) trapsize 713
+\i (00:42:52) zoom out 1 
+\i (00:42:52) setwindow pcb
+\i (00:42:52) zoom out 201.507 275.425
+\t (00:42:52) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:42:52) trapsize 1426
+\i (00:42:52) zoom out 1 
+\i (00:42:52) setwindow pcb
+\i (00:42:52) zoom out 201.508 275.425
+\t (00:42:52) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (00:42:52) trapsize 2852
+\i (00:42:52) zoom out 1 
+\i (00:42:52) setwindow pcb
+\i (00:42:52) zoom out 263.529 242.995
+\i (00:42:52) trapsize 2852
+\i (00:42:53) zoom in 1 
+\i (00:42:53) setwindow pcb
+\i (00:42:53) zoom in 187.665 175.116
+\t (00:42:53) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:42:53) trapsize 1426
+\i (00:42:53) zoom in 1 
+\i (00:42:53) setwindow pcb
+\i (00:42:53) zoom in 188.236 174.831
+\t (00:42:53) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:42:53) trapsize 713
+\i (00:42:53) zoom in 1 
+\i (00:42:53) setwindow pcb
+\i (00:42:53) zoom in 188.379 174.831
+\t (00:42:53) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:42:53) trapsize 357
+\i (00:42:54) zoom in 1 
+\i (00:42:54) setwindow pcb
+\i (00:42:54) zoom in 189.163 173.619
+\t (00:42:54) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:42:54) trapsize 178
+\i (00:42:54) zoom in 1 
+\i (00:42:54) setwindow pcb
+\i (00:42:54) zoom in 189.234 173.512
+\t (00:42:54) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:42:54) trapsize 89
+\i (00:42:55) zoom out 1 
+\i (00:42:55) setwindow pcb
+\i (00:42:55) zoom out 193.673 172.228
+\t (00:42:55) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:42:55) trapsize 178
+\i (00:43:43) zoom out 1 
+\i (00:43:43) setwindow pcb
+\i (00:43:43) zoom out 194.706 172.479
+\t (00:43:43) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (00:43:43) trapsize 357
+\i (00:43:43) zoom out 1 
+\i (00:43:44) setwindow pcb
+\i (00:43:44) zoom out 194.991 172.478
+\t (00:43:44) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:43:44) trapsize 713
+\i (00:43:44) zoom out 1 
+\i (00:43:44) setwindow pcb
+\i (00:43:44) zoom out 194.991 172.479
+\t (00:43:44) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (00:43:44) trapsize 1426
+\i (00:43:44) zoom out 1 
+\i (00:43:44) setwindow pcb
+\i (00:43:44) zoom out 194.991 172.479
+\t (00:43:44) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (00:43:44) trapsize 2852
+\i (00:43:44) zoom out 1 
+\i (00:43:44) setwindow pcb
+\i (00:43:44) zoom out 358.788 126.061
+\i (00:43:44) trapsize 2852
+\i (01:35:22) zoom in 1 
+\i (01:35:22) setwindow pcb
+\i (01:35:22) zoom in 158.004 180.820
+\t (01:35:22) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (01:35:22) trapsize 1426
+\i (01:35:23) zoom in 1 
+\i (01:35:23) setwindow pcb
+\i (01:35:23) zoom in 158.004 180.820
+\t (01:35:23) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (01:35:23) trapsize 713
+\i (01:35:23) zoom out 1 
+\i (01:35:23) setwindow pcb
+\i (01:35:23) zoom out 171.266 191.087
+\t (01:35:23) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (01:35:23) trapsize 1426
+\i (01:35:23) zoom out 1 
+\i (01:35:23) setwindow pcb
+\i (01:35:23) zoom out 171.266 191.088
+\t (01:35:23) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (01:35:23) trapsize 2852
+\i (01:35:23) zoom out 1 
+\i (01:35:23) setwindow pcb
+\i (01:35:23) zoom out 211.052 221.889
+\i (01:35:23) trapsize 2852
+\i (01:35:24) zoom in 1 
+\i (01:35:24) setwindow pcb
+\i (01:35:24) zoom in 175.116 284.064
+\t (01:35:24) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (01:35:24) trapsize 1426
+\i (01:35:24) zoom in 1 
+\i (01:35:24) setwindow pcb
+\i (01:35:24) zoom in 175.116 284.064
+\t (01:35:24) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (01:35:24) trapsize 713
+\i (01:35:24) zoom in 1 
+\i (01:35:24) setwindow pcb
+\i (01:35:24) zoom in 179.822 276.934
+\t (01:35:24) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (01:35:24) trapsize 357
+\i (01:35:24) zoom in 1 
+\i (01:35:25) setwindow pcb
+\i (01:35:25) zoom in 185.669 273.226
+\t (01:35:25) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (01:35:25) trapsize 178
+\i (01:35:25) zoom in 1 
+\i (01:35:25) setwindow pcb
+\i (01:35:25) zoom in 185.669 273.226
+\t (01:35:25) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (01:35:25) trapsize 89
+\i (01:35:25) zoom out 1 
+\i (01:35:25) setwindow pcb
+\i (01:35:25) zoom out 193.173 270.250
+\t (01:35:25) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (01:35:25) trapsize 178
+\i (01:35:26) zoom out 1 
+\i (01:35:26) setwindow pcb
+\i (01:35:26) zoom out 197.629 269.216
+\t (01:35:26) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (01:35:26) trapsize 357
+\i (01:35:26) zoom in 1 
+\i (01:35:26) setwindow pcb
+\i (01:35:26) zoom in 215.740 263.084
+\t (01:35:26) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (01:35:26) trapsize 178
+\i (01:35:26) zoom in 1 
+\i (01:35:26) setwindow pcb
+\i (01:35:26) zoom in 215.740 263.084
+\t (01:35:26) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (01:35:26) trapsize 89
+\i (01:35:27) zoom in 1 
+\i (01:35:27) setwindow pcb
+\i (01:35:27) zoom in 215.740 263.066
+\t (01:35:27) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (01:35:27) trapsize 45
+\i (01:35:27) zoom in 1 
+\i (01:35:27) setwindow pcb
+\i (01:35:27) zoom in 214.688 263.485
+\t (01:35:27) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (01:35:27) trapsize 22
+\i (01:35:27) zoom in 1 
+\i (01:35:27) setwindow pcb
+\i (01:35:27) zoom in 214.568 263.552
+\t (01:35:27) Grids are drawn 0.010, 0.010 apart for enhanced viewability.
+\i (01:35:27) trapsize 11
+\i (01:35:28) zoom in 1 
+\i (01:35:28) setwindow pcb
+\i (01:35:28) zoom in 214.107 264.145
+\i (01:35:28) trapsize 6
+\i (01:35:28) zoom in 1 
+\i (01:35:28) setwindow pcb
+\i (01:35:28) zoom in 214.107 264.145
+\i (01:35:28) trapsize 3
+\i (01:35:28) zoom in 1 
+\i (01:35:28) setwindow pcb
+\i (01:35:28) zoom in 214.078 264.072
+\i (01:35:28) trapsize 1
+\i (01:35:29) zoom in 1 
+\i (01:35:29) setwindow pcb
+\i (01:35:29) zoom in 214.073 264.060
+\i (01:35:29) trapsize 1
+\i (01:35:29) zoom in 1 
+\i (01:35:29) setwindow pcb
+\i (01:35:29) zoom in 214.073 264.060
+\i (01:35:29) trapsize 1
+\i (01:35:29) zoom in 1 
+\i (01:35:29) setwindow pcb
+\i (01:35:29) zoom in 214.072 264.060
+\i (01:35:29) trapsize 1
+\i (01:35:29) zoom in 1 
+\i (01:35:29) setwindow pcb
+\i (01:35:29) zoom in 214.072 264.060
+\i (01:35:29) trapsize 1
+\i (01:35:29) zoom in 1 
+\i (01:35:29) setwindow pcb
+\i (01:35:29) zoom in 214.072 264.060
+\i (01:35:29) trapsize 1
+\i (01:36:01) zoom out 1 
+\i (01:36:01) setwindow pcb
+\i (01:36:01) zoom out 214.072 264.063
+\i (01:36:01) trapsize 1
+\i (01:36:01) zoom out 1 
+\i (01:36:01) setwindow pcb
+\i (01:36:01) zoom out 214.071 264.064
+\i (01:36:01) trapsize 1
+\i (01:36:01) zoom out 1 
+\i (01:36:01) setwindow pcb
+\i (01:36:01) zoom out 214.071 264.064
+\i (01:36:01) trapsize 1
+\i (01:36:01) zoom out 1 
+\i (01:36:01) setwindow pcb
+\i (01:36:01) zoom out 214.072 264.064
+\i (01:36:01) trapsize 2
+\i (01:36:01) zoom out 1 
+\i (01:36:01) setwindow pcb
+\i (01:36:01) zoom out 214.071 264.065
+\i (01:36:01) trapsize 3
+\i (01:36:01) zoom out 1 
+\i (01:36:01) setwindow pcb
+\i (01:36:01) zoom out 214.072 264.065
+\i (01:36:01) trapsize 7
+\i (01:36:01) zoom out 1 
+\i (01:36:01) setwindow pcb
+\i (01:36:01) zoom out 214.071 264.065
+\t (01:36:01) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (01:36:01) trapsize 13
+\i (01:36:01) zoom out 1 
+\i (01:36:01) setwindow pcb
+\i (01:36:01) zoom out 214.071 264.065
+\t (01:36:01) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (01:36:01) trapsize 26
+\i (01:36:02) zoom out 1 
+\i (01:36:02) setwindow pcb
+\i (01:36:02) zoom out 214.071 264.065
+\t (01:36:02) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (01:36:02) trapsize 53
+\i (01:36:02) zoom out 1 
+\i (01:36:02) setwindow pcb
+\i (01:36:02) zoom out 214.070 264.065
+\t (01:36:02) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (01:36:02) trapsize 105
+\i (01:36:02) zoom out 1 
+\i (01:36:02) setwindow pcb
+\i (01:36:02) zoom out 214.071 264.065
+\t (01:36:02) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (01:36:02) trapsize 211
+\i (01:36:02) zoom out 1 
+\i (01:36:02) setwindow pcb
+\i (01:36:02) zoom out 214.070 264.065
+\t (01:36:02) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (01:36:02) trapsize 421
+\i (01:36:02) zoom out 1 
+\i (01:36:02) setwindow pcb
+\i (01:36:02) zoom out 214.071 264.065
+\t (01:36:02) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (01:36:02) trapsize 842
+\i (01:36:02) zoom out 1 
+\i (01:36:02) setwindow pcb
+\i (01:36:02) zoom out 214.070 264.065
+\t (01:36:02) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (01:36:02) trapsize 1685
+\i (01:36:03) zoom in 1 
+\i (01:36:03) setwindow pcb
+\i (01:36:03) zoom in 186.996 292.705
+\t (01:36:03) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (01:36:03) trapsize 842
+\i (01:36:03) zoom in 1 
+\i (01:36:03) setwindow pcb
+\i (01:36:03) zoom in 190.534 289.841
+\t (01:36:03) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (01:36:03) trapsize 421
+\i (01:36:03) zoom in 1 
+\i (01:36:04) setwindow pcb
+\i (01:36:04) zoom in 192.640 287.904
+\t (01:36:04) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (01:36:04) trapsize 211
+\i (01:36:04) zoom in 1 
+\i (01:36:04) setwindow pcb
+\i (01:36:04) zoom in 195.798 286.304
+\t (01:36:04) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (01:36:04) trapsize 105
+\i (01:36:04) zoom in 1 
+\i (01:36:04) setwindow pcb
+\i (01:36:04) zoom in 196.409 286.115
+\t (01:36:04) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (01:36:04) trapsize 53
+\i (01:36:04) zoom in 1 
+\i (01:36:04) setwindow pcb
+\i (01:36:04) zoom in 198.241 285.473
+\t (01:36:04) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (01:36:04) trapsize 26
+\i (01:36:04) zoom in 1 
+\i (01:36:04) setwindow pcb
+\i (01:36:04) zoom in 198.220 285.442
+\t (01:36:04) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (01:36:04) trapsize 13
+\i (01:36:04) zoom in 1 
+\i (01:36:04) setwindow pcb
+\i (01:36:04) zoom in 198.204 285.432
+\t (01:36:04) Grids are drawn 0.010, 0.010 apart for enhanced viewability.
+\i (01:36:04) trapsize 7
+\i (01:36:05) zoom out 1 
+\i (01:36:05) setwindow pcb
+\i (01:36:05) zoom out 197.858 285.356
+\t (01:36:05) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (01:36:05) trapsize 13
+\i (01:36:05) zoom out 1 
+\i (01:36:05) setwindow pcb
+\i (01:36:05) zoom out 197.859 285.355
+\t (01:36:05) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (01:36:05) trapsize 26
+\i (01:36:05) zoom out 1 
+\i (01:36:05) setwindow pcb
+\i (01:36:05) zoom out 197.858 285.376
+\t (01:36:05) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (01:36:05) trapsize 53
+\i (01:36:06) zoom in 1 
+\i (01:36:06) setwindow pcb
+\i (01:36:06) zoom in 196.490 285.314
+\t (01:36:06) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (01:36:06) trapsize 26
+\i (01:36:06) zoom in 1 
+\i (01:36:06) setwindow pcb
+\i (01:36:06) zoom in 196.485 285.314
+\t (01:36:06) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (01:36:06) trapsize 13
+\i (01:36:06) zoom in 1 
+\i (01:36:06) setwindow pcb
+\i (01:36:06) zoom in 196.885 285.332
+\t (01:36:06) Grids are drawn 0.010, 0.010 apart for enhanced viewability.
+\i (01:36:06) trapsize 7
+\i (01:36:06) zoom in 1 
+\i (01:36:06) setwindow pcb
+\i (01:36:06) zoom in 196.885 285.332
+\i (01:36:06) trapsize 3
+\i (01:36:06) zoom in 1 
+\i (01:36:06) setwindow pcb
+\i (01:36:06) zoom in 196.886 285.332
+\i (01:36:06) trapsize 2
+\i (01:36:07) zoom out 1 
+\i (01:36:07) setwindow pcb
+\i (01:36:07) zoom out 196.947 285.289
+\i (01:36:07) trapsize 3
+\i (01:36:07) zoom out 1 
+\i (01:36:07) setwindow pcb
+\i (01:36:07) zoom out 196.948 285.290
+\i (01:36:07) trapsize 7
+\i (01:36:07) zoom in 1 
+\i (01:36:07) setwindow pcb
+\i (01:36:07) zoom in 197.244 285.058
+\i (01:36:07) trapsize 3
+\i (01:36:08) zoom in 1 
+\i (01:36:08) setwindow pcb
+\i (01:36:08) zoom in 197.226 285.100
+\i (01:36:08) trapsize 2
+\i (01:36:09) zoom in 1 
+\i (01:36:09) setwindow pcb
+\i (01:36:09) zoom in 197.111 285.178
+\i (01:36:09) trapsize 1
+\i (01:36:09) zoom in 1 
+\i (01:36:09) setwindow pcb
+\i (01:36:09) zoom in 197.107 285.193
+\i (01:36:09) trapsize 1
+\i (01:36:10) zoom in 1 
+\i (01:36:10) setwindow pcb
+\i (01:36:10) zoom in 197.111 285.187
+\i (01:36:10) trapsize 1
+\i (01:36:10) zoom in 1 
+\i (01:36:10) setwindow pcb
+\i (01:36:10) zoom in 197.111 285.187
+\i (01:36:10) trapsize 1
+\i (01:36:10) zoom in 1 
+\i (01:36:10) setwindow pcb
+\i (01:36:10) zoom in 197.112 285.186
+\i (01:36:10) trapsize 1
+\i (01:36:10) zoom in 1 
+\i (01:36:10) setwindow pcb
+\i (01:36:10) zoom in 197.112 285.185
+\i (01:36:10) trapsize 1
+\i (01:36:11) zoom in 1 
+\i (01:36:11) setwindow pcb
+\i (01:36:11) zoom in 197.115 285.185
+\i (01:36:11) trapsize 1
+\i (01:36:20) zoom out 1 
+\i (01:36:20) setwindow pcb
+\i (01:36:20) zoom out 197.120 285.186
+\i (01:36:20) trapsize 1
+\i (01:36:20) zoom out 1 
+\i (01:36:20) setwindow pcb
+\i (01:36:20) zoom out 197.119 285.186
+\i (01:36:20) trapsize 1
+\i (01:36:20) zoom out 1 
+\i (01:36:20) setwindow pcb
+\i (01:36:20) zoom out 197.119 285.187
+\i (01:36:20) trapsize 1
+\i (01:36:20) zoom out 1 
+\i (01:36:20) setwindow pcb
+\i (01:36:20) zoom out 197.120 285.187
+\i (01:36:20) trapsize 2
+\i (01:36:20) zoom out 1 
+\i (01:36:20) setwindow pcb
+\i (01:36:20) zoom out 197.120 285.186
+\i (01:36:20) trapsize 3
+\i (01:36:20) zoom out 1 
+\i (01:36:21) setwindow pcb
+\i (01:36:21) zoom out 197.119 285.187
+\i (01:36:21) trapsize 7
+\i (01:36:21) zoom out 1 
+\i (01:36:21) setwindow pcb
+\i (01:36:21) zoom out 197.120 285.186
+\t (01:36:21) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (01:36:21) trapsize 13
+\i (01:36:21) zoom out 1 
+\i (01:36:21) setwindow pcb
+\i (01:36:21) zoom out 197.119 285.186
+\t (01:36:21) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (01:36:21) trapsize 26
+\i (01:36:21) zoom in 1 
+\i (01:36:21) setwindow pcb
+\i (01:36:21) zoom in 197.467 285.160
+\t (01:36:21) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (01:36:21) trapsize 13
+\i (01:36:21) zoom in 1 
+\i (01:36:21) setwindow pcb
+\i (01:36:21) zoom in 197.472 285.160
+\t (01:36:21) Grids are drawn 0.010, 0.010 apart for enhanced viewability.
+\i (01:36:21) trapsize 7
+\i (01:36:22) zoom in 1 
+\i (01:36:22) setwindow pcb
+\i (01:36:22) zoom in 197.467 285.185
+\i (01:36:22) trapsize 3
+\i (01:36:23) zoom in 1 
+\i (01:36:23) setwindow pcb
+\i (01:36:23) zoom in 197.109 285.188
+\i (01:36:23) trapsize 2
+\i (01:36:23) zoom in 1 
+\i (01:36:23) setwindow pcb
+\i (01:36:23) zoom in 197.119 285.188
+\i (01:36:23) trapsize 1
+\i (01:36:24) zoom in 1 
+\i (01:36:24) setwindow pcb
+\i (01:36:24) zoom in 197.135 285.186
+\i (01:36:24) trapsize 1
+\i (01:36:24) zoom in 1 
+\i (01:36:24) setwindow pcb
+\i (01:36:24) zoom in 197.141 285.185
+\i (01:36:24) trapsize 1
+\i (01:36:25) zoom in 1 
+\i (01:36:25) setwindow pcb
+\i (01:36:25) zoom in 197.136 285.186
+\i (01:36:25) trapsize 1
+\i (01:36:26) zoom in 1 
+\i (01:36:26) setwindow pcb
+\i (01:36:26) zoom in 197.136 285.186
+\i (01:36:26) trapsize 1
+\i (01:36:26) zoom in 1 
+\i (01:36:26) setwindow pcb
+\i (01:36:26) zoom in 197.136 285.186
+\i (01:36:26) trapsize 1
+\i (01:42:56) zoom out 1 
+\i (01:42:56) setwindow pcb
+\i (01:42:56) zoom out 197.135 285.186
+\i (01:42:56) trapsize 1
+\i (01:42:57) zoom out 1 
+\i (01:42:57) setwindow pcb
+\i (01:42:57) zoom out 197.133 285.187
+\i (01:42:57) trapsize 1
+\i (01:42:57) zoom out 1 
+\i (01:42:57) setwindow pcb
+\i (01:42:57) zoom out 197.134 285.187
+\i (01:42:57) trapsize 1
+\i (01:42:57) zoom out 1 
+\i (01:42:57) setwindow pcb
+\i (01:42:57) zoom out 197.134 285.188
+\i (01:42:57) trapsize 2
+\i (01:42:57) zoom out 1 
+\i (01:42:57) setwindow pcb
+\i (01:42:57) zoom out 197.133 285.188
+\i (01:42:57) trapsize 3
+\i (01:42:57) zoom out 1 
+\i (01:42:57) setwindow pcb
+\i (01:42:57) zoom out 197.134 285.188
+\i (01:42:57) trapsize 7
+\i (01:42:57) zoom out 1 
+\i (01:42:57) setwindow pcb
+\i (01:42:57) zoom out 197.134 285.189
+\t (01:42:57) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (01:42:57) trapsize 13
+\i (01:42:57) zoom out 1 
+\i (01:42:57) setwindow pcb
+\i (01:42:57) zoom out 197.133 285.188
+\t (01:42:57) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (01:42:57) trapsize 26
+\i (01:42:57) zoom out 1 
+\i (01:42:57) setwindow pcb
+\i (01:42:57) zoom out 197.133 285.189
+\t (01:42:57) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (01:42:57) trapsize 53
+\i (01:42:57) zoom out 1 
+\i (01:42:57) setwindow pcb
+\i (01:42:57) zoom out 197.133 285.189
+\t (01:42:57) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (01:42:57) trapsize 105
+\i (01:42:57) zoom out 1 
+\i (01:42:57) setwindow pcb
+\i (01:42:57) zoom out 197.134 285.189
+\t (01:42:57) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (01:42:57) trapsize 211
+\i (01:42:57) zoom out 1 
+\i (01:42:57) setwindow pcb
+\i (01:42:57) zoom out 197.134 285.190
+\t (01:42:57) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (01:42:57) trapsize 421
+\i (01:42:57) zoom out 1 
+\i (01:42:57) setwindow pcb
+\i (01:42:57) zoom out 197.134 285.190
+\t (01:42:57) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (01:42:57) trapsize 842
+\i (01:42:57) zoom out 1 
+\i (01:42:58) setwindow pcb
+\i (01:42:58) zoom out 197.134 285.189
+\t (01:42:58) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (01:42:58) trapsize 1685
+\i (01:42:58) zoom in 1 
+\i (01:42:58) setwindow pcb
+\i (01:42:58) zoom in 185.312 274.745
+\t (01:42:58) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (01:42:58) trapsize 842
+\i (01:42:58) zoom in 1 
+\i (01:42:58) setwindow pcb
+\i (01:42:58) zoom in 185.312 274.745
+\t (01:42:58) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (01:42:58) trapsize 421
+\i (01:42:59) zoom in 1 
+\i (01:42:59) setwindow pcb
+\i (01:42:59) zoom in 192.219 275.335
+\t (01:42:59) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (01:42:59) trapsize 211
+\i (01:43:00) zoom out 1 
+\i (01:43:00) setwindow pcb
+\i (01:43:00) zoom out 193.778 278.746
+\t (01:43:00) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (01:43:00) trapsize 421
+\i (01:43:01) zoom in 1 
+\i (01:43:01) setwindow pcb
+\i (01:43:01) zoom in 189.987 287.339
+\t (01:43:01) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (01:43:01) trapsize 211
+\i (01:43:01) zoom in 1 
+\i (01:43:01) setwindow pcb
+\i (01:43:01) zoom in 189.987 287.339
+\t (01:43:01) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (01:43:01) trapsize 105
+\i (01:43:02) zoom out 1 
+\i (01:43:02) setwindow pcb
+\i (01:43:02) zoom out 190.661 287.908
+\t (01:43:02) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (01:43:02) trapsize 211
+\i (01:43:06) zoom in 1 
+\i (01:43:06) setwindow pcb
+\i (01:43:06) zoom in 192.809 277.421
+\t (01:43:06) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (01:43:06) trapsize 105
+\i (01:43:06) zoom in 1 
+\i (01:43:06) setwindow pcb
+\i (01:43:06) zoom in 192.809 277.422
+\t (01:43:06) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (01:43:06) trapsize 53
+\i (01:43:07) zoom in 1 
+\i (01:43:07) setwindow pcb
+\i (01:43:07) zoom in 192.809 277.422
+\t (01:43:07) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (01:43:07) trapsize 26
+\i (01:43:23) zoom out 1 
+\i (01:43:23) setwindow pcb
+\i (01:43:23) zoom out 193.130 277.270
+\t (01:43:23) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (01:43:23) trapsize 53
+\i (01:43:23) zoom out 1 
+\i (01:43:23) setwindow pcb
+\i (01:43:23) zoom out 193.130 277.270
+\t (01:43:23) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (01:43:23) trapsize 105
+\i (01:43:23) zoom out 1 
+\i (01:43:23) setwindow pcb
+\i (01:43:23) zoom out 193.131 277.269
+\t (01:43:23) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (01:43:23) trapsize 211
+\i (01:43:23) zoom out 1 
+\i (01:43:23) setwindow pcb
+\i (01:43:23) zoom out 193.130 277.269
+\t (01:43:23) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (01:43:23) trapsize 421
+\i (01:43:24) zoom in 1 
+\i (01:43:24) setwindow pcb
+\i (01:43:24) zoom in 193.804 292.768
+\t (01:43:24) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (01:43:24) trapsize 211
+\i (01:43:24) zoom in 1 
+\i (01:43:24) setwindow pcb
+\i (01:43:24) zoom in 193.804 292.768
+\t (01:43:24) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (01:43:24) trapsize 105
+\i (01:43:24) zoom in 1 
+\i (01:43:24) setwindow pcb
+\i (01:43:24) zoom in 193.130 292.200
+\t (01:43:24) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (01:43:24) trapsize 53
+\i (01:43:24) zoom in 1 
+\i (01:43:24) setwindow pcb
+\i (01:43:24) zoom in 193.131 292.180
+\t (01:43:24) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (01:43:24) trapsize 26
+\i (01:43:24) zoom in 1 
+\i (01:43:24) setwindow pcb
+\i (01:43:24) zoom in 193.126 292.180
+\t (01:43:24) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (01:43:24) trapsize 13
+\i (01:43:57) zoom out 1 
+\i (01:43:57) setwindow pcb
+\i (01:43:57) zoom out 193.655 292.164
+\t (01:43:57) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (01:43:57) trapsize 26
+\i (01:43:57) zoom out 1 
+\i (01:43:57) setwindow pcb
+\i (01:43:57) zoom out 193.654 292.165
+\t (01:43:57) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (01:43:57) trapsize 53
+\i (01:43:57) zoom out 1 
+\i (01:43:57) setwindow pcb
+\i (01:43:57) zoom out 193.643 292.165
+\t (01:43:57) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (01:43:57) trapsize 105
+\i (01:43:58) zoom out 1 
+\i (01:43:58) setwindow pcb
+\i (01:43:58) zoom out 193.643 292.166
+\t (01:43:58) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (01:43:58) trapsize 211
+\i (01:43:58) zoom out 1 
+\i (01:43:58) setwindow pcb
+\i (01:43:58) zoom out 193.642 292.165
+\t (01:43:58) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (01:43:58) trapsize 421
+\i (01:43:58) zoom out 1 
+\i (01:43:58) setwindow pcb
+\i (01:43:58) zoom out 193.812 292.082
+\t (01:43:58) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (01:43:58) trapsize 842
+\i (01:44:00) zoom out 1 
+\i (01:44:00) setwindow pcb
+\i (01:44:00) zoom out 229.863 293.935
+\t (01:44:00) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (01:44:00) trapsize 1685
+\i (01:44:00) zoom out 1 
+\i (01:44:00) setwindow pcb
+\i (01:44:00) zoom out 390.502 293.934
+\i (01:44:00) trapsize 2852
+\i (01:44:01) zoom out 1 
+\i (01:44:01) setwindow pcb
+\i (01:44:01) zoom out 661.105 277.790
+\i (01:44:01) trapsize 2852
+\i (01:44:02) zoom in 1 
+\i (01:44:02) setwindow pcb
+\i (01:44:02) zoom in 185.954 168.841
+\t (01:44:02) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (01:44:02) trapsize 1426
+\i (01:44:02) zoom in 1 
+\i (01:44:02) setwindow pcb
+\i (01:44:02) zoom in 185.954 168.842
+\t (01:44:02) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (01:44:02) trapsize 713
+\i (01:44:02) zoom in 1 
+\i (01:44:02) setwindow pcb
+\i (01:44:02) zoom in 186.097 169.270
+\t (01:44:02) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (01:44:02) trapsize 357
+\i (01:44:03) zoom in 1 
+\i (01:44:03) setwindow pcb
+\i (01:44:03) zoom in 186.454 169.698
+\t (01:44:03) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (01:44:03) trapsize 178
+\i (01:44:03) zoom in 1 
+\i (01:44:03) setwindow pcb
+\i (01:44:03) zoom in 188.058 169.877
+\t (01:44:03) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (01:44:03) trapsize 89
+\i (01:44:03) zoom in 1 
+\i (01:44:03) setwindow pcb
+\i (01:44:03) zoom in 188.058 169.877
+\t (01:44:03) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (01:44:03) trapsize 45
+\i (01:44:10) zoom out 1 
+\i (01:44:10) setwindow pcb
+\i (01:44:10) zoom out 193.245 171.169
+\t (01:44:10) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (01:44:10) trapsize 89
+\i (01:44:10) zoom out 1 
+\i (01:44:10) setwindow pcb
+\i (01:44:10) zoom out 193.244 171.169
+\t (01:44:10) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (01:44:10) trapsize 178
+\i (01:44:10) zoom out 1 
+\i (01:44:10) setwindow pcb
+\i (01:44:10) zoom out 193.245 171.169
+\t (01:44:10) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (01:44:10) trapsize 356
+\i (01:44:11) zoom in 1 
+\i (01:44:11) setwindow pcb
+\i (01:44:11) zoom in 191.962 186.285
+\t (01:44:11) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (01:44:11) trapsize 178
+\i (01:44:11) zoom in 1 
+\i (01:44:11) setwindow pcb
+\i (01:44:11) zoom in 192.034 186.249
+\t (01:44:11) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (01:44:11) trapsize 89
+\i (01:44:11) zoom in 1 
+\i (01:44:11) setwindow pcb
+\i (01:44:11) zoom in 192.034 186.249
+\t (01:44:11) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (01:44:11) trapsize 45
+\i (01:44:12) zoom out 1 
+\i (01:44:12) setwindow pcb
+\i (01:44:12) zoom out 192.159 186.134
+\t (01:44:12) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (01:44:12) trapsize 89
+\i (01:44:12) zoom in 1 
+\i (01:44:12) setwindow pcb
+\i (01:44:12) zoom in 193.175 185.082
+\t (01:44:12) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (01:44:12) trapsize 45
+\i (01:44:14) zoom out 1 
+\i (01:44:14) setwindow pcb
+\i (01:44:14) zoom out 193.344 185.082
+\t (01:44:14) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (01:44:14) trapsize 89
+\i (01:44:15) zoom out 1 
+\i (01:44:15) setwindow pcb
+\i (01:44:15) zoom out 193.344 185.082
+\t (01:44:15) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (01:44:15) trapsize 178
+\i (01:44:15) zoom out 1 
+\i (01:44:15) setwindow pcb
+\i (01:44:15) zoom out 193.345 185.081
+\t (01:44:15) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (01:44:15) trapsize 356
+\i (01:44:15) zoom out 1 
+\i (01:44:15) setwindow pcb
+\i (01:44:15) zoom out 193.346 185.082
+\t (01:44:15) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (01:44:15) trapsize 713
+\i (01:44:46) zoom out 1 
+\i (01:44:46) setwindow pcb
+\i (01:44:46) zoom out 172.241 156.705
+\t (01:44:46) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (01:44:46) trapsize 1426
+\i (01:44:46) zoom out 1 
+\i (01:44:46) setwindow pcb
+\i (01:44:46) zoom out 252.395 156.706
+\t (01:44:46) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (01:44:46) trapsize 2852
+\i (01:44:46) zoom out 1 
+\i (01:44:46) setwindow pcb
+\i (01:44:46) zoom out 504.813 225.312
+\i (01:44:46) trapsize 2852
+\i (01:45:32) zoom in 1 
+\i (01:45:32) setwindow pcb
+\i (01:45:32) zoom in 187.094 196.221
+\t (01:45:32) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (01:45:32) trapsize 1426
+\i (01:45:32) zoom in 1 
+\i (01:45:32) setwindow pcb
+\i (01:45:32) zoom in 187.094 196.221
+\t (01:45:32) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (01:45:32) trapsize 713
+\i (01:45:33) zoom in 1 
+\i (01:45:33) setwindow pcb
+\i (01:45:33) zoom in 195.651 200.214
+\t (01:45:33) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (01:45:33) trapsize 357
+\i (01:45:36) QtSignal CVPLayerGrid CVPButtonEtchBottom clicked
+\i (01:45:39) zoom out 1 
+\i (01:45:39) setwindow pcb
+\i (01:45:39) zoom out 220.464 200.285
+\t (01:45:39) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (01:45:39) trapsize 713
+\i (01:45:39) zoom out 1 
+\i (01:45:39) setwindow pcb
+\i (01:45:39) zoom out 220.464 200.286
+\t (01:45:39) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (01:45:39) trapsize 1426
+\i (01:45:42) QtSignal CVPLayerGrid CVPButtonEtchTop clicked
+\i (01:45:43) zoom in 1 
+\i (01:45:43) setwindow pcb
+\i (01:45:43) zoom in 206.203 174.332
+\t (01:45:43) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (01:45:43) trapsize 713
+\i (01:45:43) zoom in 1 
+\i (01:45:43) setwindow pcb
+\i (01:45:43) zoom in 205.633 174.332
+\t (01:45:43) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (01:45:43) trapsize 357
+\i (01:45:43) zoom in 1 
+\i (01:45:43) setwindow pcb
+\i (01:45:43) zoom in 204.778 174.474
+\t (01:45:43) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (01:45:43) trapsize 178
+\i (01:45:44) zoom out 1 
+\i (01:45:44) setwindow pcb
+\i (01:45:44) zoom out 195.794 178.681
+\t (01:45:44) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (01:45:44) trapsize 357
+\i (01:45:44) zoom out 1 
+\i (01:45:44) setwindow pcb
+\i (01:45:44) zoom out 195.794 178.682
+\t (01:45:44) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (01:45:44) trapsize 713
+\i (01:45:45) zoom out 1 
+\i (01:45:45) setwindow pcb
+\i (01:45:45) zoom out 195.792 178.682
+\t (01:45:45) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (01:45:45) trapsize 1426
+\i (01:45:45) zoom out 1 
+\i (01:45:45) setwindow pcb
+\i (01:45:45) zoom out 195.793 178.681
+\t (01:45:45) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (01:45:45) trapsize 2852
+\i (01:45:45) zoom out 1 
+\i (01:45:45) setwindow pcb
+\i (01:45:45) zoom out 238.431 229.305
+\i (01:45:45) trapsize 2852
+\i (01:45:46) zoom in 1 
+\i (01:45:46) setwindow pcb
+\i (01:45:46) zoom in 191.087 281.212
+\t (01:45:46) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (01:45:46) trapsize 1426
+\i (01:45:46) zoom in 1 
+\i (01:45:46) setwindow pcb
+\i (01:45:46) zoom in 191.088 281.782
+\t (01:45:46) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (01:45:46) trapsize 713
+\i (01:45:47) zoom in 1 
+\i (01:45:47) setwindow pcb
+\i (01:45:47) zoom in 191.088 281.782
+\t (01:45:47) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (01:45:47) trapsize 357
+\i (01:45:48) zoom out 1 
+\i (01:45:48) setwindow pcb
+\i (01:45:48) zoom out 191.017 283.707
+\t (01:45:48) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (01:45:48) trapsize 713
+\i (01:45:48) zoom out 1 
+\i (01:45:48) setwindow pcb
+\i (01:45:48) zoom out 191.016 283.708
+\t (01:45:48) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (01:45:48) trapsize 1426
+\i (01:45:49) zoom out 1 
+\i (01:45:49) setwindow pcb
+\i (01:45:49) zoom out 190.869 283.707
+\t (01:45:49) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (01:45:49) trapsize 2852
+\i (01:45:50) zoom in 1 
+\i (01:45:50) setwindow pcb
+\i (01:45:50) zoom in 203.636 183.672
+\t (01:45:50) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (01:45:50) trapsize 1426
+\i (01:45:50) zoom in 1 
+\i (01:45:50) setwindow pcb
+\i (01:45:50) zoom in 197.429 183.672
+\t (01:45:50) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (01:45:50) trapsize 713
+\i (01:45:51) zoom in 1 
+\i (01:45:51) setwindow pcb
+\i (01:45:51) zoom in 197.429 183.672
+\t (01:45:51) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (01:45:51) trapsize 357
+\i (01:45:51) zoom in 1 
+\i (01:45:51) setwindow pcb
+\i (01:45:51) zoom in 201.066 180.820
+\t (01:45:51) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (01:45:51) trapsize 178
+\i (01:45:59) QtSignal CVPLayerGrid CVPButtonEtchBottom clicked
+\i (01:46:01) QtSignal CVPLayerGrid CVPButtonEtchTop clicked
+\i (01:46:03) QtSignal CVPLayerGrid CVPButtonEtchBottom clicked
+\i (01:46:04) zoom out 1 
+\i (01:46:04) setwindow pcb
+\i (01:46:04) zoom out 232.866 189.769
+\t (01:46:04) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (01:46:04) trapsize 357
+\i (01:46:04) zoom out 1 
+\i (01:46:04) setwindow pcb
+\i (01:46:04) zoom out 232.866 189.768
+\t (01:46:04) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (01:46:04) trapsize 713
+\i (01:46:04) zoom out 1 
+\i (01:46:04) setwindow pcb
+\i (01:46:04) zoom out 232.867 189.768
+\t (01:46:04) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (01:46:04) trapsize 1426
+\i (01:46:04) zoom out 1 
+\i (01:46:04) setwindow pcb
+\i (01:46:04) zoom out 370.763 189.769
+\t (01:46:04) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (01:46:04) trapsize 2852
+\i (01:46:04) zoom out 1 
+\i (01:46:04) setwindow pcb
+\i (01:46:04) zoom out 741.533 304.028
+\i (01:46:04) trapsize 2852
+\i (01:51:57) zoom in 1 
+\i (01:51:57) setwindow pcb
+\i (01:51:57) zoom in 229.875 231.586
+\t (01:51:57) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (01:51:57) trapsize 1426
+\i (01:51:57) zoom in 1 
+\i (01:51:57) setwindow pcb
+\i (01:51:57) zoom in 210.548 231.586
+\t (01:51:57) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (01:51:57) trapsize 713
+\i (01:51:57) zoom in 1 
+\i (01:51:57) setwindow pcb
+\i (01:51:57) zoom in 200.709 232.300
+\t (01:51:57) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (01:51:57) trapsize 357
+\i (01:51:59) zoom out 1 
+\i (01:51:59) setwindow pcb
+\i (01:51:59) zoom out 204.988 231.801
+\t (01:51:59) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (01:51:59) trapsize 713
+\i (01:51:59) zoom out 1 
+\i (01:51:59) setwindow pcb
+\i (01:51:59) zoom out 204.987 231.800
+\t (01:51:59) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (01:51:59) trapsize 1426
+\i (01:52:00) zoom in 1 
+\i (01:52:00) setwindow pcb
+\i (01:52:00) zoom in 198.428 249.484
+\t (01:52:00) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (01:52:00) trapsize 713
+\i (01:52:00) zoom in 1 
+\i (01:52:00) setwindow pcb
+\i (01:52:00) zoom in 197.145 251.338
+\t (01:52:00) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (01:52:00) trapsize 357
+\i (01:52:00) zoom in 1 
+\i (01:52:00) setwindow pcb
+\i (01:52:00) zoom in 196.646 252.122
+\t (01:52:00) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (01:52:00) trapsize 178
+\i (01:52:03) zoom out 1 
+\i (01:52:03) setwindow pcb
+\i (01:52:03) zoom out 200.068 253.762
+\t (01:52:03) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (01:52:03) trapsize 357
+\i (01:52:03) zoom out 1 
+\i (01:52:03) setwindow pcb
+\i (01:52:03) zoom out 200.068 253.763
+\t (01:52:03) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (01:52:03) trapsize 713
+\i (01:52:03) zoom out 1 
+\i (01:52:03) setwindow pcb
+\i (01:52:03) zoom out 200.068 253.763
+\t (01:52:03) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (01:52:03) trapsize 1426
+\i (01:52:05) zoom in 1 
+\i (01:52:05) setwindow pcb
+\i (01:52:05) zoom in 192.083 254.334
+\t (01:52:05) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (01:52:05) trapsize 713
+\i (01:52:05) zoom in 1 
+\i (01:52:05) setwindow pcb
+\i (01:52:05) zoom in 191.941 255.048
+\t (01:52:05) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (01:52:05) trapsize 357
+\i (01:52:05) zoom in 1 
+\i (01:52:05) setwindow pcb
+\i (01:52:05) zoom in 191.941 255.048
+\t (01:52:05) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (01:52:05) trapsize 178
+\i (01:52:06) zoom in 1 
+\i (01:52:06) setwindow pcb
+\i (01:52:06) zoom in 191.941 255.191
+\t (01:52:06) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (01:52:06) trapsize 89
+\i (01:52:06) zoom in 1 
+\i (01:52:06) setwindow pcb
+\i (01:52:06) zoom in 191.941 255.209
+\t (01:52:06) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (01:52:06) trapsize 45
+\i (01:52:07) zoom out 1 
+\i (01:52:07) setwindow pcb
+\i (01:52:07) zoom out 192.003 255.298
+\t (01:52:07) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (01:52:07) trapsize 89
+\i (01:52:07) zoom out 1 
+\i (01:52:07) setwindow pcb
+\i (01:52:07) zoom out 192.004 255.298
+\t (01:52:07) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (01:52:07) trapsize 178
+\i (01:52:08) zoom out 1 
+\i (01:52:08) setwindow pcb
+\i (01:52:08) zoom out 192.039 255.298
+\t (01:52:08) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (01:52:08) trapsize 356
+\i (01:52:08) zoom out 1 
+\i (01:52:08) setwindow pcb
+\i (01:52:08) zoom out 192.039 255.298
+\t (01:52:08) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (01:52:08) trapsize 713
+\i (01:52:11) zoom out 1 
+\i (01:52:11) setwindow pcb
+\i (01:52:11) zoom out 192.609 254.443
+\t (01:52:11) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (01:52:11) trapsize 1426
+\i (01:52:14) zoom in 1 
+\i (01:52:14) setwindow pcb
+\i (01:52:14) zoom in 180.630 294.655
+\t (01:52:14) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (01:52:14) trapsize 713
+\i (01:52:15) zoom in 1 
+\i (01:52:15) setwindow pcb
+\i (01:52:15) zoom in 188.331 295.511
+\t (01:52:15) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (01:52:15) trapsize 356
+\i (01:52:16) zoom in 1 
+\i (01:52:16) setwindow pcb
+\i (01:52:16) zoom in 209.791 263.498
+\t (01:52:16) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (01:52:16) trapsize 178
+\i (01:52:16) zoom in 1 
+\i (01:52:16) setwindow pcb
+\i (01:52:16) zoom in 209.792 263.498
+\t (01:52:16) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (01:52:16) trapsize 89
+\i (01:52:18) zoom in 1 
+\i (01:52:18) setwindow pcb
+\i (01:52:18) zoom in 208.740 264.068
+\t (01:52:18) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (01:52:18) trapsize 45
+\i (01:52:18) zoom in 1 
+\i (01:52:18) setwindow pcb
+\i (01:52:18) zoom in 208.732 264.068
+\t (01:52:18) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (01:52:18) trapsize 22
+\i (01:52:18) zoom in 1 
+\i (01:52:18) setwindow pcb
+\i (01:52:18) zoom in 208.719 264.060
+\t (01:52:18) Grids are drawn 0.010, 0.010 apart for enhanced viewability.
+\i (01:52:18) trapsize 11
+\i (01:52:18) zoom in 1 
+\i (01:52:18) setwindow pcb
+\i (01:52:18) zoom in 208.718 264.058
+\i (01:52:18) trapsize 6
+\i (01:52:24) zoom in 1 
+\i (01:52:24) setwindow pcb
+\i (01:52:24) zoom in 208.699 264.061
+\i (01:52:24) trapsize 3
+\i (01:52:24) zoom in 1 
+\i (01:52:24) setwindow pcb
+\i (01:52:24) zoom in 208.699 264.061
+\i (01:52:24) trapsize 1
+\i (01:52:24) zoom in 1 
+\i (01:52:24) setwindow pcb
+\i (01:52:24) zoom in 208.699 264.062
+\i (01:52:24) trapsize 1
+\i (01:52:24) zoom in 1 
+\i (01:52:24) setwindow pcb
+\i (01:52:24) zoom in 208.698 264.062
+\i (01:52:24) trapsize 1
+\i (01:52:24) zoom in 1 
+\i (01:52:24) setwindow pcb
+\i (01:52:24) zoom in 208.698 264.063
+\i (01:52:24) trapsize 1
+\i (01:52:24) zoom in 1 
+\i (01:52:24) setwindow pcb
+\i (01:52:24) zoom in 208.698 264.063
+\i (01:52:24) trapsize 1
+\i (01:52:24) zoom in 1 
+\i (01:52:24) setwindow pcb
+\i (01:52:24) zoom in 208.697 264.063
+\i (01:52:24) trapsize 1
+\i (01:52:40) pick grid 208.697 264.066
+\t (01:52:40) last pick:  208.695 264.065
+\i (01:52:41) zoom out 1 
+\i (01:52:41) setwindow pcb
+\i (01:52:41) zoom out 208.697 264.066
+\i (01:52:41) trapsize 1
+\i (01:52:41) zoom out 1 
+\i (01:52:41) setwindow pcb
+\i (01:52:41) zoom out 208.697 264.066
+\i (01:52:41) trapsize 1
+\i (01:52:41) zoom out 1 
+\i (01:52:41) setwindow pcb
+\i (01:52:41) zoom out 208.697 264.066
+\i (01:52:41) trapsize 1
+\i (01:52:41) zoom out 1 
+\i (01:52:41) setwindow pcb
+\i (01:52:41) zoom out 208.696 264.066
+\i (01:52:41) trapsize 2
+\i (01:52:41) zoom out 1 
+\i (01:52:41) setwindow pcb
+\i (01:52:41) zoom out 208.696 264.067
+\i (01:52:41) trapsize 3
+\i (01:52:41) zoom out 1 
+\i (01:52:41) setwindow pcb
+\i (01:52:41) zoom out 208.697 264.067
+\i (01:52:41) trapsize 7
+\i (01:52:41) zoom out 1 
+\i (01:52:41) setwindow pcb
+\i (01:52:41) zoom out 208.696 264.067
+\t (01:52:41) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (01:52:41) trapsize 13
+\i (01:52:41) zoom out 1 
+\i (01:52:41) setwindow pcb
+\i (01:52:41) zoom out 208.696 264.063
+\t (01:52:41) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (01:52:41) trapsize 26
+\i (01:52:41) zoom out 1 
+\i (01:52:41) setwindow pcb
+\i (01:52:41) zoom out 208.696 264.064
+\t (01:52:41) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (01:52:41) trapsize 53
+\i (01:52:42) zoom out 1 
+\i (01:52:42) setwindow pcb
+\i (01:52:42) zoom out 208.696 264.064
+\t (01:52:42) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (01:52:42) trapsize 105
+\i (01:52:42) zoom out 1 
+\i (01:52:42) setwindow pcb
+\i (01:52:42) zoom out 208.696 264.064
+\t (01:52:42) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (01:52:42) trapsize 211
+\i (01:52:42) zoom out 1 
+\i (01:52:42) setwindow pcb
+\i (01:52:42) zoom out 208.696 264.065
+\t (01:52:42) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (01:52:42) trapsize 421
+\i (01:52:42) zoom out 1 
+\i (01:52:42) setwindow pcb
+\i (01:52:42) zoom out 208.695 264.064
+\t (01:52:42) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (01:52:42) trapsize 842
+\i (01:52:42) zoom out 1 
+\i (01:52:42) setwindow pcb
+\i (01:52:42) zoom out 208.696 264.065
+\t (01:52:42) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (01:52:42) trapsize 1685
+\i (01:52:42) zoom out 1 
+\i (01:52:42) setwindow pcb
+\i (01:52:42) zoom out 236.862 264.065
+\i (01:52:42) trapsize 2852
+\i (01:52:43) zoom in 1 
+\i (01:52:43) setwindow pcb
+\i (01:52:43) zoom in 271.515 296.043
+\t (01:52:43) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (01:52:43) trapsize 1426
+\i (01:52:43) zoom in 1 
+\i (01:52:43) setwindow pcb
+\i (01:52:43) zoom in 231.368 296.043
+\t (01:52:43) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (01:52:43) trapsize 713
+\i (01:52:43) zoom in 1 
+\i (01:52:43) setwindow pcb
+\i (01:52:43) zoom in 231.369 296.044
+\t (01:52:43) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (01:52:43) trapsize 357
+\i (01:52:43) zoom in 1 
+\i (01:52:43) setwindow pcb
+\i (01:52:43) zoom in 230.728 295.759
+\t (01:52:43) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (01:52:43) trapsize 178
+\i (01:52:45) zoom out 1 
+\i (01:52:45) setwindow pcb
+\i (01:52:45) zoom out 245.415 291.837
+\t (01:52:45) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (01:52:45) trapsize 357
+\i (01:52:45) zoom out 1 
+\i (01:52:45) setwindow pcb
+\i (01:52:45) zoom out 245.416 291.838
+\t (01:52:45) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (01:52:45) trapsize 713
+\i (01:52:46) zoom in 1 
+\i (01:52:46) setwindow pcb
+\i (01:52:46) zoom in 202.207 291.552
+\t (01:52:46) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (01:52:46) trapsize 357
+\i (01:52:46) zoom in 1 
+\i (01:52:46) setwindow pcb
+\i (01:52:46) zoom in 201.708 290.696
+\t (01:52:46) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (01:52:46) trapsize 178
+\i (01:52:46) zoom in 1 
+\i (01:52:46) setwindow pcb
+\i (01:52:46) zoom in 201.708 290.696
+\t (01:52:46) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (01:52:46) trapsize 89
+\i (01:52:47) zoom in 1 
+\i (01:52:47) setwindow pcb
+\i (01:52:47) zoom in 201.708 290.696
+\t (01:52:47) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (01:52:47) trapsize 45
+\i (01:52:47) zoom in 1 
+\i (01:52:47) setwindow pcb
+\i (01:52:47) zoom in 201.343 290.857
+\t (01:52:47) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (01:52:47) trapsize 22
+\i (01:52:48) zoom in 1 
+\i (01:52:48) setwindow pcb
+\i (01:52:48) zoom in 201.080 291.165
+\t (01:52:48) Grids are drawn 0.010, 0.010 apart for enhanced viewability.
+\i (01:52:48) trapsize 11
+\i (01:52:48) zoom in 1 
+\i (01:52:48) setwindow pcb
+\i (01:52:48) zoom in 201.079 291.165
+\i (01:52:48) trapsize 6
+\i (01:52:48) zoom in 1 
+\i (01:52:48) setwindow pcb
+\i (01:52:48) zoom in 201.079 291.165
+\i (01:52:48) trapsize 3
+\i (01:52:48) zoom in 1 
+\i (01:52:48) setwindow pcb
+\i (01:52:48) zoom in 201.079 291.166
+\i (01:52:48) trapsize 1
+\i (01:52:49) zoom in 1 
+\i (01:52:49) setwindow pcb
+\i (01:52:49) zoom in 201.130 291.182
+\i (01:52:49) trapsize 1
+\i (01:52:49) zoom in 1 
+\i (01:52:49) setwindow pcb
+\i (01:52:49) zoom in 201.129 291.183
+\i (01:52:49) trapsize 1
+\i (01:52:49) zoom in 1 
+\i (01:52:49) setwindow pcb
+\i (01:52:49) zoom in 201.132 291.184
+\i (01:52:49) trapsize 1
+\i (02:27:41) zoom out 1 
+\i (02:27:41) setwindow pcb
+\i (02:27:41) zoom out 201.133 291.177
+\i (02:27:41) trapsize 1
+\i (02:27:41) zoom out 1 
+\i (02:27:41) setwindow pcb
+\i (02:27:41) zoom out 201.133 291.177
+\i (02:27:41) trapsize 1
+\i (02:27:41) zoom out 1 
+\i (02:27:41) setwindow pcb
+\i (02:27:41) zoom out 201.133 291.176
+\i (02:27:41) trapsize 1
+\i (02:27:41) zoom out 1 
+\i (02:27:41) setwindow pcb
+\i (02:27:41) zoom out 201.134 291.177
+\i (02:27:41) trapsize 3
+\i (02:27:41) zoom out 1 
+\i (02:27:41) setwindow pcb
+\i (02:27:41) zoom out 201.134 291.177
+\i (02:27:41) trapsize 6
+\i (02:27:41) zoom out 1 
+\i (02:27:41) setwindow pcb
+\i (02:27:41) zoom out 201.133 291.177
+\i (02:27:41) trapsize 11
+\i (02:27:41) zoom out 1 
+\i (02:27:41) setwindow pcb
+\i (02:27:41) zoom out 201.133 291.177
+\t (02:27:41) Grids are drawn 0.020, 0.020 apart for enhanced viewability.
+\i (02:27:41) trapsize 22
+\i (02:27:41) zoom out 1 
+\i (02:27:41) setwindow pcb
+\i (02:27:41) zoom out 201.134 291.176
+\t (02:27:41) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (02:27:41) trapsize 44
+\i (02:27:41) zoom out 1 
+\i (02:27:41) setwindow pcb
+\i (02:27:41) zoom out 201.133 291.176
+\t (02:27:41) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (02:27:41) trapsize 89
+\i (02:27:42) zoom out 1 
+\i (02:27:42) setwindow pcb
+\i (02:27:42) zoom out 201.133 291.177
+\t (02:27:42) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (02:27:42) trapsize 178
+\i (02:27:42) zoom out 1 
+\i (02:27:42) setwindow pcb
+\i (02:27:42) zoom out 201.134 291.176
+\t (02:27:42) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (02:27:42) trapsize 355
+\i (02:27:42) zoom out 1 
+\i (02:27:42) setwindow pcb
+\i (02:27:42) zoom out 201.134 291.177
+\t (02:27:42) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (02:27:42) trapsize 711
+\i (02:27:42) zoom out 1 
+\i (02:27:42) setwindow pcb
+\i (02:27:42) zoom out 201.135 291.177
+\t (02:27:42) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (02:27:42) trapsize 1421
+\i (02:27:43) zoom out 1 
+\i (02:27:43) setwindow pcb
+\i (02:27:43) zoom out 207.817 291.177
+\t (02:27:43) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (02:27:43) trapsize 2852
+\i (02:27:46) zoom in 1 
+\i (02:27:46) setwindow pcb
+\i (02:27:46) zoom in 163.137 186.524
+\t (02:27:46) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (02:27:46) trapsize 1426
+\i (02:27:52) zoom in 1 
+\i (02:27:52) setwindow pcb
+\i (02:27:52) zoom in 152.585 145.169
+\t (02:27:52) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (02:27:52) trapsize 713
+\i (02:28:30) zoom out 1 
+\i (02:28:30) setwindow pcb
+\i (02:28:30) zoom out 183.102 174.403
+\t (02:28:30) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (02:28:30) trapsize 1426
+\i (02:28:31) zoom out 1 
+\i (02:28:31) setwindow pcb
+\i (02:28:31) zoom out 179.394 174.403
+\t (02:28:31) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (02:28:31) trapsize 2852
+\i (02:28:31) zoom out 1 
+\i (02:28:31) setwindow pcb
+\i (02:28:31) zoom out 256.684 220.749
+\i (02:28:31) trapsize 2852
+\i (02:28:32) zoom in 1 
+\i (02:28:32) setwindow pcb
+\i (02:28:32) zoom in 155.722 139.180
+\t (02:28:32) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (02:28:32) trapsize 1426
+\i (02:28:32) zoom in 1 
+\i (02:28:32) setwindow pcb
+\i (02:28:32) zoom in 155.722 139.180
+\t (02:28:32) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (02:28:32) trapsize 713
+\i (02:28:32) zoom in 1 
+\i (02:28:32) setwindow pcb
+\i (02:28:32) zoom in 158.717 137.041
+\t (02:28:32) Grids are drawn 0.320, 0.320 apart for enhanced viewability.
+\i (02:28:32) trapsize 357
+\i (02:30:01) zoom out 1 
+\i (02:30:01) setwindow pcb
+\i (02:30:01) zoom out 179.680 147.950
+\t (02:30:01) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (02:30:01) trapsize 713
+\i (02:30:01) zoom out 1 
+\i (02:30:01) setwindow pcb
+\i (02:30:01) zoom out 179.680 148.093
+\t (02:30:01) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (02:30:01) trapsize 1426
+\i (02:30:03) zoom in 1 
+\i (02:30:03) setwindow pcb
+\i (02:30:03) zoom in 218.183 177.754
+\t (02:30:03) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (02:30:03) trapsize 713
+\i (02:30:04) zoom out 1 
+\i (02:30:04) setwindow pcb
+\i (02:30:04) zoom out 218.611 173.049
+\t (02:30:04) Grids are drawn 1.280, 1.280 apart for enhanced viewability.
+\i (02:30:04) trapsize 1426
+\i (03:52:00) exit 
+\e (03:52:00) Do you want to save the changes you made to TIDC-CC-Antenna-DK-Ver2_2.brd?
+\i (03:52:10) fillin no 
+\t (03:52:10)     Journal end - Mon Apr 17 23:47:47 2017

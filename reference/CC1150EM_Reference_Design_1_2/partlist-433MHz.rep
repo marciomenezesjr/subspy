@@ -1,0 +1,35 @@
+                    PART LIST                     
+            ==========================            
+
+Ref.        Description                   Value
+
+C1          Capacitor 0805                C_1U_0805_X7R_K_16            
+C31         Capacitor 0402                C_100N_0402_X5R_K_10          
+C32         Capacitor 0402                C_220P_0402_NP0_J_50          
+C41         Capacitor 0402                C_100N_0402_X5R_K_10          
+C51         Capacitor 0402                C_27P_0402_NP0_J_50           
+C61         Capacitor 0402                C_10N_0402_X7R_K_25           
+C71         Capacitor 0402                C_27P_0402_NP0_J_50           
+C101        Capacitor 0402                C_3P9_0402_NP0_J_50           
+C102        Capacitor 0402                C_8P2_0402_NP0_J_50           
+C103        Capacitor 0402                C_5P6_0402_NP0_C_50           
+C104        Capacitor 0402                C_220P_0402_NP0_J_50          
+C105        Capacitor 0402                C_220P_0402_NP0_J_50          
+C111        Capacitor 0402                C_3P9_0402_NP0_J_50           
+C121        Capacitor 0402                C_10N_0402_X7R_K_25           
+C131        Capacitor 0402                C_220P_0402_NP0_J_50          
+C151        Capacitor 0402                C_220P_0402_NP0_J_50          
+FM1         Fiducial mark                 FIDUCIAL_MARK                 
+FM2         Fiducial mark                 FIDUCIAL_MARK                 
+FM3         Fiducial mark                 FIDUCIAL_MARK                 
+L1          EMI filter bead               L_BEAD_102_0402               
+L101        Inductor 0402                 L_27N_0402_J                  
+L102        Inductor, 0402                L_22N_0402_J                  
+L103        Inductor 0402                 L_27N_0402_J                  
+L111        Inductor 0402                 L_27N_0402_J                  
+P1          SMD pinrow socket, .050 spacinSMD_SOCKET_2x10               
+P2          SMD pinrow socket, .050 spacinSMD_SOCKET_2x10               
+P3          Surface-mount SMA, straight   SMA_SMD                       
+R141        Resistor 0402                 R_56K_0402_F                  
+U1          Single chip transceiver       CC1150                        
+X1          Crystal, HC-49/NX5032-SMD     X_26.000/10/10/10/16          

@@ -1,0 +1,20 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : LAUNCHXL-CC1350.brd                           )
+(    Software Version : 16.6S026                                      )
+(    Date/Time        : Thu Oct 22 09:42:31 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+ERROR:   Could not find symbol:  C62 / CAPACITOR_CAPC0603X35L_2PF_CAPC / CAPC0603X35L
+
+
+Placed 0 of 1 applicable (1 total) symbols.
+
+-----------------------------------------------------------------------
+
